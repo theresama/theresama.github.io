@@ -1,0 +1,347 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption {
+     margin: 0;
+     padding: 0;
+     border: 0;
+ }
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+.fa{
+	cursor: pointer;
+	color: #333;
+	transition: color 0.3s ease;
+}
+
+.fa:hover{
+	color: #01abc9;
+}
+
+footer{
+	position: fixed;
+	bottom: -100px;
+	width: 100%;
+}
+
+.mobile-footer{
+	display: none;
+}
+
+.dock{
+	height: 7vh;
+	background: #eee;
+	z-index: -2;
+		
+	.fa{
+		margin-top: -20px;
+	}
+
+	.active{
+		color: #1abc9c !important;
+		transition: color 0.5s ease;
+	}
+}
+
+.fa-times:before {
+content: "\f00d" !important;
+}
+.top-nav{
+	background: transparent;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	padding: 30px;
+	overflow: hidden;
+}
+
+.tabs{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: transparent
+}
+
+.default-tab{
+	background: white;
+	z-index: 9;
+}
+
+.about-tab{
+	background: white;
+	z-index: 8;
+}
+
+.portfolio-tab{
+	background: white;
+	z-index: 7;
+}
+
+.minimized-icon{
+	background: transparent;
+	z-index: 99 !important;
+}
+
+.shadow{
+	position: fixed;
+	width: 1px;
+	height: 3px;
+	box-shadow: 40px 23px 25px 11px #999;
+	background: none;
+	z-index: -1;
+}
+
+.mainpage{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	background: white;
+}
+
+.body-info{
+	width: 40%;
+	margin: auto;
+	text-align: center;
+	max-height: 90%;
+}
+
+.project-wrapper{
+}
+
+.project-info{
+	max-height: 90%;
+	overflow: auto;
+	margin-top: 50px;
+	padding-bottom:50px;
+}
+
+.project-row{
+	margin: 30px 0px;
+}
+
+.proj-box{
+	margin: 15px 0px;
+	height: 260px;
+	max-height: 100%;
+	overflow: hidden;
+}
+
+.proj-title{
+	font-size: 1.5em;
+	font-size: 2vw;
+}
+
+.proj-open{
+	.proj-title{
+		font-size: 2em;
+		font-size: 3.5vw;
+	}
+
+	.desc-body{
+		opacity: 1;
+		
+		.hide-arrow{
+			position: absolute;
+			bottom: 10%;
+			left: 5px;
+		}
+
+		.hide-arrow:hover{
+			color: #01abc9;
+			transition: color 0.3s ease;
+			.fa{
+				color: #01abc9;
+			}
+		}
+	}
+
+	.proj-details{
+		opacity: 0;
+	}
+
+	p{
+		font-size: 1.3vw;
+	}
+}
+
+.proj-cover{
+	width: 100%;
+	margin: 15px 0px;
+	cursor: pointer;
+	.right-side{
+		left: 50%;
+	}
+}
+
+.proj-cover:hover{
+	.info-overlay{
+		opacity: 0.9;
+		transition: all 0.5s ease;
+	}
+}
+
+.info-overlay{
+	position: absolute;
+	width: 50%;
+	padding-right: 5%;
+	height: 100%;
+	background: white;
+	opacity: 0;
+	transition: all 0.5s ease;
+}
+
+.proj-date{
+	margin: 20px 0px;
+}
+
+.desc-body{
+	width: 80%;
+	float:right;
+	opacity: 0;
+}
+
+.proj-details{
+	position: absolute;
+	bottom: 30%;
+	left: 15%;
+}
+
+.proj-details:hover{
+	color: #01abc9;
+	transition: color 0.3s ease;
+	.fa{
+		color: #01abc9;
+	}
+}
+
+.about-title{
+	margin-top: 4em;
+	margin-top:20vh;
+}
+
+.hide{
+	position: fixed;
+	
+}
+
+h1, h2{
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.explanation{
+	font: 1.2em 'Montserrat', sans-serif;
+	text-align: justify;
+	margin-top:30px;
+}
+
+.name{
+	font-size: 4.5em;
+	color: #333;
+	margin: 0px;
+	margin-top: 35vh;
+}
+
+.title{
+	font-size: 1.7em;
+	color: #333;
+	margin: 0px;
+}
+
+.contact{
+	margin-top: 10px;
+	color: #333;
+	li{
+		list-style: none;
+		padding-left: 0px;
+		display: inline;
+		font-size: 0.9em;
+		margin: 10px 20px;
+	}
+
+	a {
+		color: #333;
+	}
+}
+
+@media (max-width: 735px){
+
+	.top-nav{
+		display: none;
+	}
+
+	.tabs{
+		position: relative;
+		height: auto;
+		margin-bottom:50px;
+	}
+
+	.mainpage{
+		position: relative;
+		width: 100%;
+		height: auto;
+	}
+
+	.body-info{
+		width: 80%;
+	}
+
+	.proj-box{
+		width: 100%;
+		height: 100%;
+	}
+
+	.proj-cover{
+		.right-side{
+			left: 0px;
+		}
+	}
+
+	.info-overlay{
+		width: 100%;
+		padding: 10%;
+		overflow: auto;
+	}
+
+	.desc-body{
+		p{
+			font-size: 14px;
+		}
+	}
+
+	.hide-arrow{
+		display: none;
+	}
+
+	.blog-tab{
+		display: none;
+	}
+	
+	.col-xs-12{
+		width: 90%;
+		float: none;
+		margin: auto;
+	}
+
+	footer{
+		display: none;
+	}
+
+	.mobile-footer{
+		width: 70%;
+		margin: auto;
+		margin-bottom: 50px;
+		margin-top: -40px;
+		display: block;
+	}
+
+	h1{
+		text-align: center;
+	}
+
+	.proj-title{
+		font-size: 200%;
+	}
+}

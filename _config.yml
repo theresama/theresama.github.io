@@ -1,2 +1,14 @@
 highlighter: pygments
 github: [Repository metadata]
+# Site settings
+title: Theresa Ma
+email: theresa.ma@mail.utoronto.ca
+description: > # this means to ignore newlines until "baseurl:"
+  Aspiring software engineer dabbling in design; computer & cognitive science student at the University of Toronto.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://theresa-ma.com" # the base hostname & protocol for your site
+twitter_username: theresamatweets
+github_username:  theresama
+
+# Build settings
+markdown: kramdown

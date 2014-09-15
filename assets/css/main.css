@@ -147,10 +147,9 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  background: #424242;
-  border-bottom: 1px solid #e8e8e8;
-  height: 40px;
+  border-top: 5px solid #333;
+  background: #333;
+  height: 43px;
   position: relative; }
 
 .site-title {
@@ -471,17 +470,26 @@ pre {
 
 .sidebar-panel {
   width: 300px;
-  background: #424242;
+  background: #F1498D;
   display: none; }
 
+.caret-up:before {
+  content: "\f0d8" !important; }
+
 .links {
+  padding: 20px 0px;
   font-family: 'Montserrat', sans-serif; }
+  .links a {
+    color: white;
+    text-decoration: none; }
+  .links a:hover {
+    border-bottom: 1px solid #3CD7D9; }
   .links ul {
     list-style-type: none; }
   .links .title-link {
     font-size: 1.5em;
     line-height: 2em; }
   .links .sub-link {
-    line-height: 1.7em; }
+    line-height: 1.8em; }
 
 /*# sourceMappingURL=main.css.map */

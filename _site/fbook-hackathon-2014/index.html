@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Facebook Hackathon 2014</title>
+    <meta name="description" content="">
+
+    <link rel="icon" type="image/png" href="/assets/images/favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="canonical" href="/fbook-hackathon-2014">
+
+     <script>
+    //   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    //   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    //   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    //   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    //   ga('create', 'UA-43805631-1', 'auto');
+    //   ga('send', 'pageview');
+
+    </script>
+
+</head>
+
+
+  <body>
+
+    
+
+    <header class="site-header">
+  <nav class="head-wrapper">
+    <div class="sidebar-icon">
+      <i class="fa fa-caret-down fa-2x open-panel"></i>
+    </div>
+    <div class="header-logo">
+      <h1 class="name">
+        theresa ma
+      </h1>
+    </div>
+  </nav>
+
+  <aside class="sidebar-panel">
+    <nav class="links">
+      <ul>
+        <a href="/#"><li class="title-link">Home</li></a>
+        <a href="/about"><li class="title-link">About</li></a>
+        <li class="title-link">Projects</li>
+          <ul>
+            <a href="/sa-dashboard">
+              <li class="sub-link">StackAdapt Dashboard UI</li>
+            </a>
+            <a href="/sa-site">
+              <li class="sub-link">StackAdapt Website</li>
+            </a>
+            <a href="/sa-native-ads">
+              <li class="sub-link">StackAdapt Native Ad Units</li>
+            </a>
+            <a href="/lotr">
+              <li class="sub-link">To End of Days</li>
+            </a>
+            <a href="/another-brick-in-the-wall">
+              <li class="sub-link">Another Brick in The Wall</li>
+            </a>
+            <a href="/fbook-hackathon-2014">
+              <li class="sub-link">Facebook Hackathon 2014</li>
+            </a>
+          </ul>
+        <li class="title-link">Contact</li>
+        <li class="title-link">Resumé</li>
+        <li class="title-link">Blog</li>
+      </ul>
+    </nav>
+  </aside>
+
+  <script>
+    $(function(){
+      var height = $(window).height();
+
+      $('.open-panel').click(function(event) {
+        $('.sidebar-panel').css('height', height);
+        $('.sidebar-panel').toggle(400);
+        $('.open-panel').toggleClass('caret-up');
+      });
+    })
+  </script>
+
+</header>
+
+
+    <main>
+      <div class="row">
+        <div class="page-content">
+          <div class="wrapper">
+            <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Facebook Hackathon 2014</h1>
+    <p class="post-meta">Jan 24, 2013</p>
+  </header>
+
+  <article class="post-content">
+    <p>My partner (Ryan Lam) and I hacked together&nbsp;<strong><a href="http://theresa-ma.com/filter/">#filter: a Chrome Extension for Facebook</a>.&nbsp;</strong></p>
+<p>I'm sure everyone reading this is decent enough not to ever need a "filter", but the idea was, it would filter your posts and comments before allowing you to post something it detects as ~potentially unkind~. A pretty simple idea.</p>
+<p>Finished code is only 63 lines - so why'd it take almost 17 hours?&nbsp;</p>
+<p>We started the hackathon with no idea as to how to write a Chrome Extension; we spent the first couple hours reading up on how it worked and fiddling around with demo extensions. Next step was planning out the functions and writing the Javascript.</p>
+<p><strong>Basically four functions to it:</strong></p>
+<ol>
+<li>getting the button click action of "Post" or the enter keystroke for comments</li>
+<li>getting the message that was typed in</li>
+<li>using regex to match phrases</li>
+<li>popping an alert on matched regex phrases</li>
+</ol>
+<p><strong>Getting the "Post" button</strong> - We inspected the element to find&nbsp;</p>
+<pre><code>&lt;button value="1" class="_42ft _42fu _11b selected _42g-" type="submit"&gt;
+     ::before
+     "Post"
+&lt;/button&gt;<br /></code></pre>
+<p>Talking to one of the Facebook engineers, Owen (most helpful guy ever - thanks Owen!), he suggested that we instead grab it using&nbsp;</p>
+<pre><code>document.querySelectorAll('button[value="1"][type="submit"]')[0]</code></pre>
+<p>Cool! From there, we added an event listener to handle the click to trigger the rest of the functions and prevent the default posting action.</p>
+<p>At first, we considered removing the "Post" button and substituting our own button that looked identical but had a different functionality. We realized that was unnecessary, but it could be a pretty fun trick as a handy prank. If you want to try that out, it's:</p>
+<pre><code>element = document.querySelectorAll('button[value="1"][type="submit"]')[0]<br />parent = element.parentNode<br />newButton = document.createElement('button')<br />newButton.textContent = 'Post'<br />parent.appendChild(newButton)<br />element.remove()<br />newButton.className = '_42ft _42fu _11b selected _42g'<br />newButton.type = "submit"<br /></code></pre>
+<p><strong>Getting your post/comment</strong>&nbsp;</p>
+<p>Inspecting the text area, you can see that the body of your post can be grabbed with</p>
+<pre><code>document.querySelectorAll('input[name="xhpc_message"]')[0].value</code></pre>
+<p>So once the "Post" button is clicked, the value is then passed to our filter. For comments, it was trickier to figure out. Every comment is in a text area called&nbsp;</p>
+<pre><code>add_comment_text_text</code></pre>
+<p>but using the name returns a whole array of comments, indexed in order. How are we gonna get your current comment???? Well, if you're currently typing your comment, and you're going to hit "enter", I should be able to access your particular comment box by calling activeElement! That's what we ended up doing - adding an event listener for the "enter" key on the activeElement and getting the input as activeElement.value upon keydown.</p>
+<p><strong>Matching your phrases w/regex</strong></p>
+<p>We searched for potentially offensive phrases in a totally juvenile way - matching an array of regular expressions! There must be a more elegant way of doing it, (what kind of research is currently going on in semantic parsing?), but our simple "hack" just matches common expletives and derogatory phrases. The method returns true if matched.</p>
+<p><strong>Popping an alert</strong></p>
+<p>If the previous step returned true, we prevent the default, stop the propagation, and ask whether you really want to make that post. If you do, click OK and it'll post - otherwise, it gives you a chance for revision!&nbsp;<strong><br /></strong></p>
+<p><strong>Unexpected Issue:</strong></p>
+<p>We were running into a problem where the script wouldn't run unless the page were manually refreshed. If you click from one page on Facebook to the next - for example, going from the homepage to your profile, the script wouldn't run again.</p>
+<p>We asked the Facebook engineers about it and&nbsp;it turns out, Facebook doesn't reload the page (it makes multiple AJAX calls). Uh oh! We found the problem on <a href="http://stackoverflow.com/questions/9982429/chrome-extension-which-is-supposed-to-run-on-all-facebook-pages-only-runs-when-i">StackOverflow</a>&nbsp;with a possible solution of "hijacking&nbsp;<span>XMLHttpRequest" - what??</span>&nbsp;</p>
+<p>There's gotta be another way! Our solution - ah, we wrapped our functions in setInterval(), causing them to be run continuously! Possibly not the most elegant solution, but it's simple and it works.</p>
+<p><strong>Wrapping it up:</strong></p>
+<p>It currently works on posting from the news feed, posting from your timeline, and any comment area on any page (anywhere except on a friend's timeline and private messages).&nbsp;</p>
+<p>Even though it was a pretty basic hack, it still felt like an accomplishment to have it working. Threw up a quick GitHub Pages for it, and we were ready to demo (shout out to <a href="http://www.linkedin.com/pub/theresa-shim/6a/a6b/ab9">Theresa Shim</a> for writing our blurb - by that point we were too tired to string words into anything coherent).&nbsp;</p>
+<p>Hurrah; so that's my first Chrome Extension.&nbsp;</p>
+
+  </article>
+
+</div>
+
+          </div>
+        </div>
+      </div>
+      
+    </main>
+
+    
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li></li>
+          <li><a href="mailto:"></a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text"></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

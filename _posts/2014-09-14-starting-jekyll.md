@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
-permalink: /testingblog
+title: Another Year, Another Blog
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan vehicula magna, sed eleifend magna semper vitae. Integer dignissim tortor vitae placerat mollis. Ut ipsum velit, auctor at porta in, posuere a diam. Vivamus varius justo sit amet nunc convallis iaculis. Phasellus sodales purus posuere massa scelerisque faucibus. 

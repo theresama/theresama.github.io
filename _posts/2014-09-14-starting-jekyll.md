@@ -23,4 +23,4 @@ Starting my third year of university, this is when I really start to delve into 
 	CSC358H1 - Intro to Computer Networks 
 	PHL341H1 - Freedom, Responsibility, & Human Action 
 
-Blogging effort is like a new year's resolution, but I'll try to write up little blog posts to track the progress of the semester & we'll see how this goes!
+I spent most of today switching my site from a Rails App on Heroku to setting up a GitHub User Page & Jekyll, so I'm hoping this all turns out well. Blogging effort is like a new year's resolution, but I'll try to write up little blog posts to track the progress of the semester & we'll see how this goes!

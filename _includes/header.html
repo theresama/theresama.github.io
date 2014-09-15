@@ -1,0 +1,41 @@
+<header class="site-header">
+  <nav class="head-wrapper">
+    <div class="sidebar-icon">
+      <i class="fa fa-bars fa-2x open-panel"></i>
+    </div>
+    <div class="header-logo">
+      <h1 class="name">
+        theresa ma
+      </h1>
+    </div>
+  </nav>
+
+  <aside class="sidebar-panel">
+    <nav class="links">
+      <ul>
+        <li class="title-link">Home</li>
+        <li class="title-link">About</li>
+        <li class="title-link">Projects</li>
+          <ul>
+            <li class="sub-link">StackAdapt Dashboard UI Redesign</li>
+            <li class="sub-link">StackAdapt Website Redesign</li>
+            <li class="sub-link">StackAdapt Native Ad Units</li>
+            <li class="sub-link">To End of Days</li>
+            <li class="sub-link">Another Brick in The Wall</li>
+          </ul>
+        <li class="title-link">Contact</li>
+        <li class="title-link">Resumé</li>
+        <li class="title-link">Blog</li>
+      </ul>
+    </nav>
+  </aside>
+
+  <script>
+    $(function(){
+      $('.open-panel').click(function(event) {
+        $('.sidebar-panel').toggle(400);
+      });
+    })
+  </script>
+
+</header>

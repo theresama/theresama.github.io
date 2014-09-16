@@ -55,6 +55,16 @@ $on-laptop:        800px;
 	width: 100%;
 }
 
+.slide-cover{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	display: block;
+	background: #333;
+	z-index: 5;
+	overflow: hidden;
+}
+
 .head-wrapper{
 	width: 100%;
 	padding-left: 10px;
@@ -74,11 +84,11 @@ $on-laptop:        800px;
 .sidebar-panel{
 	width: 300px;
 	background: $pink;
-	display: none;
+	position: fixed;
 }
 
 .caret-up:before{
-	content: "\f0d8" !important;
+	content: "\f0d7" !important;
 }
 
 .links{

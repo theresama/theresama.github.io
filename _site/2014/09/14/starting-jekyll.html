@@ -55,7 +55,7 @@
     <header class="site-header">
   <nav class="head-wrapper">
     <div class="sidebar-icon">
-      <i class="fa fa-caret-down fa-2x open-panel"></i>
+      <i class="fa fa-caret-up fa-2x open-panel"></i>
     </div>
     <div class="header-logo">
       <h1>
@@ -63,7 +63,7 @@
       </h1>
     </div>
   </nav>
-
+  <div class="slide-cover"></div>
   <aside class="sidebar-panel">
     <nav class="links">
       <ul>
@@ -106,10 +106,12 @@
   <script>
     $(function(){
       var height = $(window).height();
+      $('.sidebar-panel').css('height', height);
 
       $('.open-panel').click(function(event) {
-        $('.sidebar-panel').css('height', height);
-        $('.sidebar-panel').toggle(400);
+        $( ".slide-cover" ).slideToggle( "slow", function() {
+            // Animation complete.
+          });
         $('.open-panel').toggleClass('caret-up');
       });
     })

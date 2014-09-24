@@ -55,14 +55,57 @@ $on-laptop:        800px;
 	width: 100%;
 }
 
+.homepage{
+	.slide-cover{
+		display: block;
+	}
+}
+
 .slide-cover{
-	position: fixed;
+	position: absolute;
 	width: 100%;
 	height: 100%;
-	display: block;
-	background: #333;
-	z-index: 5;
+	background: #c0c0c0;
+	z-index: 999;
 	overflow: hidden;
+	opacity: 1;
+	display: none;
+}
+
+.name{
+	font-size: 4.5em;
+	color: #fff;
+	margin: 0px;
+	margin-top: 35vh;
+}
+
+.title{
+	font-size: 1.7em;
+	color: #fff;
+	margin: 0px;
+}
+
+.contact{
+	margin-top: 10px;
+	color: #fff;
+	li{
+		list-style: none;
+		padding-left: 0px;
+		display: inline;
+		font-size: 0.9em;
+		margin: 10px 20px;
+	}
+
+	a {
+		color: #333;
+	}
+}
+
+.body-info{
+	width: 40%;
+	margin: auto;
+	text-align: center;
+	max-height: 90%;
 }
 
 .head-wrapper{
@@ -71,6 +114,11 @@ $on-laptop:        800px;
 	padding-right:10px;
 	margin: auto;
 	height: 100%;
+}
+
+.post-wrap{
+	width: 90%;
+	margin: auto;
 }
 
 .sidebar-icon{
@@ -82,7 +130,6 @@ $on-laptop:        800px;
 }
 
 .sidebar-panel{
-	width: 300px;
 	background: $pink;
 	position: fixed;
 }
@@ -92,7 +139,6 @@ $on-laptop:        800px;
 }
 
 .links{
-
 	padding: 20px 0px;
 	font-family: 'Montserrat', sans-serif;
 	

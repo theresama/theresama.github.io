@@ -19,7 +19,7 @@
 
     <meta name="description" content="Aspiring software engineer dabbling in design; computer & cognitive science student at the University of Toronto.">
 
-    <title>Another Year, Another Blog</title>
+    <title>StackAdapt Native Ad Units</title>
     <meta name="description" content="Aspiring software engineer dabbling in design; computer & cognitive science student at the University of Toronto.
 ">
 
@@ -34,7 +34,7 @@
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/main.css">
 
-    <link rel="canonical" href="http://theresa-ma.com/2014/09/14/starting-jekyll.html">
+    <link rel="canonical" href="http://theresa-ma.com/sa-native-ads">
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -57,7 +57,7 @@
     <header class="site-header">
   <nav class="head-wrapper">
     <div class="sidebar-icon">
-      <i class="fa fa-caret-up fa-2x open-panel caret-up"></i>
+      <i class="fa fa-caret-down fa-2x open-panel"></i>
     </div>
     <div class="header-logo">
       <h1>
@@ -66,32 +66,7 @@
     </div>
   </nav>
 
-  <!-- <div class="slide-cover">
-    <div class="body-info">
-      <h1 class="name">
-        theresa ma
-      </h1>
-      <h2 class="title">
-        a developer in development
-      </h2>
-      <h3 class="contact">
-        <li>
-          <a href="mailto:theresa.ma@mail.utoronto.ca" target="_blank"><i class="fa fa-envelope-o"></i></a>
-        </li>
-        <li>
-          <a href="//twitter.com/theresamatweets" target="_blank"><i class="fa fa-twitter"></i></a>
-        </li>
-        <li>
-          <a href="//www.linkedin.com/in/matheresa" target="_blank"><i class="fa fa-linkedin"></i></a>
-        </li>
-        <li>
-          <a href="//github.com/theresama" target="_blank"><i class="fa fa-github"></i></a>
-        </li>
-      </h3>
-    </div>
-  </div> -->
-
-  <aside class="sidebar-panel col-sm-3" style="height: 100%;">
+  <aside class="sidebar-panel" style="width: 300px; display: none;">
     <nav class="links">
       <ul>
         <a href="/#"><li class="title-link">Home</li></a>
@@ -104,11 +79,11 @@
             <a href="http://stackadapt.com" target="_blank">
               <li class="sub-link">StackAdapt Website</li>
             </a>
-            <a href="/sa-native-ads">
-              <li class="sub-link">StackAdapt Native Ad Units</li>
-            </a>
             <a href="/sa-ghost">
               <li class="sub-link">StackAdapt Blog Theme</li>
+            </a>
+            <a href="/sa-native-ads">
+              <li class="sub-link">StackAdapt Native Ad Units</li>
             </a>
             <a href="/to-end-of-days">
               <li class="sub-link">To End of Days</li>
@@ -133,29 +108,9 @@
     </nav>
   </aside>
 
-  // <script>
-  //   $(function(){
-  //     var height = $(window).height();
-  //     $('.sidebar-panel').css('height', height);
-
-  //     $('.open-panel').click(function(event) {
-  //       $('.slide-cover').css('height', height);
-  //       $( ".slide-cover" ).slideToggle( "slow", function() {
-  //           // Animation complete.
-  //         });
-  //       $('main').fadeToggle( "slow", function() {
-  //           // Animation complete.
-  //         });
-  //       $('.open-panel').toggleClass('caret-up');
-  //     });
-  //   })
-  // </script>
-
   <script>
     $(function(){
-
       var height = $(window).height();
-      console.log(height);
 
       $('.open-panel').click(function(event) {
         $('.sidebar-panel').css('height', height);
@@ -167,52 +122,38 @@
 
 </header>
 
-
-    <main style="width: 75%; float: right;">
+    <main>
       <div class="row">
         <div class="page-content">
-          <div>
+          <div class="wrapper">
             <div class="post-wrap">
               <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Another Year, Another Blog</h1>
-    <p class="post-meta">Sep 14, 2014</p>
+    <h1 class="post-title">StackAdapt Native Ad Units</h1>
+    <p class="post-meta">Aug 28, 2014</p>
   </header>
 
   <article class="post-content">
-    <p>Here we go, it’s another September, another school year; we’re all so fresh from summer, equipped with eager expectations for how much we’ll learn and accomplish this year. Midterms are still a six-week stress away, and ah, admit it, we almost missed the feeling of a lecture hall. Or at least I did.</p>
+    <p><img src="../assets/images/nativead.png" /></p>
 
-<p>Four months of summer passed by so quickly. I spent it working full time in downtown Toronto at StackAdapt, a native advertising startup, as a Front End Web Developer &amp; Technical Integrations Specialist (that means I custom created native ad units for publishers &amp; overhauled the company’s website + client dashboard). Work’s a totally different thing from school; it was a new experience &amp; I loved it (shout out to the StackAdapt team for being awesome to work with &amp; putting up with my bananas). Turns out that you really do get better at something if you do it 8 hours a day for awhile. No way, eh? </p>
-
-<p>Starting my third year of university, this is when I really start to delve into computer science. Course load for the year:</p>
-
-<pre><code>Fall: 
-CSC373H1 - Algorithm Design &amp; Analysis 
-CSC343H1 - Intro to Databases 
-CSC324H1 - Programming Languages
-CSC318H1 - Design of Interactive Computational Media
-PSY473H1 - Cognitive Neuroscience
-
-Spring:
-CSC384H1 - Intro to Artificial Intelligence
-CSC309H1 - Programming on the Web 
-CSC369H1 - Operating Systems 
-CSC358H1 - Intro to Computer Networks 
-PHL341H1 - Freedom, Responsibility, &amp; Human Action 
-</code></pre>
-
-<p>I spent most of today switching my site from a Rails App on Heroku to setting up a GitHub User Page &amp; Jekyll, so I’m hoping this all turns out well. Blogging effort is like a new year’s resolution, but I’ll try to write up little blog posts to track the progress of the semester &amp; we’ll see how this goes!</p>
+<p>Created native ad units that match the UX context for over 550 publishers, including Songza and Cracked</p>
 
   </article>
 
 </div>
 
             </div>
+            
           </div>
         </div>
       </div>
-      <footer class="site-footer">
+      
+    </main>
+
+    
+
+    <footer class="site-footer">
 
   <div class="wrapper">
 
@@ -269,11 +210,6 @@ PHL341H1 - Freedom, Responsibility, &amp; Human Action
 
 </footer>
 
-    </main>
-
-    
-
-    
 
   </body>
 

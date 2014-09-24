@@ -7,24 +7,25 @@
 
     
 
-    {% include header.html %}
+    {% include pheader.html %}
 
-    <main style="width: 75%; float: right;">
+    <main>
       <div class="row">
         <div class="page-content">
-          <div>
+          <div class="wrapper">
             <div class="post-wrap">
               {{ content }}
             </div>
+            
           </div>
         </div>
       </div>
-      {% include footer.html %}
+      
     </main>
 
     
 
-    
+    {% include footer.html %}
 
   </body>
 

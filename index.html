@@ -120,7 +120,8 @@ layout: homesite
         <h1 class="blog-title">Blog </h1>
         <p class="explanation">
           <ul class="post-list">
-              {% for post in site.posts %}
+            {% for post in site.posts %}
+            {% if post.category == "blog" %}
                 <li>
                   <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -128,8 +129,9 @@ layout: homesite
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </h2>
                 </li>
-              {% endfor %}
-            </ul>
+            {% endif %}
+            {% endfor %}
+          </ul>
         </p>
       </div>
     </div>

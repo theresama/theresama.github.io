@@ -39,6 +39,10 @@ $on-laptop:        800px;
     }
 }
 
+html{
+	height: 100%;
+	width: 100%;
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -47,6 +51,10 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.float-none{
+	float: none !important;
+}
 
 
 .site-header{
@@ -139,6 +147,7 @@ $on-laptop:        800px;
 }
 
 .links{
+
 	padding: 20px 0px;
 	font-family: 'Montserrat', sans-serif;
 	
@@ -163,5 +172,18 @@ $on-laptop:        800px;
 
 	.sub-link{
 		line-height: 1.8em;
+	}
+
+	.post-list{
+		margin-left: 15px;
+		list-style-type: circle;
+	}
+
+	.blog-list{
+		margin-left: 15px;
+	}
+
+	.post-link{
+		font-size: 0.5em;
 	}
 }

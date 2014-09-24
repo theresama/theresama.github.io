@@ -35,7 +35,7 @@
     </div>
   </div> -->
 
-  <aside class="sidebar-panel col-sm-3" style="height: 100%;">
+  <aside class="sidebar-panel col-sm-3" style="height: 100%; overflow: auto">
     <nav class="links">
       <ul>
         <a href="/#"><li class="title-link">Home</li></a>
@@ -64,15 +64,21 @@
               <li class="sub-link">Facebook Hackathon 2014</li>
             </a>
           </ul>
-        <a href="/#" target="_blank">
-          <li class="title-link">Contact</li>
-        </a>
-        <a href="/#" target="_blank">
-          <li class="title-link">Resumé</li>
-        </a>
-        <a href="/blog" target="_blank">
-          <li class="title-link">Blog</li>
-        </a>
+        
+        <a href="/blog" target="_blank"><li class="title-link">Blog</li></a>
+        <ul class="post-list">
+            {% for post in site.posts %}
+            {% if post.category == "blog" %}
+                <li class="blog-list">
+                  <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span class="blog-list-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                    {{ post.title }}</a>
+                  </h2>
+                </li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        
       </ul>
     </nav>
   </aside>
@@ -105,6 +111,7 @@
         $('.sidebar-panel').css('height', height);
         $('.sidebar-panel').toggle(400);
         $('.open-panel').toggleClass('caret-up');
+        $('main').toggleClass('float-none');
       });
     })
   </script>

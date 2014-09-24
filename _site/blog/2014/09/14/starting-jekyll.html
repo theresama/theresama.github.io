@@ -91,7 +91,7 @@
     </div>
   </div> -->
 
-  <aside class="sidebar-panel col-sm-3" style="height: 100%;">
+  <aside class="sidebar-panel col-sm-3" style="height: 100%; overflow: auto">
     <nav class="links">
       <ul>
         <a href="/#"><li class="title-link">Home</li></a>
@@ -120,15 +120,33 @@
               <li class="sub-link">Facebook Hackathon 2014</li>
             </a>
           </ul>
-        <a href="/#" target="_blank">
-          <li class="title-link">Contact</li>
-        </a>
-        <a href="/#" target="_blank">
-          <li class="title-link">Resumé</li>
-        </a>
-        <a href="/blog" target="_blank">
-          <li class="title-link">Blog</li>
-        </a>
+        
+        <a href="/blog" target="_blank"><li class="title-link">Blog</li></a>
+        <ul class="post-list">
+            
+            
+                <li class="blog-list">
+                  <h2>
+                    <a class="post-link" href="/blog/2014/09/14/starting-jekyll.html"><span class="blog-list-meta">Sep 14, 2014</span><br>
+                    Another Year, Another Blog</a>
+                  </h2>
+                </li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </ul>
+        
       </ul>
     </nav>
   </aside>
@@ -161,6 +179,7 @@
         $('.sidebar-panel').css('height', height);
         $('.sidebar-panel').toggle(400);
         $('.open-panel').toggleClass('caret-up');
+        $('main').toggleClass('float-none');
       });
     })
   </script>
@@ -168,9 +187,9 @@
 </header>
 
 
-    <main style="width: 75%; float: right;">
-      <div class="row">
-        <div class="page-content">
+    <main style="width: 75%; margin: auto; float: right;">
+      <div class="row min-h" style="min-height: 75%;">
+        <div class="page-content" >
           <div>
             <div class="post-wrap">
               <div class="post">
@@ -273,7 +292,13 @@ PHL341H1 - Freedom, Responsibility, &amp; Human Action
 
     
 
-    
+    <script>
+      $(function(){
+        var height = $(window).height();
+
+        $('.min-h').css('min-height', height - 190);
+      })
+    </script>
 
   </body>
 

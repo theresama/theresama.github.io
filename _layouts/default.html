@@ -9,9 +9,9 @@
 
     {% include header.html %}
 
-    <main style="width: 75%; float: right;">
-      <div class="row">
-        <div class="page-content">
+    <main style="width: 75%; margin: auto; float: right;">
+      <div class="row min-h" style="min-height: 75%;">
+        <div class="page-content" >
           <div>
             <div class="post-wrap">
               {{ content }}
@@ -24,7 +24,13 @@
 
     
 
-    
+    <script>
+      $(function(){
+        var height = $(window).height();
+
+        $('.min-h').css('min-height', height - 190);
+      })
+    </script>
 
   </body>
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another Year, Another Blog
+category: blog
 ---
 
 Here we go, it's another September, another school year; we're all so fresh from summer, equipped with eager expectations for how much we'll learn and accomplish this year. Midterms are still a six-week stress away, and ah, admit it, we almost missed the feeling of a lecture hall. Or at least I did.

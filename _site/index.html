@@ -53,7 +53,12 @@
 
   <body>
 
-      <main class="mainpage">
+    <div class="flex-frame">
+  <iframe sandbox="allow-same-origin allow-forms allow-scripts" seamless="" width="800" height="500" src="" class="proj-prev">
+  </iframe>
+</div>
+
+  <main class="mainpage">
 
 
     <div class="tabs default-tab current" num="0" status="open" fa="fa-user">
@@ -109,8 +114,10 @@
       <div class="project-info col-sm-8 col-sm-offset-2 col-xs-12">
         <h1 class="">Work / Projects</h1>
 
+        
+
         <div class="project-wrapper">
-          <a href="/sa-dashboard">
+          <a class="proj-select" data-src="/sa-dashboard">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -121,7 +128,7 @@
             </div>
           </a>
 
-          <a href="http://d-a-m-p.com">
+          <a class="proj-select" data-src="http://d-a-m-p.com">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -133,7 +140,7 @@
             </div>
           </a>
           
-          <a href="/sa-ghost">
+          <a class="proj-select" data-src="/sa-ghost">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -144,7 +151,7 @@
             </div>
           </a>
 
-          <a href="/Blacklist-Twitter">
+          <a class="proj-select" data-src="/Blacklist-Twitter">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -155,7 +162,7 @@
             </div>
           </a>
 
-          <a href="/filter">
+          <a class="proj-select" data-src="/filter">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -167,7 +174,7 @@
           </a>
           
 
-          <a href="/to-end-of-days">
+          <a class="proj-select" data-src="/to-end-of-days">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -179,7 +186,7 @@
           </a>
           
 
-          <a href="/another-brick-in-the-wall">
+          <a class="proj-select" data-src="/another-brick-in-the-wall">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="proj-cover">
@@ -278,6 +285,23 @@
   <script>
 
     $(function(){
+
+      $(".flex-frame").hide();
+
+      $(".proj-select").on('click', function(event) {
+        var url = $(this).attr("data-src");
+        $(".proj-prev").attr("src", url);
+        $(".flex-frame").toggle();
+        console.log("clicked");
+        /* Act on the event */
+      });
+
+      $(".flex-frame").on('click', function(event) {
+        $(".flex-frame").toggle();
+        console.log("frame clicked")
+        /* Act on the event */
+      });
+
 
       var z = 9;
       var mobile = false;
@@ -385,27 +409,27 @@
       });
     }
 
-    else{
-      $('.proj-box').click(function(event) {
-        if ($(this).hasClass('proj-open')){
-          $(this).animate({
-            width: 50 + '%', 
-            height: 260
-          }, 400);
+    // else{
+    //   $('.proj-box').click(function(event) {
+    //     if ($(this).hasClass('proj-open')){
+    //       $(this).animate({
+    //         width: 50 + '%', 
+    //         height: 260
+    //       }, 400);
 
-          $(this).removeClass('proj-open');
-        }
+    //       $(this).removeClass('proj-open');
+    //     }
 
-        else{
-          $(this).animate({
-            width: 100 + '%', 
-            height: 100 + '%'
-          }, 500);
+    //     else{
+    //       $(this).animate({
+    //         width: 100 + '%', 
+    //         height: 100 + '%'
+    //       }, 500);
 
-          $(this).addClass('proj-open');
-        }
-      });
-    }
+    //       $(this).addClass('proj-open');
+    //     }
+    //   });
+    // }
     });
 
   </script>

@@ -106,7 +106,19 @@ content: "\f00d" !important;
 	max-height: 90%;
 }
 
-.project-wrapper{
+.flex-frame{
+	display: flex;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	flex-direction: column;
+	justify-content: space-around;
+	background-color: rgba(0, 0, 0, 0.7);
+	z-index: 99999;
+}
+
+.proj-prev{
+	margin: auto;
 }
 
 .project-info{

@@ -183,7 +183,7 @@ layout: homesite
                   <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
                   <h2>
-                    <a class="post-link proj-select" data-src="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    <a class="post-link proj-select" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                   </h2>
                 </li>
             {% endif %}
@@ -195,21 +195,13 @@ layout: homesite
 
   </main>
 
-  <div class="mobile-footer">
-    <h3 class="contact">
-      <li>
-        <a href="mailto:theresa.ma@mail.utoronto.ca" target="_blank"><i class="fa fa-envelope-o"></i></a>
-      </li>
-      <li>
-        <a href="//twitter.com/theresamatweets" target="_blank"><i class="fa fa-twitter"></i></a>
-      </li>
-      <li>
-        <a href="//www.linkedin.com/in/matheresa" target="_blank"><i class="fa fa-linkedin"></i></a>
-      </li>
-      <li>
-        <a href="//github.com/theresama" target="_blank"><i class="fa fa-github"></i></a>
-      </li>
-    </h3>
+  <div class="mobile-footer site-footer">
+    <span class="footer-social">
+        <a href="mailto:theresa.ma@mail.utoronto.ca" target="_parent"><i class="fa fa-envelope-o"></i></a>
+        <a href="//twitter.com/theresamatweets" target="_parent"><i class="fa fa-twitter"></i></a>
+        <a href="//www.linkedin.com/in/matheresa" target="_parent"><i class="fa fa-linkedin"></i></a>
+        <a href="//github.com/theresama" target="_parent"><i class="fa fa-github"></i></a>
+    </span>
   </div>
 
   <footer>

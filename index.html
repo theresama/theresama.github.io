@@ -1,7 +1,6 @@
 ---
 layout: homesite
 ---
-<base target="_blank" />
 
 <div class="flex-frame">
   <div class="proj-browser">
@@ -74,7 +73,7 @@ layout: homesite
 
         <div class="project-wrapper">
 
-          <a class="proj-select" data-src="/sa-dashboard">
+          <a class="proj-select" href="/sa-dashboard">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -85,7 +84,7 @@ layout: homesite
             </div>
           </a>
 
-          <a class="proj-select" data-src="/to-end-of-days">
+          <a class="proj-select" href="/to-end-of-days">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -96,7 +95,7 @@ layout: homesite
             </div>
           </a>
 
-          <a class="proj-select" data-src="/csc318h1f">
+          <a class="proj-select" href="/csc318h1f">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -107,7 +106,7 @@ layout: homesite
             </div>
           </a>
 
-          <a class="proj-select" data-src="http://d-a-m-p.com">
+          <a class="proj-select" href="http://d-a-m-p.com">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -119,7 +118,7 @@ layout: homesite
             </div>
           </a>
           
-          <a class="proj-select" data-src="/sa-ghost">
+          <a class="proj-select" href="/sa-ghost">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -130,7 +129,7 @@ layout: homesite
             </div>
           </a>
 
-          <a class="proj-select" data-src="/blacklist">
+          <a class="proj-select" href="/blacklist">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -141,7 +140,7 @@ layout: homesite
             </div>
           </a>
 
-          <a class="proj-select" data-src="/fbook-hackathon-2014">
+          <a class="proj-select" href="/fbook-hackathon-2014">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -152,7 +151,7 @@ layout: homesite
             </div>
           </a>
           
-          <a class="proj-select" data-src="/another-brick-in-the-wall">
+          <a class="proj-select" href="/another-brick-in-the-wall">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="proj-cover">
@@ -240,38 +239,7 @@ layout: homesite
 
     $(function(){
 
-      $(".flex-frame").hide();
 
-      $(".proj-select").on('click', function(event) {
-        var url = $(this).attr("data-src");
-        $(".proj-prev").attr("src", url);
-        $(".flex-frame").toggle();
-        console.log("clicked");
-        /* Act on the event */
-      });
-
-      $(".flex-frame").on('click', function(event) {
-        $(".flex-frame").toggle();
-        console.log("frame clicked")
-        /* Act on the event */
-      });
-
-      var fullH = $(window).height();
-      var fullW = $(window).width();
-
-      $("#maximize-btn").on('click', function(event) {
-        console.log("max");
-        event.stopPropagation();
-        $(".proj-prev").width(fullW);
-        $(".proj-prev").height(fullH);
-      });
-
-      $("#minimize-btn").on('click', function(event) {
-        console.log("max");
-        event.stopPropagation();
-        $(".proj-prev").width(800);
-        $(".proj-prev").height(500);
-      });
 
 
       var z = 9;
@@ -374,33 +342,48 @@ layout: homesite
         }
       });
 
-    if (mobile){
-      $(".proj-box").click(function(event) {
-        $(this).toggleClass('proj-open');
-      });
-    }
+    $(".flex-frame").hide();
 
-    // else{
-    //   $('.proj-box').click(function(event) {
-    //     if ($(this).hasClass('proj-open')){
-    //       $(this).animate({
-    //         width: 50 + '%', 
-    //         height: 260
-    //       }, 400);
+    $(".proj-select").on('click', function(event) {
+      if (!mobile){
+        event.preventDefault();
+        event.stopPropagation();
+        var url = $(this).attr("href");
+        $(".proj-prev").attr("src", url);
+        $(".flex-frame").toggle();
+        console.log("clicked");
+      }
+    });
 
-    //       $(this).removeClass('proj-open');
-    //     }
+    $(".flex-frame").on('click', function(event) {
+      $(".flex-frame").toggle();
+      console.log("frame clicked")
+      /* Act on the event */
+    });
 
-    //     else{
-    //       $(this).animate({
-    //         width: 100 + '%', 
-    //         height: 100 + '%'
-    //       }, 500);
+    var fullH = $(window).height();
+    var fullW = $(window).width();
 
-    //       $(this).addClass('proj-open');
-    //     }
-    //   });
-    // }
+    $("#maximize-btn").on('click', function(event) {
+      console.log("max");
+      event.stopPropagation();
+      $(".proj-prev").width(fullW);
+      $(".proj-prev").height(fullH);
+    });
+
+    $("#minimize-btn").on('click', function(event) {
+      console.log("max");
+      event.stopPropagation();
+      $(".proj-prev").width(800);
+      $(".proj-prev").height(500);
+    });
+
+
+
+
+
+
+
     });
 
   </script>

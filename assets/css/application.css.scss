@@ -7,6 +7,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 html, body {
 	width: 100%;
 	height: 100%;
+	background: white;
 }
 
 .fa{
@@ -108,14 +109,19 @@ content: "\f00d" !important;
 }
 
 .flex-frame{
-	display: -webkit-box;  
 	display: -moz-box;        
 	display: -ms-flexbox;   
-	display: -webkit-flex;  
+	display: -webkit-flex;
+	-webkit-flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center; 
 	display: flex;
 	position: fixed;
 	width: 100%;
 	height: 100%;
+	-webkit-box-orient: vertical;
 	flex-direction: column;
 	justify-content: space-around;
 	background-color: rgba(0, 0, 0, 0.8);
@@ -123,7 +129,10 @@ content: "\f00d" !important;
 }
 
 .proj-browser{
-	margin: 0px auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
 	background: #cecece;
 	
 	.browser-btns{
@@ -342,6 +351,10 @@ h1, h2{
 
 
 @media (max-width: 735px){
+
+	.flex-frame{
+		display: none !important;
+	}
 
 	.top-nav{
 		display: none;

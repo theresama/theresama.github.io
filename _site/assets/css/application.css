@@ -30,7 +30,7 @@ footer {
   .dock .fa {
     margin-top: -20px; }
   .dock .active {
-    color: #1abc9c !important;
+    color: #e32d53 !important;
     transition: color 0.5s ease; }
 
 .fa-times:before {
@@ -85,6 +85,48 @@ footer {
   margin: auto;
   text-align: center;
   max-height: 90%; }
+
+.flex-frame {
+  display: flex;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 99999; }
+
+.proj-browser {
+  margin: 0px auto;
+  background: #cecece; }
+  .proj-browser .browser-btns {
+    padding: 10px 5px;
+    font-size: 10px; }
+    .proj-browser .browser-btns .fa {
+      border-radius: 13px;
+      border: 1px solid 999;
+      padding: 5px 6px;
+      margin-right: 4px;
+      background: #fdc141; }
+    .proj-browser .browser-btns .fa-times:before {
+      opacity: 0; }
+    .proj-browser .browser-btns .fa-plus:before {
+      opacity: 0; }
+    .proj-browser .browser-btns .fa-minus:before {
+      opacity: 0; }
+    .proj-browser .browser-btns .fa:first-child {
+      background: #fc635d; }
+    .proj-browser .browser-btns .fa:last-child {
+      background: #35cd4b; }
+  .proj-browser .browser-btns:hover .fa-times:before {
+    opacity: 1; }
+  .proj-browser .browser-btns:hover .fa-plus:before {
+    opacity: 1; }
+  .proj-browser .browser-btns:hover .fa-minus:before {
+    opacity: 1; }
+
+.proj-prev {
+  margin: auto; }
 
 .project-info {
   max-height: 90%;

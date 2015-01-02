@@ -39,7 +39,7 @@ footer{
 	}
 
 	.active{
-		color: #1abc9c !important;
+		color: #e32d53 !important;
 		transition: color 0.5s ease;
 	}
 }
@@ -47,6 +47,7 @@ footer{
 .fa-times:before {
 content: "\f00d" !important;
 }
+
 .top-nav{
 	background: transparent;
 	position: absolute;
@@ -106,7 +107,71 @@ content: "\f00d" !important;
 	max-height: 90%;
 }
 
-.project-wrapper{
+.flex-frame{
+	display: flex;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	flex-direction: column;
+	justify-content: space-around;
+	background-color: rgba(0, 0, 0, 0.8);
+	z-index: 99999;
+}
+
+.proj-browser{
+	margin: 0px auto;
+	background: #cecece;
+	
+	.browser-btns{
+		padding: 10px 5px;
+		font-size: 10px;
+	
+		.fa{
+			border-radius: 13px;
+			border: 1px solid 999;
+			padding: 5px 6px;
+			margin-right: 4px;
+			background: #fdc141;
+		}
+
+		.fa-times:before{
+			opacity: 0;
+		}
+
+		.fa-plus:before{
+			opacity: 0;
+		}
+
+		.fa-minus:before{
+			opacity: 0;
+		}
+
+
+		.fa:first-child{
+			background: #fc635d;
+		}
+
+		.fa:last-child{
+			background: #35cd4b;
+		}
+		
+	}
+
+	.browser-btns:hover{
+		.fa-times:before {
+			opacity: 1;
+		}
+		.fa-plus:before {
+			opacity: 1;
+		}
+		.fa-minus:before {
+			opacity: 1;
+		}
+	}
+}
+
+.proj-prev{
+	margin: auto;
 }
 
 .project-info{

@@ -125,8 +125,14 @@ html{
 }
 
 .post-wrap{
-	width: 90%;
+	width: 60%;
 	margin: auto;
+}
+
+@media (max-width: 801px){
+	.post-wrap{
+		width: 85%;
+	}
 }
 
 .sidebar-icon{

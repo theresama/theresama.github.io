@@ -263,8 +263,7 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0;
-  margin-top: 70px; }
+  padding: 30px 0; }
 
 .page-heading {
   font-size: 20px; }
@@ -512,9 +511,12 @@ pre {
   height: 100%; }
 
 .post-wrap {
-  width: 90%;
+  width: 60%;
   margin: auto; }
 
+@media (max-width: 801px) {
+  .post-wrap {
+    width: 85%; } }
 .sidebar-icon {
   float: left; }
 

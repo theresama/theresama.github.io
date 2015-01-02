@@ -21,6 +21,9 @@ footer {
   bottom: -100px;
   width: 100%; }
 
+.mobile-footer {
+  display: none; }
+
 .dock {
   height: 7vh;
   background: #eee;
@@ -301,6 +304,16 @@ h1, h2 {
     width: 90%;
     float: none;
     margin: auto; }
+
+  footer {
+    display: none; }
+
+  .mobile-footer {
+    width: 70%;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: -40px;
+    display: block; }
 
   h1 {
     text-align: center; }

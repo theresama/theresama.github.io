@@ -9,7 +9,7 @@ permalink: /another-brick-in-the-wall
   <br><br>
   Developed as the final project for CSC258H1 to demonstrate finite state machines, synchronous circuits, sequential circuits, and operations with signed binary.
   <br><br>
-  Available on <a href="https://github.com/theresama/another-brick-in-the-wall" target="_blank">GitHub</a>
+  Available on <a href="https://github.com/theresama/another-brick-in-the-wall" target="_parent">GitHub</a>
 </p>
 
 <img src="../assets/images/pong.png">

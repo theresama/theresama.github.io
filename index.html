@@ -1,6 +1,7 @@
 ---
 layout: homesite
 ---
+<base target="_blank" />
 
 <div class="flex-frame">
   <div class="proj-browser">
@@ -9,7 +10,7 @@ layout: homesite
       <i class="fa fa-minus" id="minimize-btn"></i>
       <i class="fa fa-plus" id="maximize-btn"></i>    
     </div>
-    <iframe sandbox="allow-same-origin allow-forms allow-scripts" seamless="" width="800" height="500" src="" class="proj-prev" border=0>
+    <iframe sandbox="allow-same-origin allow-forms allow-scripts allow-top-navigation" seamless="" width="800" height="500" src="" class="proj-prev" border="0">
     </iframe>
   </div>
   
@@ -74,6 +75,18 @@ layout: homesite
         
 
         <div class="project-wrapper">
+
+          <a class="proj-select" data-src="http://theresa-ma.com/assets/TheresaMaCSC318Report.pdf">
+            <div class="col-xs-6 proj-box">
+              <div class="proj-cover">
+                <div class="info-overlay">
+                  <h3 class="proj-title">CIC Redesign Case Study<br><span class="date">Fall 2014</span></h3>
+                </div>
+                <img src="/assets/images/dashblk.png" style="width: 100%" alt="StackAdapt dashboard redesign by Theresa Ma">
+              </div>
+            </div>
+          </a>
+
           <a class="proj-select" data-src="/sa-dashboard">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
@@ -108,7 +121,7 @@ layout: homesite
             </div>
           </a>
 
-          <a class="proj-select" data-src="/Blacklist-Twitter">
+          <a class="proj-select" data-src="/blacklist">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">
@@ -119,7 +132,7 @@ layout: homesite
             </div>
           </a>
 
-          <a class="proj-select" data-src="/filter">
+          <a class="proj-select" data-src="/fbook-hackathon-2014">
             <div class="col-xs-6 proj-box">
               <div class="proj-cover">
                 <div class="info-overlay">

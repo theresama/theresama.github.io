@@ -91,6 +91,21 @@
 /**
  * Site footer
  */
+
+ .site-footer{
+    .footer-social{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 40%;
+        margin: auto;
+        font-size: 22px;
+    }
+    a{
+        color: #333;
+    }
+ }
+
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;

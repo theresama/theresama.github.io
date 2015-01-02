@@ -210,6 +210,16 @@ pre {
 /**
  * Site footer
  */
+.site-footer .footer-social {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 40%;
+  margin: auto;
+  font-size: 22px; }
+.site-footer a {
+  color: #333; }
+
 .site-footer {
   border-top: 1px solid #e8e8e8;
   padding: 30px 0; }

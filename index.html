@@ -3,8 +3,16 @@ layout: homesite
 ---
 
 <div class="flex-frame">
-  <iframe sandbox="allow-same-origin allow-forms allow-scripts" seamless="" width="800" height="500" src="" class="proj-prev">
-  </iframe>
+  <div class="proj-browser">
+    <div class="browser-btns">
+      <i class="fa fa-times"></i>
+      <i class="fa fa-minus" id="minimize-btn"></i>
+      <i class="fa fa-plus" id="maximize-btn"></i>    
+    </div>
+    <iframe sandbox="allow-same-origin allow-forms allow-scripts" seamless="" width="800" height="500" src="" class="proj-prev" border=0>
+    </iframe>
+  </div>
+  
 </div>
 
   <main class="mainpage">
@@ -237,6 +245,23 @@ layout: homesite
         $(".flex-frame").toggle();
         console.log("frame clicked")
         /* Act on the event */
+      });
+
+      var fullH = $(window).height();
+      var fullW = $(window).width();
+
+      $("#maximize-btn").on('click', function(event) {
+        console.log("max");
+        event.stopPropagation();
+        $(".proj-prev").width(fullW);
+        $(".proj-prev").height(fullH);
+      });
+
+      $("#minimize-btn").on('click', function(event) {
+        console.log("max");
+        event.stopPropagation();
+        $(".proj-prev").width(800);
+        $(".proj-prev").height(500);
       });
 
 

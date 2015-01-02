@@ -108,6 +108,10 @@ content: "\f00d" !important;
 }
 
 .flex-frame{
+	display: -webkit-box;  
+	display: -moz-box;        
+	display: -ms-flexbox;   
+	display: -webkit-flex;  
 	display: flex;
 	position: fixed;
 	width: 100%;

@@ -211,6 +211,10 @@ pre {
  * Site footer
  */
 .site-footer .footer-social {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
   justify-content: space-around;
   align-items: center;

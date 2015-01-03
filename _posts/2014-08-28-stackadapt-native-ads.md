@@ -1,5 +1,5 @@
 ---
-layout: no-sidebar-post
+layout: post
 title: StackAdapt Native Ad Units
 permalink: /sa-native-ads
 ---

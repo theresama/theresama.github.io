@@ -1,5 +1,5 @@
 ---
-layout: no-sidebar-post
+layout: post
 title: To End Of Days
 permalink: /to-end-of-days
 ---

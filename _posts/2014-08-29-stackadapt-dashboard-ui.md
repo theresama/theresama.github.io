@@ -1,5 +1,5 @@
 ---
-layout: no-sidebar-post
+layout: post
 title: StackAdapt Site & Dashboard
 permalink: /sa-dashboard
 ---

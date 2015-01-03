@@ -1,16 +1,23 @@
 /**
  * Site header
  */
-.site-header {
-    border-top: 5px solid #333;
-    background: #333;
-    height: 43px;
+ .site-header {
+     min-height: 56px;
+    border-top: 5px solid #e32d53;
+    border-bottom: 1px solid $grey-color-light;
+    
+     // Positioning context for the mobile navigation icon
+     position: relative;
+     background: #fdfdfd;
+ }
 
-    // Positioning context for the mobile navigation icon
-    position: relative;
-}
+ .nav-border{
+     
+     
+ }
 
 .site-title {
+    font-family: 'Montserrat', sans-serif;
     font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
@@ -34,6 +41,8 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+        text-transform: uppercase;
+        font-size: 0.8em;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -43,7 +52,7 @@
 
     @include media-query($on-palm) {
         position: absolute;
-        top: 9px;
+        top: 14px;
         right: 30px;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
@@ -56,7 +65,7 @@
             width: 36px;
             height: 26px;
             line-height: 0;
-            padding-top: 10px;
+            padding-top: 6px;
             text-align: center;
 
             > svg {
@@ -92,7 +101,7 @@
  */
 
  .site-footer{
-    
+
     display: -webkit-flex;
     -webkit-flex-direction: column;
     -webkit-box-align: center;

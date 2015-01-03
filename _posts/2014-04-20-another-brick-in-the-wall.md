@@ -1,5 +1,5 @@
 ---
-layout: no-sidebar-post
+layout: post
 title: Another Brick In The Wall
 permalink: /another-brick-in-the-wall
 ---

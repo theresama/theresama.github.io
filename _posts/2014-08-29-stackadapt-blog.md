@@ -1,5 +1,5 @@
 ---
-layout: no-sidebar-post
+layout: post
 title: Ghost Theme for StackAdapt Blog
 permalink: /sa-ghost
 ---

@@ -80,6 +80,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+    color: #111;
     font-weight: 300;
     font-family: 'Montserrat', sans-serif;
 }
@@ -90,16 +91,19 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $link-color;
     text-decoration: none;
+    transition: 0.3s ease;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($link-color, 15%);
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: $brand-color;
+        opacity: 0.7;
+        text-decoration: none;
+        transition: 0.2s ease;
     }
 }
 
@@ -155,8 +159,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(870px - (#{$spacing-unit} * 2));
+    max-width:         calc(870px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -164,8 +168,8 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
+        max-width: -webkit-calc(870px - (#{$spacing-unit}));
+        max-width:         calc(870px - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }

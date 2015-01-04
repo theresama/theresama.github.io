@@ -16,7 +16,7 @@ html, body {
 .fa:hover {
   color: #01abc9; }
 
-footer {
+.desktop-footer {
   position: fixed;
   bottom: -100px;
   width: 100%; }
@@ -308,7 +308,7 @@ h1, h2 {
     float: none;
     margin: auto; }
 
-  footer {
+  .desktop-footer {
     display: none; }
 
   .mobile-footer {

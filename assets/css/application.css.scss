@@ -20,7 +20,7 @@ html, body {
 	color: #01abc9;
 }
 
-footer{
+.desktop-footer{
 	position: fixed;
 	bottom: -100px;
 	width: 100%;
@@ -411,7 +411,7 @@ h1, h2{
 		margin: auto;
 	}
 
-	footer{
+	.desktop-footer{
 		display: none;
 	}
 
@@ -431,3 +431,4 @@ h1, h2{
 		font-size: 200%;
 	}
 }
+

@@ -12,9 +12,10 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #666;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$link-color:       #2a7ae2;
+$brand-color: 	   #e32d53;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -33,6 +34,8 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
@@ -42,6 +45,8 @@ $on-laptop:        800px;
 html{
 	height: 100%;
 	width: 100%;
+	
+	-webkit-font-smoothing: subpixel-antialiased;
 }
 
 
@@ -51,6 +56,29 @@ html{
         "layout",
         "syntax-highlighting"
 ;
+
+@media(width: 800px){
+	.site-header{
+		display: none !important;
+	}
+
+	.default-main{
+		margin-top: 0px !important;
+	}
+
+	.link-back{
+		display: none !important;
+	}
+
+	.page-content {
+	    margin-top: 0px !important;
+	}
+}
+
+.default-main{
+	width: 95%;
+	margin: auto;
+}
 
 .float-none{
 	float: none !important;

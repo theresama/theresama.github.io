@@ -8,7 +8,9 @@ layout: default
   		<i class="fa fa-arrow-left"></i> 
   		Back to posts
   	</a>
-    <h1 class="post-title">{{ page.title }}</h1>
+    <a href="{{ post.url }}" target="_parent" style="color: #333;">
+    	<h1 class="post-title">{{ page.title }}</h1>
+    </a>
     <a href="{{ post.url }}" target="_parent">
     	<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     </a>

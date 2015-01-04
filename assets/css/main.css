@@ -1,6 +1,7 @@
 html {
   height: 100%;
-  width: 100%; }
+  width: 100%;
+  -webkit-font-smoothing: subpixel-antialiased; }
 
 /**
  * Reset some basic elements
@@ -20,7 +21,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  color: #111;
+  color: #666;
   background-color: #fdfdfd; }
 
 /**
@@ -62,6 +63,7 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+  color: #111;
   font-weight: 300;
   font-family: 'Montserrat', sans-serif; }
 
@@ -70,12 +72,15 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: #2a7ae2;
-  text-decoration: none; }
+  text-decoration: none;
+  transition: 0.3s ease; }
   a:visited {
     color: #1756a9; }
   a:hover {
-    color: #111;
-    text-decoration: underline; }
+    color: #e32d53;
+    opacity: 0.7;
+    text-decoration: none;
+    transition: 0.2s ease; }
 
 /**
  * Blockquotes
@@ -115,16 +120,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  max-width: -webkit-calc(870px - (30px * 2));
+  max-width: calc(870px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(800px - (30px));
-      max-width: calc(800px - (30px));
+      max-width: -webkit-calc(870px - (30px));
+      max-width: calc(870px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -173,7 +178,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #666;
     line-height: 1.5;
     text-transform: uppercase;
     font-size: 0.8em; }
@@ -220,7 +225,9 @@ pre {
   -webkit-box-align: center;
   -webkit-align-items: center;
   -webkit-box-pack: center;
-  -webkit-justify-content: center; }
+  -webkit-justify-content: center;
+  width: 100%;
+  border-bottom: 5px solid #e32d53; }
   .site-footer .footer-social {
     text-align: center;
     font-size: 22px; }
@@ -283,7 +290,8 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 30px 0;
+  margin-top: 56px; }
 
 .page-heading {
   font-size: 20px; }
@@ -472,6 +480,22 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+@media (width: 800px) {
+  .site-header {
+    display: none !important; }
+
+  .default-main {
+    margin-top: 0px !important; }
+
+  .link-back {
+    display: none !important; }
+
+  .page-content {
+    margin-top: 0px !important; } }
+.default-main {
+  width: 95%;
+  margin: auto; }
 
 .float-none {
   float: none !important; }

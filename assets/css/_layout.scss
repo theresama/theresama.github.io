@@ -98,12 +98,17 @@
 
  .site-footer{
 
+    display: -moz-box;        
+    display: -ms-flexbox;
     display: -webkit-flex;
+    display: flex;
     -webkit-flex-direction: column;
     -webkit-box-align: center;
     -webkit-align-items: center;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
+    flex-direction: column;
+    justify-content: space-around;
      
      width: 100%;
      

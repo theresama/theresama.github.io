@@ -2,7 +2,7 @@
 <html>
 
   {% include head.html %}
-  <head><link rel="stylesheet" href="{{ "/assets/css/application.min.css" | prepend: site.baseurl }}">
+  <head><link rel="stylesheet" href="{{ "/dist/styles/application.min.css" | prepend: site.baseurl }}">
 
   	<script>
   	  $(function(){var d=9,c=!1,e=$(window).width();$(window).resize(function(){e=$(window).width()});735>e&&(c=!0);$(".first-click").click(function(a){$("footer").animate({bottom:0},300,function(){$(".first-click").removeClass("first-click")})});$(".fa-times").click(function(a){var b=$(this).parents(".tabs")[0];a=$(b).attr("fa");$("#"+a).removeClass("active");a=.25*$(window).width();$(b).hasClass("about-tab")?a=.37*$(window).width():$(b).hasClass("portfolio-tab")&&(a=.49*$(window).width());$(b).animate({left:a,

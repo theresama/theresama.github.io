@@ -109,23 +109,6 @@ html{
 	width: 100%;
 }
 
-.homepage{
-	.slide-cover{
-		display: block;
-	}
-}
-
-.slide-cover{
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	background: #c0c0c0;
-	z-index: 999;
-	overflow: hidden;
-	opacity: 1;
-	display: none;
-}
-
 .name{
 	font-size: 4.5em;
 	color: #fff;
@@ -181,61 +164,4 @@ html{
 	}
 }
 
-.sidebar-icon{
-	float: left;
-}
 
-.header-logo{
-	float: right;
-}
-
-.sidebar-panel{
-	background: $pink;
-	position: fixed;
-}
-
-.caret-up:before{
-	content: "\f0d7" !important;
-}
-
-.links{
-
-	padding: 20px 0px;
-	font-family: 'Montserrat', sans-serif;
-	
-	a{
-		color: white;
-		text-decoration: none;
-	}
-
-	a:hover{
-		border-bottom: 1px solid #3CD7D9;
-	}
-
-
-	ul{
-		list-style-type: none;
-	}
-
-	.title-link{
-		font-size: 1.5em;
-		line-height: 2em;
-	}
-
-	.sub-link{
-		line-height: 1.8em;
-	}
-
-	.post-list{
-		margin-left: 15px;
-		list-style-type: circle;
-	}
-
-	.blog-list{
-		margin-left: 15px;
-	}
-
-	.post-link{
-		font-size: 0.5em;
-	}
-}

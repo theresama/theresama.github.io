@@ -26,11 +26,11 @@ We also set up a demo on an Amazon EC2 server, so you can take a look at [tweeth
 
 Even though we didn't get to analyze the tweet data or events as we were hoping to, #HackItShipIt!!! 
 
-<img src="../assets/images/tweetheat1.png">
+<img src="../assets/images/tweetheat1.jpg">
 
-<img src="../assets/images/tweetheat2.png">
+<img src="../assets/images/tweetheat2.jpg">
 
-<img src="../assets/images/tweetheat3.png">
+<img src="../assets/images/tweetheat3.jpg">
 
 (honestly tho, this is a screenshot of #HappyBirthdayHarryStyles tweets streaming in for about 30 seconds, which was the worldwide #1 trend for most of the whole day)
 

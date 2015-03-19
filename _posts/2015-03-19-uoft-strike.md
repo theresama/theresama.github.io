@@ -4,17 +4,17 @@ title: facts & feelings on U of T's TA strike
 category: blog
 ---
 
-CUPE3902 Unit 1, representing over 6000 TAs and course instructors, has been on strike at the University of Toronto since February 27th. I’ve been trying to keep up with the developments and reading opinions from both those in support of and again the strike (aka reading the arguments on Facebook, Twitter, & Reddit). Between people not wanting to read long blocks of text, and the inefficacy of arguments presented over back and forth single liners, there’s been a whole lot of frustration, confusion, misinformation, outrage, and general upset with the situation. What follows are the facts I've gathered in reading those arguments, and my feelings as an affected and informed undergraduate student. 
+CUPE3902 Unit 1, representing over 6000 TAs and course instructors, has been on strike at the University of Toronto since February 27th. I’ve been trying to keep up with the developments and reading opinions from both those in support of and again the strike (aka reading the arguments on Facebook, Twitter, & Reddit). Between people not wanting to read long blocks of text, and the inefficacy of arguments presented over back and forth single liners, there’s been a whole lot of frustration, confusion, misinformation, outrage, and general upset with the situation. 
 
 ##facts
 This strike is mainly about the minimum graduate funding package, so the discussion of the TA hourly rate is irrelevant and possibly damaging; graduate students are under contract to TA for a certain number of hours per year and what they earn as a TA is included in the funding package. The minimum funding package was set at \$15,000 in 2008, and it has been frozen there, while the cost of living in Toronto continues to increase. At the rate of inflation, the minimum funding package as of 2015 should be almost \$17,000. This is still below the low income cutoff line. 
 
 (An objection I’ve read to this is that CUPE3902 is not a graduate student union and should have no bargaining rights over the graduate funding package, but I’ve also read that it was CUPE3902 that resulted in a minimum funding package in the first place, so there is precedence for this)
 
-Graduate students are expected to do full time research for the university. 
-Some of them are even contractually obligated not to pursue any other form of income while employed by the university. 
-Grad students who attend no classes still pay full tuition for some reason? Part of the bargaining includes seeking a tuition break. 
-Graduate funding is a standard expectation; U of T should at least offer funding to the same level as other top tier universities.
+ - Graduate students are expected to do full time research for the university. 
+ - Some of them are even contractually obligated not to pursue any other form of income while employed by the university. 
+ - Grad students who attend no classes still pay full tuition for some reason? Part of the bargaining includes seeking a tuition break. 
+ - Graduate funding is a standard expectation; U of T should at least offer funding to the same level as other top tier universities.
 
 The old contract expired and this is the bargaining process for a new contract; it isn’t the situation that graduate students are suddenly unsatisfied with their funding.
 

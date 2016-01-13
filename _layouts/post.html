@@ -8,10 +8,10 @@ layout: default
   		<i class="fa fa-arrow-left"></i> 
   		Back to posts
   	</a>
-    <a href="{{ post.url }}" target="_parent" class="post-title">
+    <a href="{{ page.url }}" target="_parent" class="post-title">
     	<h1 class="post-title">{{ page.title }}</h1>
     </a>
-    <a href="{{ post.url }}" target="_parent">
+    <a href="{{ page.url }}" target="_parent">
     	<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     </a>
   </header>

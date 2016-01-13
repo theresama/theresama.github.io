@@ -11,15 +11,15 @@ $(function(){
     mobile = true;
   }
 
-  $('.first-click').click(function(event) {
+$('.first-click').click(function(event) {
     $('footer').animate({
       bottom: 0
-    }, 300, function(){
+  }, 300, function(){
       $('.first-click').removeClass('first-click');
-    });
   });
+});
 
-  $('.fa-times').click(function(event) {
+$('.fa-times').click(function(event) {
     var parent_tab = $(this).parents('.tabs')[0];
 
     var icon = $(parent_tab).attr('fa');
@@ -29,39 +29,39 @@ $(function(){
 
     if ($(parent_tab).hasClass('about-tab')){
       left = $(window).width() * 0.37;
-    }
+  }
 
-    else if ($(parent_tab).hasClass('portfolio-tab')){
+  else if ($(parent_tab).hasClass('portfolio-tab')){
       left = $(window).width() * 0.49;
-    }
-    
-    $(parent_tab).animate({
+  }
+
+  $(parent_tab).animate({
       left: left, 
       width: 50,
       height: 100,
       bottom: 30,
       opacity: 0
-    }, 500, 'easeInOutCubic', function(){
+  }, 500, 'easeInOutCubic', function(){
       $(parent_tab).css('z-index', 1);
       $(parent_tab).attr('status', 'closed')
-    });
   });
+});
 
-  $('.fa-select-tab').click(function(event) {
+$('.fa-select-tab').click(function(event) {
     var id = $(this).attr('id');
     var which_tab = $("[fa='" + id + "']");
     var left = $(window).width() * 0.25;
 
     if ($(which_tab).hasClass('about-tab')){
       left = $(window).width() * 0.37;
-    }
-    else if ($(which_tab).hasClass('portfolio-tab')){
+  }
+  else if ($(which_tab).hasClass('portfolio-tab')){
       left = $(window).width() * 0.49;
-    }
+  }
 
-    var status = $(which_tab).attr('status');
+  var status = $(which_tab).attr('status');
 
-    if (status == "closed" || !($(which_tab).hasClass('current'))) {
+  if (status == "closed" || !($(which_tab).hasClass('current'))) {
       $(which_tab).css('z-index', z);
       z++;
       $(which_tab).attr('status', 'open');
@@ -76,9 +76,9 @@ $(function(){
         width: 100 + '%',
         left: 0,
         opacity: 1
-      }, 500, 'easeInOutCubic');
-    }
-    else if (status == "open"){
+    }, 500, 'easeInOutCubic');
+  }
+  else if (status == "open"){
       $(which_tab).attr('status', 'closed');
       $(which_tab).animate({
         left: left, 
@@ -86,42 +86,52 @@ $(function(){
         height: 100,
         bottom: 30,
         opacity: 0
-      }, 500, 'easeInOutCubic', function(){
+    }, 500, 'easeInOutCubic', function(){
         $(which_tab).css('z-index', 1);
         z++;
-      });
+    });
+  }
+});
+
+$(".proj-select").on('click', function(event) {
+    if (!mobile) {
+        event.preventDefault();
+        event.stopPropagation();
+        var url = $(this).attr("href"),
+            frameDocument = $('.proj-prev')[0].contentDocument;
+
+        // Empty the frame Document
+        frameDocument.open();
+        frameDocument.close();
+
+        $(".flex-frame").toggle();
+
+        $.get(url, function(data) {
+            // TODO: only update if the url is different
+            frameDocument.open();
+            frameDocument.write(data);
+            frameDocument.close();
+        });
     }
-  });
+});
 
-  $(".flex-frame").hide();
-
-  $(".proj-select").on('click', function(event) {
-    if (!mobile){
-    event.preventDefault();
-    event.stopPropagation();
-    var url = $(this).attr("href");
-    $(".proj-prev").attr("src", url);
+$(".flex-frame").on('click', function(event) {
     $(".flex-frame").toggle();
-    }
-  });
+});
 
-  $(".flex-frame").on('click', function(event) {
-    $(".flex-frame").toggle();
-  });
+var fullH = $(window).height();
+var fullW = $(window).width();
 
-  var fullH = $(window).height();
-  var fullW = $(window).width();
-
-  $("#maximize-btn").on('click', function(event) {
+$("#maximize-btn").on('click', function(event) {
     event.stopPropagation();
     $(".proj-prev").width(fullW);
     $(".proj-prev").height(fullH);
-  });
+});
 
-  $("#minimize-btn").on('click', function(event) {
+$("#minimize-btn").on('click', function(event) {
     event.stopPropagation();
     $(".proj-prev").width(800);
     $(".proj-prev").height(500);
-  });
+});
 
-  });
+});

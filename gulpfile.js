@@ -32,15 +32,23 @@ gulp.task('images', function() {
     .pipe(gulp.dest('dist/images'))
     .pipe(notify({ message: 'Images task complete' }));
 });
+
+// JS
+gulp.task('js', function () {
+  return gulp.src('assets/js/application.js')
+    .pipe(uglify())
+    .pipe(gulp.dest('dist/js'))
+    .pipe(notify({message: 'ohai js is done'}));
+});
  
 // Clean
 gulp.task('clean', function(cb) {
-    del(['dist/assets/css', 'dist/assets/js', 'dist/assets/img'], cb)
+    del(['dist/assets/css', 'dist/assets/js', 'dist/assets/img'], cb);
 });
  
 // Default task
 gulp.task('default', ['clean'], function() {
-    gulp.start('styles', 'images');
+    gulp.start('styles', 'images', 'js');
 });
  
 // Watch

@@ -78,7 +78,7 @@ a {
   a:visited {
     color: #1756a9; }
   a:hover {
-    color: #f52935;
+    color: #e32d53;
     opacity: 0.7;
     text-decoration: none;
     -webkit-transition: 0.2s ease;
@@ -157,7 +157,7 @@ pre {
  */
 .site-header {
   min-height: 56px;
-  border-top: 5px solid #f52935;
+  border-top: 5px solid #e32d53;
   border-bottom: 1px solid #e8e8e8;
   position: relative;
   background: #fdfdfd; }
@@ -238,7 +238,7 @@ pre {
       -ms-flex-pack: distribute;
           justify-content: space-around;
   width: 100%;
-  border-bottom: 5px solid #f52935; }
+  border-bottom: 5px solid #e32d53; }
   .site-footer .footer-social {
     text-align: center;
     font-size: 22px; }

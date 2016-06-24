@@ -1,0 +1,66 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Noto Serif';
+    line-height: 1.4;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font: 2.5em 'Noto Serif', serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+    font: 1em 'Noto Sans', sans-serif;
+}
+
+.container {
+    margin: auto;
+    padding: 30px;
+    max-width: 100%;
+}
+
+.section {
+    width: 85%;
+    margin: auto;
+}
+
+.project {
+    display: table;
+}
+
+.project_part {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.project img {
+    width: 100%;
+}
+
+.lotr {
+    background: #3cd7D9;
+}
+
+.sa-blog {
+    background: #fdf249;
+}
+
+.dashboard {
+    background: #f13580;
+}
+
+.forty {
+    width: 40%;
+}
+
+@media (max-width: 520px) {
+    .project_part {
+        display: block;
+        width: 100%;
+    }
+}

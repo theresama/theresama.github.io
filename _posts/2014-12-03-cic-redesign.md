@@ -2,6 +2,7 @@
 layout: post
 title: Canadian Immigration & Citizenship Case Study Redesign
 permalink: /csc318h1f
+published: false
 ---
 
 This was a term long project for CSC318: Design of Interactive Computational Media, based on the design problem presented in the CHI 2015 Student Design Competition: "Appropriating Technologies for New Cultures". 

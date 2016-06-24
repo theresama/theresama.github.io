@@ -2,6 +2,7 @@
 layout: post
 title: facts & feelings on U of T's TA strike
 category: blog
+published: false
 ---
 
 CUPE3902 Unit 1, representing over 6000 TAs and course instructors, has been on strike at the University of Toronto since February 27th. I’ve been trying to keep up with the developments and reading opinions from both those in support of and again the strike (aka reading the arguments on Facebook, Twitter, & Reddit). Between people not wanting to read long blocks of text, and the inefficacy of arguments presented over back and forth single liners, there’s been a whole lot of frustration, confusion, misinformation, outrage, and general upset with the situation. 

@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <style>
+            * {
+                box-sizing: border-box;
+            }
+            body {
+                margin: 0;
+                height: 100%;
+                overflow: hidden;
+            }
+
+            main {
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+                justify-content: space-between;
+                background: url('../../assets/images/pink.jpg');
+                padding: 41px;
+                font: 41px 'Shrikhand', serif;
+            }
+            .flex-end {
+                align-self: flex-end;
+            }
+            .flex-center {
+                align-self: center;
+            }
+            .clandestine {
+                text-shadow: 3px 2px rgba(255, 74, 157, 0.48);
+                color: white;
+            }
+            .clench {
+                text-shadow: 3px 2px rgba(255, 74, 157, 0.48);
+                color: #f00;
+            }
+            .h-100 {
+                height: 100%;
+            }
+        </style>
+        <main>
+            <p class="clandestine h-100">
+                we're just two people<br>
+                who matter to each other<br>
+                nothing clandestine<br>
+            </p>
+
+            <span style="position: absolute; left: 85%; top: 85%;"> 
+                <a href="#clench">-></a>
+            </span>
+
+            <span id="clench" style="position: absolute; top: 100%"></span>
+            <p class="flex-center clench h-100">
+                i moaned your name to<br>
+                the walls as the walls inside<br>
+                me clenched & collapsed<br>
+            </p>
+
+            <span style="position: absolute; left: 85%; top: 185%;"> 
+                <a href="#truth">-></a>
+            </span>
+            <span id="truth" style="position: absolute; top: 175%"></span>
+            <p class="flex-end clandestine h-100">
+                if we told the truth<br>
+                they would look at us and say,<br>
+                "that's really fucked up"<br>
+            </p>
+        </main>
+    </body>
+</html>

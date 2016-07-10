@@ -1,0 +1,50 @@
+[class^="box-"] {
+    position: relative;
+    float: left;
+    background: $square-background;
+    box-shadow: $square-box-shadow;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+[class^="box-"]:before {
+    content: ' ';
+    display: block;
+    padding-top: 75%;
+    float: left;
+}
+[class^="box-"].half-height:before {
+    padding-top: 37%;
+}
+[class^="box-"].double-height:before {
+    padding-top: 150%;
+}
+[class^="box-"].triple-height:before {
+    padding-top: 300%;
+}
+.box-25 {
+    width: 25%;
+}
+.box-50 {
+    width: 50%;
+}
+.box-75 {
+    width: 75%;
+}
+.box-100 {
+    width: 100%;
+}
+
+@media screen and (max-width: 480px) {
+    .box-25,
+    .box-50,
+    .box-75,
+    .box-100 {
+        width: 100%;
+    }
+    .box-25 .box-25,
+    .box-50 .box-25,
+    .box-75 .box-25,
+    .box-100 .box-25 {
+        width: 50%;
+    }
+}

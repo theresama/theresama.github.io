@@ -4,9 +4,6 @@
         <title>textures & colours</title>
         <link rel="stylesheet" type="text/css" href="../../assets/css/square.css">
         <link href="../../assets/css/zoom.css" rel="stylesheet">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
-        <script src="../../assets/js/transition.js"></script>
-        <script src="../../assets/js/zoom.js"></script>
         <style>
             img {
                 width: 100%;
@@ -25,14 +22,54 @@
             .pull-right {
                 float: right;
             }
+            .container {
+                width: 75%;
+                margin: auto;
+                margin-bottom: 50px;
+                overflow: auto;
+            }
+
+            a, h1, p {
+                color: rgb(78, 78, 78);
+                font-family: 'Georgia', sans-serif;
+            }
+
+            h1 {
+                font-size: 1.5em;
+            }
+            
+            a {
+                text-decoration: none;
+            }
+
+            @media (max-width: 480px) {
+                h1 {
+                    -webkit-margin-before: 0;
+                    -webkit-margin-after: 0;
+                }
+
+                p {
+                    -webkit-margin-before: 0;
+                }
+            }
+
+            @media (max-width: 720px) {
+                .hide-sm {
+                    display: none;
+                }
+            }
         </style>
     </head>
     <body>
-        <div style="width: 75%; margin: auto">
+        <div class="container">
             <div class="">
-                <h1 class="inline-b">austria</h1>
+                <h1 class="inline-b" style="margin-right: 3px">austria</h1>
                 <p class="inline-b">a collection of textures + colours</p>
-                <h1 class="inline-b pull-right">theresa ma</h1>
+                <h1 class="inline-b pull-right hide-sm">
+                    <a href="/">
+                        theresa ma
+                    </a>
+                </h1>
             </div>
             <div class="box-25">
                 <img src="../../assets/images/textures/1.jpg" data-action="zoom">
@@ -118,8 +155,21 @@
             <div class="box-25">
                 <img src="../../assets/images/textures/28.jpg" data-action="zoom">
             </div>
+            <div class="box-25">
+                <img src="../../assets/images/textures/29.jpg" data-action="zoom">
+            </div> 
+            <div class="box-25">
+                <img src="../../assets/images/textures/30.jpg" data-action="zoom">
+            </div> 
+            <div class="box-25">
+                <img src="../../assets/images/textures/31.jpg" data-action="zoom">
+            </div> 
+            <div class="box-25">
+                <img src="../../assets/images/textures/32.jpg" data-action="zoom">
+            </div>
         </div>
-    
-
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script> 
+        <script src="../../assets/js/transition.js"></script>
+        <script src="../../assets/js/zoom.js"></script>
     </body>
 </html>

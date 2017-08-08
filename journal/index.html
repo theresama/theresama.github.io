@@ -1,0 +1,28 @@
+---
+layout: journal
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Journal</h1>
+
+  <ul class="post-list">
+    {% for post in site.categories.journal %}
+    {% if post.categories contains 'archive' or post.categories contains 'travel' %}
+    {% else %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        <p>{{ post.content }} </p>
+      </li>
+    {% endif%}
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

@@ -5,33 +5,14 @@
 
   <body>
 
-    {% include header.html %}
-
-    <main class="default-main">
-      <div class="row min-h" style="min-height: 75%;">
-        <div class="page-content" >
-          <div>
-            <div class="post-wrap">
-              {{ content }}
-            </div>
-          </div>
+    <div class="page-content">
+      <div class="wrapper">
+        {% include sidebar.html %}
+        <div class="main">
+            {{ content }}
         </div>
       </div>
-      
-    </main>
-  {% include footer.html %}
-    
-
-    <script>
-      $(function(){
-        var height = $(window).height();
-
-        $('.min-h').css('min-height', height - 190);
-
-      })
-
-
-    </script>
+    </div>
 
   </body>
 

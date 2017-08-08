@@ -1,0 +1,19 @@
+---
+layout: archive
+permalink: /journal/archive/
+---
+
+<div class="post-entries">
+{% for post in site.categories.archive %}
+    <div class="post-entry">
+        <a name="{{ post.url }}" class="anchor-link">
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        <p>{{ post.content }} </p>
+    </div>
+{% endfor %}
+</div>

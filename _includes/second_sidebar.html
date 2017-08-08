@@ -1,0 +1,86 @@
+<style>
+.post-index {
+    position: fixed;
+    width: 150px;
+    padding: 0 10px;
+}
+
+.post-entries {
+    margin-left: 170px;
+    padding-left: 30px;
+}
+
+.post-entry {
+    margin-bottom: 60px;
+}
+
+.post-index li {
+    display: block;
+}
+
+.anchor-link {
+    padding-top: 15px;
+}
+</style>
+
+<div class="post-index sidebar">
+    <a href="/journal/{{ include.type }}">
+        <strong>{{ include.type }}</strong>
+    </a>
+    <ul class="nav-projects">
+        {% if include.type == 'archive' %}
+        {% for post in site.categories.archive %}
+        <li>
+            {% if include.index == 'true' %}
+            <a href="#{{ post.url }}">
+                <span class="archive-post-link">
+                    {{ post.date | date: "%b %-d, %Y" }}
+                </span>
+            </a>
+            {% else %}
+                {% if post.url == page.url %}
+                <a href="{{ post.url | prepend: site.baseurl}}" class="highlight">
+                    <span class="archive-post-link">
+                        {{ post.date | date: "%b %-d, %Y" }}
+                    </span>
+                </a>
+                {% else %}
+                <a href="{{ post.url | prepend: site.baseurl}}">
+                    <span class="archive-post-link">
+                        {{ post.date | date: "%b %-d, %Y" }}
+                    </span>
+                </a>
+                {% endif %}
+            {% endif %}
+        </li>
+        {% endfor %}
+        {% else if include.type == 'travel' %}
+        {% for post in site.categories.travel %}
+        <li>
+            {% if include.index == 'true' %}
+            <a href="#{{ post.url }}">
+                <span class="archive-post-link">
+                    {{ post.title }}
+                </span>
+            </a>
+            {% else %}
+                {% if post.url == page.url %}
+                <a href="{{ post.url | prepend: site.baseurl}}" class="highlight">
+                    <span class="archive-post-link">
+                        {{ post.title }}
+                    </span>
+                </a>
+                {% else %}
+                <a href="{{ post.url | prepend: site.baseurl}}">
+                    <span class="archive-post-link">
+                        {{ post.title }}
+                    </span>
+                </a>
+                {% endif %}
+            {% endif %}
+        </li>
+        {% endfor %}
+        {% endif %}
+    </ul>
+</div>
+

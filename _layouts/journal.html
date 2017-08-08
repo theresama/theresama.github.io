@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {% include journal_sidebar.html %}
+        <div class="main">
+            <a name="{{ page.url }}" class="anchor-link">
+            <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            </h2>
+            {{ content }}
+        </div>
+      </div>
+    </div>
+
+  </body>
+
+</html>

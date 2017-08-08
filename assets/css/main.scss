@@ -1,53 +1,49 @@
-// ---
-// # Only the main Sass file needs front matter (the dashes are enough)
-// ---
-// @charset "utf-8";
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
 
 
 // Our variables
-$base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-family: sans-serif;
+$base-font-size:   12px;
+$base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit:     40px;
 
-$text-color:       #666;
+$text-color:       #111;
+$highlight-color:  #ffff00;
 $background-color: #fdfdfd;
-$link-color:       #2a7ae2;
-$brand-color: 	   #e32d53;
+$brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$pink: #F1498D;
+// Width of the content area
+$content-width:    1300px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
 
 
-// Using media queries with like this:
-// @include media-query($palm) {
+
+// Use media queries like this:
+// @include media-query($on-palm) {
 //     .wrapper {
 //         padding-right: $spacing-unit / 2;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
-
-
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
     }
 }
 
-html{
-	height: 100%;
-	width: 100%;
-	
-	-webkit-font-smoothing: subpixel-antialiased;
-}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
@@ -56,112 +52,3 @@ html{
         "layout",
         "syntax-highlighting"
 ;
-
-@media(width: 800px){
-	.site-header{
-		display: none !important;
-	}
-
-	.default-main{
-		margin-top: 0px !important;
-	}
-
-	.link-back{
-		display: none !important;
-	}
-
-	.page-content {
-	    margin-top: 0px !important;
-	}
-}
-
-.default-main{
-	width: 95%;
-	margin: auto;
-}
-
-.float-none{
-	float: none !important;
-}
-
-.link-back{
-	display: inline-block;
-	margin-bottom: 15px;
-	text-transform: uppercase;
-	font-size: 0.9em;
-}
-
-.post-title{
-	color: #111;
-	transition: 0.2s ease;
-	
-	&:hover {
-	    opacity: 0.7;
-	    text-decoration: none;
-	    transition: 0.2s ease;
-	}
-}
-
-
-.site-header{
-	color: white;
-	position: fixed;
-	width: 100%;
-}
-
-.name{
-	font-size: 4.5em;
-	color: #fff;
-	margin: 0px;
-	margin-top: 35vh;
-}
-
-.title{
-	font-size: 1.7em;
-	color: #fff;
-	margin: 0px;
-}
-
-.contact{
-	margin-top: 10px;
-	color: #fff;
-	li{
-		list-style: none;
-		padding-left: 0px;
-		display: inline;
-		font-size: 0.9em;
-		margin: 10px 20px;
-	}
-
-	a {
-		color: #333;
-	}
-}
-
-.body-info{
-	width: 40%;
-	margin: auto;
-	text-align: center;
-	max-height: 90%;
-}
-
-.head-wrapper{
-	width: 100%;
-	padding-left: 10px;
-	padding-right:10px;
-	margin: auto;
-	height: 100%;
-}
-
-.post-wrap{
-	width: 60%;
-	margin: auto;
-}
-
-@media (max-width: 801px){
-	.post-wrap{
-		width: 85%;
-	}
-}
-
-

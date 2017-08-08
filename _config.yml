@@ -1,18 +1,67 @@
-github: [Repository metadata]
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
 title: Theresa Ma
-email: theresa.ma@mail.utoronto.ca
+email: hello@theresa.ma
 description: > # this means to ignore newlines until "baseurl:"
-  Software engineer dabbling in design; computer & cognitive science student at the University of Toronto.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://theresama.github.io" # the base hostname & protocol for your site
-twitter_username: theresamatweets
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://theresa.ma" # the base hostname & protocol for your site
+twitter_username: mapotato
 github_username:  theresama
-site: .
+
+collections:
+  essays:
+    output: true
+    permalink: /:collection/:name
+  pictures:
+    output: true
+    permalink: /:collection/:name
+  misc:
+    output: true
+    permalink: /works/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: pictures
+    values:
+      layout: page
+  - scope:
+      path: "assets/images/bw"
+    values:
+      project: bw
+  - scope:
+      path: "assets/images/berlin"
+    values:
+      project: berlin
+  - scope:
+      path: "assets/images/people"
+    values:
+      project: people
+  - scope:
+      path: "assets/images/textures"
+    values:
+      project: austria
+  - scope:
+      path: "_posts/tumblr/vacuous-truths"
+    values:
+      layout: archive
+  - scope:
+      path: "_posts/tumblr/travel"
+    values:
+      layout: travel
+  - scope:
+      path: "assets/images"
+    values:
+      type: imgs
 
 # Build settings
 markdown: kramdown
-gems:
-  - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from

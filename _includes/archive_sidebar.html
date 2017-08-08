@@ -1,0 +1,49 @@
+<aside class="sidebar">
+    <a href="{{ '/about' | prepend: site.baseurl }}/">
+        <img class="nav-photo" src="{{ site.url }}/assets/images/tma.png">
+    </a>
+
+    <nav class="nav">
+        <ul>
+            {% for my_page in site.pages %}
+            {% if my_page.title %}
+            <li>
+                <a  href="/about{{ prepend: site.baseurl }}">home</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+
+        </ul>
+
+        <div class="nav-projects journal-list">
+
+            <a href="{{ '/journal/archive' | prepend: site.baseurl }}" class="highlight"><strong>archive</strong></a>
+            <ul class="entry-list">
+                {% for post in site.categories.archive %}
+                <li>
+                    {% if page.url == post.url %}
+                        <a href="{{ post.url | prepend: site.baseurl }}" class="highlight" >{{ post.date | date: "%b %-d, %Y" }}</a>
+                    {% else %}
+                        <a href="{{ post.url | prepend: site.baseurl }}" >{{ post.date | date: "%b %-d, %Y" }}</a>
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+            <ul>
+                <li>
+                    <strong>
+                        <a href="{{ '/journal/' | prepend: site.baseurl}}">journal</a>
+                    </strong>
+                 </li>
+                <li>
+                    <strong>
+                        <a href="{{ '/journal/travel/' | prepend: site.baseurl}}">travel</a>
+                    </strong>
+                 </li>
+            </ul>
+
+
+            {% include icon-twitter.html username=site.twitter_username %}<br>
+        </div>
+    </nav>
+</aside>

@@ -1,0 +1,50 @@
+<aside class="sidebar">
+    <a href="{{ '/about' | prepend: site.baseurl }}/">
+        <img class="nav-photo" src="{{ site.url }}/assets/images/tma.png">
+    </a>
+
+    <nav class="nav">
+        <ul>
+            {% for my_page in site.pages %}
+                {% if my_page.title %}
+                {% if my_page.url == page.url' %}
+                    <a  href="{{ my_page.url | prepend: site.baseurl }}" class="highlight">{{ my_page.title }}</a>
+                {% else %}
+                <a  href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                {% endif %}
+                {% endif %}
+            {% endfor %}
+
+        </ul>
+
+        <div class="nav-projects">
+
+            {% for collection in site.collections %}
+            {% if collection.label != 'posts' %}
+                <strong>{{ collection.label }}</strong>
+                <ul>
+                    {% for project in collection.docs %}
+                    {% if project.title %}
+                    <li>
+                        {% if page.title == project.title %}
+                            <a href="{{ project.url | prepend: site.baseurl }}" class="highlight" >{{ project.title }}</a>
+                        {% else %}
+                            <a href="{{ project.url | prepend: site.baseurl }}" >{{ project.title }}</a>
+                        {% endif %}
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+            {% endif %}
+            {% endfor %}
+        </div>
+        <ul>
+            <li>
+                <strong>
+                    <a href="{{ '/journal/' | prepend: site.baseurl}}">journal</a>
+                </strong>
+             </li>
+        </ul>
+        {% include icon-twitter.html username=site.twitter_username %}
+    </nav>
+</aside>

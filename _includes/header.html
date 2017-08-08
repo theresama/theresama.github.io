@@ -1,8 +1,8 @@
 <header class="site-header">
 
-  <div class="wrapper nav-border">
+  <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">theresa ma</a>
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,17 +14,11 @@
       </a>
 
       <div class="trigger">
-        <!-- {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
-        {% endfor %} -->
-        <a class="page-link" href="/">Home</a>
-        <a class="page-link" href="/blog">Projects/Blog</a>
-        <a class="page-link" href="mailto:theresa.ma@mail.utoronto.ca">e-mail</a>
-        <a class="page-link" href="//twitter.com/theresamatweets">twitter</a>
-        <a class="page-link" href="//github.com/theresama">github</a>
-        <a class="page-link" href="//www.linkedin.com/in/matheresa">linkedin</a>
+        {% endfor %}
       </div>
     </nav>
 

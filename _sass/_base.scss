@@ -8,11 +8,6 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-html, body {
-    height: 100%;
-}
-
-
 /**
  * Basic styling
  */
@@ -119,6 +114,13 @@ blockquote {
 
     > :last-child {
         margin-bottom: 0;
+    }
+
+    .source {
+        float: right;
+        font-weight: bold;
+        display: block;
+        line-height: 2;
     }
 }
 

@@ -7,9 +7,6 @@ dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0; }
 
-html, body {
-  height: 100%; }
-
 /**
  * Basic styling
  */
@@ -86,6 +83,11 @@ blockquote {
   font-size: 12px; }
   blockquote > :last-child {
     margin-bottom: 0; }
+  blockquote .source {
+    float: right;
+    font-weight: bold;
+    display: block;
+    line-height: 2; }
 
 /**
  * Code formatting
@@ -326,7 +328,7 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 40px 0;
+  padding: 40px 0 80px 0;
   height: 100%; }
 
 .page-heading {

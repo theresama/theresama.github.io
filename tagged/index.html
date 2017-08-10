@@ -1,0 +1,35 @@
+---
+layout: journal
+---
+
+{% for post in site.categories.journal %}
+    {% if post.categories contains 'archive' or post.categories contains 'travel' %}
+    {% else %}
+
+    {% assign all_tags = post.tags %}
+
+    {% for post in site.categories.journal %}
+        {% if post.categories contains 'archive' or post.categories contains 'travel' %}
+        {% else %}
+
+        {% assign all_tags = post.tags | concat: all_tags %}
+
+        {% endif %}
+    {% endfor %}
+
+    {% endif %}
+{% endfor %}
+
+{% assign uniq_tags = all_tags | uniq %}
+{% for tag in uniq_tags %}
+    <a name="{{tag}}">related to: {{ tag }}
+    </a>
+    <ul>
+        {% for po in site.tags.[tag] %}
+            {% if post.categories contains 'archive' or post.categories contains 'travel' %}
+            {% else %}
+                <li><a href="{{ po.path }}">{{ po.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endfor %}

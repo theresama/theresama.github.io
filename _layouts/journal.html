@@ -15,7 +15,27 @@
             <h2>
               <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
             </h2>
+
+
             {{ content }}
+
+            <p>
+                <small>Tags:
+                    {% for tag in page.tags %}
+                    <a href="/tagged#{{ tag | prepend: site.baseurl }}">{{ tag }}</a>
+                    {% endfor %}
+                </small>
+            </p>
+
+            <div>
+                {% if page.previous %}
+                    <a href="{{ page.previous.url }}">< previous: {{ page.previous.title }}</a>
+                {% endif %}
+                {% if page.next %} 
+                    <a href="{{ page.next.url }}" style="float: right;">next: {{ page.next.title }} > </a>
+                {% endif %}
+            </div>
+
         </div>
       </div>
     </div>

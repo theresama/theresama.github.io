@@ -3,7 +3,7 @@ title: to end of days
 layout: default
 ---
 
-<img src="../assets/images/lotr.png">
+<img src="../assets/images/lotr.png" style="max-width: 600px; width: 100%;">
 
 **to end of days** is an arrangement for concert band of selections from Howard Shore's Lord of the Rings Soundtrack.  
 

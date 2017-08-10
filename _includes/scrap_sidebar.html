@@ -1,5 +1,5 @@
 <aside class="sidebar">
-    <a href="{{ '/about' | prepend: site.baseurl }}/">
+    <a href="/about{{ prepend: site.baseurl }}/">
         <img class="nav-photo" src="{{ site.url }}/assets/images/tma.png">
     </a>
 
@@ -17,33 +17,33 @@
 
         <div class="nav-projects journal-list">
 
-            <a href="{{ '/journal/archive' | prepend: site.baseurl }}" class="highlight"><strong>archive</strong></a>
+            <a href="{{ '/scrapblog' | prepend: site.baseurl }}" class="highlight"><strong>scrapblog</strong></a>
+
             <ul class="entry-list">
-                {% for post in site.categories.archive %}
-                <li>
-                    {% if page.url == post.url %}
-                        <a href="{{ post.url | prepend: site.baseurl }}" class="highlight" >{{ post.date | date: "%b %-d, %Y" }}</a>
-                    {% else %}
-                        <a href="{{ post.url | prepend: site.baseurl }}" >{{ post.date | date: "%b %-d, %Y" }}</a>
-                    {% endif %}
-                </li>
+                {% for post in site.categories.scrapblog %}
+                    <li>
+                        {% if page.url == post.url %}
+                            <a href="{{ post.url | prepend: site.baseurl }}" class="highlight" >{{ post.title }}</a>
+                        {% else %}
+                            <a href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a>
+                        {% endif %}
+                    </li>
                 {% endfor %}
             </ul>
             <ul>
                 <li>
                     <strong>
-                        <a href="{{ '/journal/' | prepend: site.baseurl}}">journal</a>
+                        <a href="{{ '/journal' | prepend: site.baseurl}}">journal</a>
                     </strong>
                  </li>
-                <li>
-                    <strong>
-                        <a href="{{ '/scrapblog/' | prepend: site.baseurl}}">scrapblog</a>
-                    </strong>
-                 </li>
-                <li>
                 <li>
                     <strong>
                         <a href="{{ '/journal/travel/' | prepend: site.baseurl}}">travel</a>
+                    </strong>
+                 </li>
+                <li>
+                    <strong>
+                        <a href="{{ '/journal/archive/' | prepend: site.baseurl}}">archive</a>
                     </strong>
                  </li>
             </ul>

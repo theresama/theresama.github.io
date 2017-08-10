@@ -8,7 +8,9 @@
             {% for my_page in site.pages %}
             {% if my_page.title %}
             <li>
-                <a  href="/about{{ prepend: site.baseurl }}">home</a>
+                <strong>
+                    <a  href="/about{{ prepend: site.baseurl }}">about</a>
+                </strong>
             </li>
             {% endif %}
             {% endfor %}

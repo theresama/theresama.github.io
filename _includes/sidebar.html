@@ -8,9 +8,9 @@
             {% for my_page in site.pages %}
                 {% if my_page.title %}
                 {% if my_page.url == page.url' %}
-                    <a  href="{{ my_page.url | prepend: site.baseurl }}" class="highlight">{{ my_page.title }}</a>
+                <strong><a  href="{{ my_page.url | prepend: site.baseurl }}" class="highlight">{{ my_page.title }}</a></strong>
                 {% else %}
-                <a  href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                <strong><a  href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></strong>
                 {% endif %}
                 {% endif %}
             {% endfor %}

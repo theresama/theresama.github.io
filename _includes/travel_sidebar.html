@@ -8,10 +8,22 @@
             {% for my_page in site.pages %}
             {% if my_page.title %}
             <li>
-                <a  href="/about{{ prepend: site.baseurl }}">home</a>
+                <strong>
+                    <a  href="/about{{ prepend: site.baseurl }}">about</a>
+                </strong>
             </li>
             {% endif %}
             {% endfor %}
+            <li>
+                <strong>
+                    <a href="{{ '/journal/' | prepend: site.baseurl}}">journal</a>
+                </strong>
+             </li>
+            <li>
+                <strong>
+                    <a href="{{ '/scrapblog/' | prepend: site.baseurl}}">scrapblog</a>
+                </strong>
+             </li>
 
         </ul>
 
@@ -30,16 +42,6 @@
                 {% endfor %}
             </ul>
             <ul>
-                <li>
-                    <strong>
-                        <a href="{{ '/journal/' | prepend: site.baseurl}}">journal</a>
-                    </strong>
-                 </li>
-                <li>
-                    <strong>
-                        <a href="{{ '/scrapblog/' | prepend: site.baseurl}}">scrapblog</a>
-                    </strong>
-                 </li>
                 <li>
                     <strong>
                         <a href="{{ '/journal/archive/' | prepend: site.baseurl}}">archive</a>

@@ -1,6 +1,7 @@
 ---
 title: austria
 layout: pictures
+categories: projects
 ---
 
 <style>

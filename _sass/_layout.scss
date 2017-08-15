@@ -68,7 +68,7 @@
         }
 
         .nav-projects.journal-list {
-            display: inline-block;
+            display: inline;
 
             .entry-list {
                 display: none;
@@ -339,4 +339,28 @@
             font-size: 18px;
         }
     }
+}
+
+.nav-proj-mobile {
+    display: none;
+    width: 90%;
+    border-bottom: 1px solid grey;
+}
+
+#mobile-projs:checked + .nav-proj-mobile{
+    display: block;
+}
+
+@include media-query($on-palm) {
+    li.mobile-only {
+        display: inline-block !important;
+    }
+
+    .nav-proj-mobile a {
+        text-decoration: underline;
+    }
+}
+
+li.mobile-only {
+    display: none;
 }

@@ -1,6 +1,7 @@
 ---
 title: berlin
 layout: pictures
+categories: projects
 ---
 
 <style>
@@ -9,12 +10,26 @@ layout: pictures
         padding: 7px;
     }
 
+    @media (max-width: 600px) {
+        table, tr, td {
+            display: block;
+        }
+
+        table img {
+            width: 100%;
+        }
+
+        .caption {
+            display: none;
+        }
+    }
+
 </style>
 
 <table class="table-wrapper">
     <tr>
         <td><img width="400" src="../../assets/images/berlin/1.jpg"></td>
-        <td>
+        <td class="caption">
             <p>
                 left: Brandenburger Tor<br>
                 diagonal: a fly<br>

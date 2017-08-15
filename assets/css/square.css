@@ -39,12 +39,12 @@
     .box-50,
     .box-75,
     .box-100 {
-        width: 100%;
+        width: 33%;
     }
     .box-25 .box-25,
     .box-50 .box-25,
     .box-75 .box-25,
     .box-100 .box-25 {
-        width: 50%;
+        width: 33%;
     }
 }

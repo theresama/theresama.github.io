@@ -194,7 +194,7 @@ pre {
     .sidebar .nav-projects {
       display: none; }
     .sidebar .nav-projects.journal-list {
-      display: inline-block; }
+      display: inline; }
       .sidebar .nav-projects.journal-list .entry-list {
         display: none; }
     .sidebar .link-title {
@@ -382,6 +382,23 @@ pre {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+.nav-proj-mobile {
+  display: none;
+  width: 90%;
+  border-bottom: 1px solid grey; }
+
+#mobile-projs:checked + .nav-proj-mobile {
+  display: block; }
+
+@media screen and (max-width: 600px) {
+  li.mobile-only {
+    display: inline-block !important; }
+
+  .nav-proj-mobile a {
+    text-decoration: underline; } }
+li.mobile-only {
+  display: none; }
 
 /**
  * Syntax highlighting styles

@@ -18,7 +18,6 @@
         </ul>
 
         <div class="nav-projects">
-
             {% for collection in site.collections %}
             {% if collection.label != 'posts' %}
                 <strong>{{ collection.label }}</strong>
@@ -39,6 +38,15 @@
             {% endfor %}
         </div>
         <ul>
+            <li class="mobile-only">
+                <strong>
+                    {% if page.categories %}
+                        <label for="mobile-projs" class="highlight">projects</label>
+                    {% else %}
+                        <label for="mobile-projs">projects</label>
+                    {% endif %}
+                </strong>
+             </li>
             <li>
                 <strong>
                     <a href="{{ '/journal/' | prepend: site.baseurl}}">journal</a>
@@ -51,5 +59,28 @@
              </li>
         </ul>
         {% include icon-twitter.html username=site.twitter_username %}
+
+
+        <input type="checkbox" id="mobile-projs" style="display: none;">
+        <div class="nav-proj-mobile">
+            {% for collection in site.collections %}
+            {% if collection.label != 'posts' %}
+                <ul>
+                    {% for project in collection.docs %}
+                    {% if project.title %}
+                    <li>
+                        {% if page.title == project.title %}
+                            <a href="{{ project.url | prepend: site.baseurl }}" class="highlight" >{{ project.title }}</a>
+                        {% else %}
+                            <a href="{{ project.url | prepend: site.baseurl }}" >{{ project.title }}</a>
+                        {% endif %}
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+            {% endif %}
+            {% endfor %}
+        </div>
+
     </nav>
 </aside>

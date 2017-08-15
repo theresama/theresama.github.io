@@ -1,6 +1,7 @@
 ---
 title: language
 layout: default
+categories: projects
 ---
 
 The Role of Language in Mind: A Discussion

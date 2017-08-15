@@ -13,6 +13,18 @@ layout: pictures
         display: flex;
     }
 
+    @media (max-width: 600px) {
+        .flex-wrapper {
+            display: block
+        }
+
+        .flex-wrapper img {
+            height: auto !important;
+            width: 100%;
+            padding: 10px 0 !important;
+        }
+    }
+
     .flex-wrapper img {
         height: 450px;
         padding: 10px;

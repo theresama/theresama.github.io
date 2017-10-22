@@ -8,7 +8,7 @@ layout: journal
 
   <ul class="post-list">
     {% for post in site.categories.journal %}
-    {% if post.categories contains 'archive' or post.categories contains 'travel' %}
+    {% if post.categories contains 'travel' %}
     {% else %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>

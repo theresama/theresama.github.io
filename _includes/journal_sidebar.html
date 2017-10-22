@@ -32,7 +32,31 @@
 
             <ul class="entry-list">
                 {% for post in site.categories.journal %}
-                {% if post.categories contains 'archive' or post.categories contains 'travel' %}
+                {% if post.categories contains 'travel' %}
+                {% else if post.categories contains 'archive' %}
+                    <li>
+                        {% if include.index == 'true' %}
+                        <a href="#{{ post.url }}">
+                            <span class="archive-post-link">
+                                {{ post.date | date: "%b %-d, %Y" }}
+                            </span>
+                        </a>
+                        {% else %}
+                            {% if post.url == page.url %}
+                            <a href="{{ post.url | prepend: site.baseurl}}" class="highlight">
+                                <span class="archive-post-link">
+                                    {{ post.date | date: "%b %-d, %Y" }}
+                                </span>
+                            </a>
+                            {% else %}
+                            <a href="{{ post.url | prepend: site.baseurl}}">
+                                <span class="archive-post-link">
+                                    {{ post.date | date: "%b %-d, %Y" }}
+                                </span>
+                            </a>
+                            {% endif %}
+                        {% endif %}
+                    </li>
                 {% else %}
                 <li>
                     {% if page.url == post.url %}
@@ -48,11 +72,6 @@
                 <li>
                     <strong>
                         <a href="{{ '/scrapblog' | prepend: site.baseurl}}">scrapblog</a>
-                    </strong>
-                 </li>
-                <li>
-                    <strong>
-                        <a href="{{ '/journal/archive/' | prepend: site.baseurl}}">archive</a>
                     </strong>
                  </li>
             </ul>

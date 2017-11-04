@@ -24,6 +24,9 @@ collections:
   misc:
     output: true
     permalink: /works/:name
+  words:
+    output: true
+    permalink: /:collection/:name
 
 defaults:
   - scope:

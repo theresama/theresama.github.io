@@ -1,88 +1,92 @@
 head {
-	display: none;
+    display: none;
 }
 
 body {
-	margin: 0px;
+    margin: 0px;
 }
 
 table {
-	width: 100%;
-	word-break: break-word;
-	font-size: initial;
-	font-family: monospace;
-	tab-size: 4;
-	white-space: pre-wrap;
-	border-spacing: 0px;
-	margin: 0px;
+    width: 100%;
+    word-break: break-word;
+    font-size: initial;
+    font-family: monospace;
+    tab-size: 4;
+    white-space: pre-wrap;
+    border-spacing: 0px;
+    margin: 0px;
 
-	line-height: normal;
-	font-weight: normal;
-	font-variant: normal;
-	font-style: normal;
-	color: -internal-quirk-inherit;
-	text-align: start;
+    line-height: normal;
+    font-weight: normal;
+    font-variant: normal;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
 
-	display: table;
-	border-collapse: separate;
-	border-color: grey;
+    display: table;
+    border-collapse: separate;
+    border-color: grey;
 }
 
 tbody {
-	display: table-row-group;
-	vertical-align: middle;
-	border-color: inherit;
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
 }
 
 tr {
-	display: table-row;
-	vertical-align: inherit;
-	border-color: inherit;
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
 }
 
 .line-gutter-backdrop {
-	position: absolute;
-	z-index: -1;
-	left: 0px;
-	top: 0px;
-	height: 100%;
+    position: absolute;
+    z-index: -1;
+    left: 0px;
+    top: 0px;
+    height: 100%;
 }
 
 .line-gutter-backdrop, .line-number {
-	box-sizing: border-box;
-	width: 31px;
-	background-color: rgb(240, 240, 240);
-	-webkit-user-select: none;
-	padding: 0px 4px !important;
-	border-right: 1px solid rgb(187, 187, 187) !important;
+    box-sizing: border-box;
+    width: 31px;
+    background-color: rgb(240, 240, 240);
+    -webkit-user-select: none;
+    padding: 0px 4px !important;
+    border-right: 1px solid rgb(187, 187, 187) !important;
 }
 
 .line-number {
-	text-align: right;
-	color: rgb(128, 128, 128);
-	word-break: normal;
-	white-space: nowrap;
-	font-size: 9px;
-	font-family: Helvetica;
-	-webkit-user-select: none;
+    text-align: right;
+    color: rgb(128, 128, 128);
+    word-break: normal;
+    white-space: nowrap;
+    font-size: 9px;
+    font-family: Helvetica;
+    -webkit-user-select: none;
 }
 
 .line-number::before {
-	content: attr(value);
+    content: attr(value);
 }
 
 .line-content {
-	padding: 0px 5px !important;
+    padding: 0px 5px !important;
 }
 
 .html-tag {
-	color: rgb(136, 18, 128);
+    color: rgb(136, 18, 128);
 }
 
 .html-attribute-name {
-	color: rgb(153, 69, 0);
+    color: rgb(153, 69, 0);
 }
 
 .html-attribute-value {
-	color: rgb(26, 26, 166);
+    color: rgb(26, 26, 166);
+}
+
+.html-doctype {
+    color: rgb(192, 192, 192);
 }

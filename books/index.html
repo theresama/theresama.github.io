@@ -1,0 +1,107 @@
+---
+layout: default
+title: books
+---
+
+<style>
+
+.bookshelf {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main {
+    flex-basis: 87%;
+}
+
+.book {
+    width: 236px;
+    padding: 10px 5px 10px 0;
+    box-sizing: border-box;
+}
+
+.book_info {
+    padding-left: 5px;
+}
+
+.book_info p {
+    margin-bottom: 0;
+}
+
+.info_title {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-height: 52px;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+}
+
+table {
+	margin-bottom: 50px;
+}
+
+</style>
+
+
+<Strong>Currently Reading: </Strong>
+
+<table>
+    <tbody class="bookshelf">
+{% for book in site.data.currently-reading %}
+    <tr class="book">
+        <td class="book_img">
+            <img src={{ book.photo_url }} height=125>
+        </td>
+        <td class="book_info">
+            <a href={{ book.goodreads_url}}><strong class="info_title">{{ book.title }}</strong></a>
+            <p class"info_author">{{ book.author }}</p>
+        </td>
+    </tr>
+{% endfor %}
+    </tbody>
+</table>
+
+
+<strong>Read in 2017:</strong>
+
+<table>
+    <tbody class="bookshelf">
+{% for book in site.data.read %}
+    {% if book.finished_reading contains '2017' %}
+    <tr class="book">
+        <td class="book_img">
+            <img src={{ book.photo_url }} height=125>
+        </td>
+        <td class="book_info">
+            <a href={{ book.goodreads_url}}><strong class="info_title">{{ book.title }}</strong></a>
+            <p class"info_author">{{ book.author }}</p>
+        </td>
+    </tr>
+    {% endif %}
+{% endfor %}
+    </tbody>
+</table>
+
+
+<strong>Read in 2016:</strong>
+
+<table>
+    <tbody class="bookshelf">
+{% for book in site.data.read %}
+    {% if book.finished_reading contains '2016' %}
+    <tr class="book">
+        <td class="book_img">
+            <img src={{ book.photo_url }} height=125>
+        </td>
+        <td class="book_info">
+            <a href={{ book.goodreads_url}}><strong class="info_title">{{ book.title }}</strong></a>
+            <p class"info_author">{{ book.author }}</p>
+        </td>
+    </tr>
+    {% endif %}
+{% endfor %}
+    </tbody>
+</table>
+
+<strong>See more on <a href="https://www.goodreads.com/user/show/8086458-theresa" target="_blank">Goodreads</a></strong>

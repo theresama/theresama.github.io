@@ -1,3 +1,10 @@
+- title: "Bossypants"
+  author: Tina Fey
+  goodreads_url: 'https://www.goodreads.com/book/show/12090316-bossypants'
+  photo_url: 'https://images.gr-assets.com/books/1311307468m/12090316.jpg'
+  started_reading: 'Mon Jan 01 12:36:36 -0800 2018'
+  finished_reading: 'Thu Jan 04 19:37:58 -0800 2018'
+  rating: 5
 - title: "Mere Christianity"
   author: C.S. Lewis
   goodreads_url: 'https://www.goodreads.com/book/show/11137.Mere_Christianity'
@@ -1083,13 +1090,6 @@
   started_reading: 'None'
   finished_reading: 'None'
   rating: 5
-- title: "Othello"
-  author: William Shakespeare
-  goodreads_url: 'https://www.goodreads.com/book/show/12996.Othello'
-  photo_url: 'https://images.gr-assets.com/books/1459795105m/12996.jpg'
-  started_reading: 'None'
-  finished_reading: 'None'
-  rating: 3
 - title: "The Catcher in the Rye"
   author: J.D. Salinger
   goodreads_url: 'https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye'
@@ -1097,6 +1097,13 @@
   started_reading: 'None'
   finished_reading: 'None'
   rating: 5
+- title: "Othello"
+  author: William Shakespeare
+  goodreads_url: 'https://www.goodreads.com/book/show/12996.Othello'
+  photo_url: 'https://images.gr-assets.com/books/1459795105m/12996.jpg'
+  started_reading: 'None'
+  finished_reading: 'None'
+  rating: 3
 - title: "The Shack"
   author: William Paul Young
   goodreads_url: 'https://www.goodreads.com/book/show/1812457.The_Shack'

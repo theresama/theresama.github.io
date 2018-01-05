@@ -6,7 +6,7 @@
     <method><![CDATA[review_list]]></method>
   </Request>
   
-<reviews start="1" end="7" total="7">
+<reviews start="1" end="6" total="6">
     <review>
   <id>2243416302</id>
     <book>
@@ -79,81 +79,6 @@
   <comments_count>0</comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/2243416302]]></url>
   <link><![CDATA[https://www.goodreads.com/review/show/2243416302]]></link>
-    <owned>0</owned>
-</review>
-
-    <review>
-  <id>2236679905</id>
-    <book>
-  <id type="integer">9418327</id>
-  <isbn nil="true"/>
-  <isbn13 nil="true"/>
-  <text_reviews_count type="integer">25933</text_reviews_count>
-  <uri>kca://book/amzn1.gr.book.v1.xtYYWP2HonpKiDTapafogw</uri>
-  <title>Bossypants</title>
-  <title_without_series>Bossypants</title_without_series>
-  <image_url>https://images.gr-assets.com/books/1481509554m/9418327.jpg</image_url>
-  <small_image_url>https://images.gr-assets.com/books/1481509554s/9418327.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/9418327-bossypants</link>
-  <num_pages>283</num_pages>
-  <format>Kindle Edition</format>
-  <edition_information/>
-  <publisher>Reagan Arthur Books</publisher>
-  <publication_day>5</publication_day>
-  <publication_year>2011</publication_year>
-  <publication_month>4</publication_month>
-  <average_rating>3.95</average_rating>
-  <ratings_count>642613</ratings_count>
-  <description>Before Liz Lemon, before "Weekend Update," before "Sarah Palin," Tina Fey was just a young girl with a dream: a recurring stress dream that she was being chased through a local airport by her middle-school gym teacher. She also had a dream that one day she would be a comedian on TV.&lt;br /&gt;&lt;br /&gt;She has seen both these dreams come true.&lt;br /&gt;&lt;br /&gt;At last, Tina Fey's story can be told. From her youthful days as a vicious nerd to her tour of duty on &lt;i&gt;Saturday Night Live&lt;/i&gt;; from her passionately halfhearted pursuit of physical beauty to her life as a mother eating things off the floor; from her one-sided college romance to her nearly fatal honeymoon—from the beginning of this paragraph to this final sentence.&lt;br /&gt;&lt;br /&gt;Tina Fey reveals all, and proves what we've all suspected: you're no one until someone calls you bossy.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;(Includes Special, Never-Before-Solicited Opinions on Breastfeeding, Princesses, Photoshop, the Electoral Process, and Italian Rum Cake!)&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;An unabridged recording on 5 CDs (5.5 Hours).&lt;/i&gt;</description>
-<authors>
-<author>
-<id>4385839</id>
-<name>Tina Fey</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://images.gr-assets.com/authors/1286658273p5/4385839.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://images.gr-assets.com/authors/1286658273p2/4385839.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/4385839.Tina_Fey]]></link>
-<average_rating>3.95</average_rating>
-<ratings_count>642611</ratings_count>
-<text_reviews_count>35684</text_reviews_count>
-</author>
-</authors>
-  <published>2011</published>
-<work>  <id>14302659</id>
-  <uri>kca://work/amzn1.gr.work.v1.Vg-EwSY0DnHTnTTaFiVwZA</uri>
-</work></book>
-
-
-  <rating>0</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-
-    <shelf name="currently-reading" exclusive="true" review_shelf_id="1885365615" sortable="false" />
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at>Mon Jan 01 12:36:36 -0800 2018</started_at>
-  <read_at></read_at>
-  <date_added>Mon Jan 01 12:36:35 -0800 2018</date_added>
-  <date_updated>Mon Jan 01 12:36:36 -0800 2018</date_updated>
-  <read_count>1</read_count>
-  <body>
-  </body>
-
-  
-
-  <comments_count>0</comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/2236679905]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/2236679905]]></link>
     <owned>0</owned>
 </review>
 
@@ -254,7 +179,7 @@
   <publication_year>2003</publication_year>
   <publication_month>5</publication_month>
   <average_rating>4.21</average_rating>
-  <ratings_count>59320</ratings_count>
+  <ratings_count>59321</ratings_count>
   <description>&lt;p&gt;A New Translation, with an Introduction, by Gregory Hays&lt;br /&gt;&lt;br /&gt;A series of spiritual exercises filled with wisdom, practical guidance, and profound understanding of human behavior, Marcus Aurelius’s &lt;i&gt;Meditations&lt;/i&gt; remains one of the greatest works of spiritual and ethical reflection ever written. Marcus’s insights and advice—on everything from living in the world to coping with adversity and interacting with others—have made the &lt;i&gt;Meditations&lt;/i&gt; required reading for statesmen and philosophers alike, while generations of ordinary readers have responded to the straightforward intimacy of his style. &lt;br /&gt;&lt;br /&gt;In Gregory Hays’s new translation—the first in a generation—Marcus’s thoughts speak with a new immediacy: never before have they been so directly and powerfully presented.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Marcus Aurelius Antoninus&lt;/b&gt; (A.D. 121–180) succeeded his adoptive father as emperor of Rome in A.D. 161. A student of philosophy from his earliest youth, he was especially influenced by the first-century Stoic thinker Epictetus. His later reputation rests on his &lt;i&gt;Meditations&lt;/i&gt;, written during his later years and never meant for formal publication.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Gregory Hays&lt;/b&gt; is assistant professor of classics at the University of Virginia. He is currently completing a translation and critical study of the mythographer Fulgentius.&lt;/p&gt;</description>
 <authors>
 <author>
@@ -269,7 +194,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/17212.Marcus_Aurelius]]></link>
 <average_rating>4.21</average_rating>
-<ratings_count>61900</ratings_count>
+<ratings_count>61901</ratings_count>
 <text_reviews_count>3101</text_reviews_count>
 </author>
 </authors>
@@ -344,7 +269,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
 <average_rating>4.17</average_rating>
-<ratings_count>1074558</ratings_count>
+<ratings_count>1074570</ratings_count>
 <text_reviews_count>43639</text_reviews_count>
 </author>
 </authors>
@@ -388,7 +313,7 @@
   <id type="integer">2998152</id>
   <isbn>0596517742</isbn>
   <isbn13>9780596517748</isbn13>
-  <text_reviews_count type="integer">442</text_reviews_count>
+  <text_reviews_count type="integer">443</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.qen3sLLxatgj4wF9338HlA</uri>
   <title>JavaScript: The Good Parts</title>
   <title_without_series>JavaScript: The Good Parts</title_without_series>
@@ -419,8 +344,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1290380.Douglas_Crockford]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>7866</ratings_count>
-<text_reviews_count>524</text_reviews_count>
+<ratings_count>7867</ratings_count>
+<text_reviews_count>525</text_reviews_count>
 </author>
 </authors>
   <published>2008</published>

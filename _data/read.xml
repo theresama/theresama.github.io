@@ -6,7 +6,83 @@
     <method><![CDATA[review_list]]></method>
   </Request>
   
-<reviews start="1" end="158" total="158">
+<reviews start="1" end="159" total="159">
+    <review>
+  <id>2236679905</id>
+    <book>
+  <id type="integer">12090316</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">190</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jeZOB3w5wDz-9SfMozcaTg</uri>
+  <title>Bossypants</title>
+  <title_without_series>Bossypants</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1311307468m/12090316.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1311307468s/12090316.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12090316-bossypants</link>
+  <num_pages>6</num_pages>
+  <format>Audible Audio</format>
+  <edition_information>Unabridged</edition_information>
+  <publisher>Hachette Audio</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>642627</ratings_count>
+  <description>Before Liz Lemon, before "Weekend Update", before "Sarah Palin", Tina Fey was just a young girl with a dream: a recurring stress dream that she was being chased through a local airport by her middle-school gym teacher. She also had a dream that one day she would be a comedian on TV.&lt;br /&gt;&lt;br /&gt;She has seen both of those dreams come true.&lt;br /&gt;&lt;br /&gt;At last, Tina Fey's story can be told. From her youthful days as a vicious nerd to her tour of duty on Saturday Night Live; from her passionately halfhearted pursuit of physical beauty to her life as a mother eating things off the floor; from her one-sided college romance to her nearly fatal honeymoon - from the beginning of this paragraph to this final sentence.&lt;br /&gt;&lt;br /&gt;Tina Fey reveals all, and proves what we've all suspected: you're no one until someone calls you bossy.&lt;br /&gt;&lt;br /&gt;Includes special, never-before-solicited opinions on breastfeeding, princesses, Photoshop, the electoral process, and Italian rum cake!&lt;br /&gt;&lt;br /&gt;5 hours and 35 minutes</description>
+<authors>
+<author>
+<id>4385839</id>
+<name>Tina Fey</name>
+<role>Author/Narrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286658273p5/4385839.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1286658273p2/4385839.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4385839.Tina_Fey]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>642645</ratings_count>
+<text_reviews_count>35684</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>14302659</id>
+  <uri>kca://work/amzn1.gr.work.v1.Vg-EwSY0DnHTnTTaFiVwZA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jan 01 12:36:36 -0800 2018</started_at>
+  <read_at>Thu Jan 04 19:37:58 -0800 2018</read_at>
+  <date_added>Mon Jan 01 12:36:35 -0800 2018</date_added>
+  <date_updated>Thu Jan 04 19:39:42 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Audiobook narrated by the author is the perfect medium for a comedic memoir such as this. The jokes are so much better when told in Tina Fey's own voice.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2236679905]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2236679905]]></link>
+    <owned>0</owned>
+</review>
+
     <review>
   <id>2210270494</id>
     <book>
@@ -29,7 +105,7 @@
   <publication_year>2015</publication_year>
   <publication_month>4</publication_month>
   <average_rating>4.31</average_rating>
-  <ratings_count>211336</ratings_count>
+  <ratings_count>211340</ratings_count>
   <description>&lt;i&gt;Mere Christianity&lt;/i&gt; is C.S. Lewis's forceful and accessible doctrine of Christian belief. First heard as informal radio broadcasts and then published as three separate books - &lt;i&gt;The Case for Christianity&lt;/i&gt;, &lt;i&gt;Christian Behavior&lt;/i&gt;, and &lt;i&gt;Beyond Personality&lt;/i&gt; - &lt;i&gt;Mere Christianity&lt;/i&gt; brings together what Lewis saw as the fundamental truths of the religion. Rejecting the boundaries that divide Christianity's many denominations, C.S. Lewis finds a common ground on which all those who have Christian faith can stand together, proving that "at the centre of each there is something, or a Someone, who against all divergences of belief, all differences of temperament, all memories of mutual persecution, speaks the same voice."</description>
 <authors>
 <author>
@@ -44,7 +120,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>
 <average_rating>4.13</average_rating>
-<ratings_count>4588446</ratings_count>
+<ratings_count>4588525</ratings_count>
 <text_reviews_count>99630</text_reviews_count>
 </author>
 </authors>
@@ -194,7 +270,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/957894.Albert_Camus]]></link>
 <average_rating>3.98</average_rating>
-<ratings_count>780717</ratings_count>
+<ratings_count>780722</ratings_count>
 <text_reviews_count>26401</text_reviews_count>
 </author>
 </authors>
@@ -329,7 +405,7 @@
   <publication_year>2012</publication_year>
   <publication_month>11</publication_month>
   <average_rating>3.86</average_rating>
-  <ratings_count>4236</ratings_count>
+  <ratings_count>4237</ratings_count>
   <description>&lt;strong&gt;Brilliant, dazzling, never-before-collected nonfiction writings by "one of America's most daring and talented writers." (&lt;em&gt;Los Angeles Times Book Review&lt;/em&gt;).&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Both Flesh and Not&lt;/i&gt; gathers fifteen of Wallace's seminal essays, all published in book form for the first time.&lt;br /&gt;&lt;br /&gt;Never has Wallace's seemingly endless curiosity been more evident than in this compilation of work spanning nearly 20 years of writing. Here, Wallace turns his critical eye with equal enthusiasm toward Roger Federer and Jorge Luis Borges; &lt;i&gt;Terminator 2&lt;/i&gt; and &lt;i&gt;The Best of the Prose Poem&lt;/i&gt;; the nature of being a fiction writer and the quandary of defining the essay; the best underappreciated novels and the English language's most irksome misused words; and much more.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Both Flesh and Not&lt;/i&gt; restores Wallace's essays as originally written, and it includes a selection from his personal vocabulary list, an assembly of unusual words and definitions.</description>
 <authors>
 <author>
@@ -404,7 +480,7 @@
   <publication_year>2003</publication_year>
   <publication_month>4</publication_month>
   <average_rating>4.06</average_rating>
-  <ratings_count>790775</ratings_count>
+  <ratings_count>790779</ratings_count>
   <description>&lt;i&gt;'The more I know of the world, the more am I convinced that I shall never see a man whom I can really love. I require so much!'&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Marianne Dashwood wears her heart on her sleeve, and when she falls in love with the dashing but unsuitable John Willoughby she ignores her sister Elinor's warning that her impulsive behaviour leaves her open to gossip and innuendo. Meanwhile Elinor, always sensitive to social convention, is struggling to conceal her own romantic disappointment, even from those closest to her. Through their parallel experience of love—and its threatened loss—the sisters learn that sense must mix with sensibility if they are to find personal happiness in a society where status and money govern the rules of love.&lt;br /&gt;&lt;br /&gt;This edition includes explanatory notes, textual variants between the first and second editions, and Tony Tanner's introduction to the original Penguin Classic edition.</description>
 <authors>
 <author>
@@ -419,8 +495,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1265.Jane_Austen]]></link>
 <average_rating>4.10</average_rating>
-<ratings_count>4764649</ratings_count>
-<text_reviews_count>129312</text_reviews_count>
+<ratings_count>4764713</ratings_count>
+<text_reviews_count>129313</text_reviews_count>
 </author>
 </authors>
   <published>2003</published>
@@ -463,7 +539,7 @@
   <id type="integer">23513349</id>
   <isbn>1502784270</isbn>
   <isbn13>9781502784278</isbn13>
-  <text_reviews_count type="integer">11689</text_reviews_count>
+  <text_reviews_count type="integer">11691</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.zMhcmYZD0zatF7ghxN9VyA</uri>
   <title>Milk and Honey</title>
   <title_without_series>Milk and Honey</title_without_series>
@@ -479,7 +555,7 @@
   <publication_year>2014</publication_year>
   <publication_month>11</publication_month>
   <average_rating>4.21</average_rating>
-  <ratings_count>122496</ratings_count>
+  <ratings_count>122515</ratings_count>
   <description>&lt;i&gt; milk and honey &lt;/i&gt; is a collection of poetry and prose about survival. It is about the experience of violence, abuse, love, loss, and femininity. It is split into four chapters, and each chapter serves a different purpose, deals with a different pain, heals a different heartache. &lt;i&gt; milk and honey &lt;/i&gt; takes readers through a journey of the most bitter moments in life and finds sweetness in them because there is sweetness everywhere if you are just willing to look.</description>
 <authors>
 <author>
@@ -494,8 +570,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/8075577.Rupi_Kaur]]></link>
 <average_rating>4.20</average_rating>
-<ratings_count>141114</ratings_count>
-<text_reviews_count>15930</text_reviews_count>
+<ratings_count>141143</ratings_count>
+<text_reviews_count>15933</text_reviews_count>
 </author>
 </authors>
   <published>2014</published>
@@ -554,7 +630,7 @@
   <publication_year>2017</publication_year>
   <publication_month>10</publication_month>
   <average_rating>4.18</average_rating>
-  <ratings_count>18074</ratings_count>
+  <ratings_count>18079</ratings_count>
   <description>From Rupi Kaur, the #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author of &lt;i&gt;milk and honey&lt;/i&gt;, comes her long-awaited second collection of poetry. A vibrant and transcendent journey about growth and healing. Ancestry and honoring one’s roots. Expatriation and rising up to find a home within yourself.&lt;br /&gt;&lt;br /&gt;Divided into five chapters and illustrated by Kaur, &lt;i&gt;the sun and her flowers&lt;/i&gt; is a journey of wilting, falling, rooting, rising, and blooming. A celebration of love in all its forms.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;this is the recipe of life&lt;br /&gt;said my mother&lt;br /&gt;as she held me in her arms as i wept &lt;br /&gt;think of those flowers you plant&lt;br /&gt;in the garden each year &lt;br /&gt;they will teach you&lt;br /&gt;that people too&lt;br /&gt;must wilt&lt;br /&gt;fall&lt;br /&gt;root&lt;br /&gt;rise&lt;br /&gt;in order to bloom&lt;/i&gt;</description>
 <authors>
 <author>
@@ -569,8 +645,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/8075577.Rupi_Kaur]]></link>
 <average_rating>4.20</average_rating>
-<ratings_count>141114</ratings_count>
-<text_reviews_count>15930</text_reviews_count>
+<ratings_count>141143</ratings_count>
+<text_reviews_count>15933</text_reviews_count>
 </author>
 </authors>
   <published>2017</published>
@@ -613,7 +689,7 @@
   <id type="integer">9969571</id>
   <isbn>030788743X</isbn>
   <isbn13>9780307887436</isbn13>
-  <text_reviews_count type="integer">45765</text_reviews_count>
+  <text_reviews_count type="integer">45766</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.O7Z7pbcZBweK_cRvReWvwQ</uri>
   <title>Ready Player One</title>
   <title_without_series>Ready Player One</title_without_series>
@@ -629,7 +705,7 @@
   <publication_year>2011</publication_year>
   <publication_month>8</publication_month>
   <average_rating>4.31</average_rating>
-  <ratings_count>482561</ratings_count>
+  <ratings_count>482595</ratings_count>
   <description>In the year 2044, reality is an ugly place. The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines, puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. When Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape.</description>
 <authors>
 <author>
@@ -644,8 +720,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/31712.Ernest_Cline]]></link>
 <average_rating>4.21</average_rating>
-<ratings_count>550108</ratings_count>
-<text_reviews_count>68601</text_reviews_count>
+<ratings_count>550141</ratings_count>
+<text_reviews_count>68603</text_reviews_count>
 </author>
 </authors>
   <published>2011</published>
@@ -688,7 +764,7 @@
   <id type="integer">40102</id>
   <isbn>0316010669</isbn>
   <isbn13>9780316010665</isbn13>
-  <text_reviews_count type="integer">11353</text_reviews_count>
+  <text_reviews_count type="integer">11354</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.-nwM0tJ8bvUxEvBXnZFVhw</uri>
   <title>Blink: The Power of Thinking Without Thinking</title>
   <title_without_series>Blink: The Power of Thinking Without Thinking</title_without_series>
@@ -704,7 +780,7 @@
   <publication_year>2007</publication_year>
   <publication_month>4</publication_month>
   <average_rating>3.90</average_rating>
-  <ratings_count>376917</ratings_count>
+  <ratings_count>376924</ratings_count>
   <description>Drawing on cutting-edge neuroscience and psychology and displaying all of the brilliance that made The Tipping Point a classic, Blink changes the way you'll understand every decision you make. Never again will you think about thinking the same way.&lt;br /&gt;&lt;br /&gt;Malcolm Gladwell redefined how we understand the world around us. Now, in Blink, he revolutionizes the way we understand the world within. Blink is a book about how we think without thinking, about choices that seem to be made in an instant - in the blink of an eye - that actually aren't as simple as they seem. Why are some people brilliant decision makers, while others are consistently inept? Why do some people follow their instincts and win, while others end up stumbling into error? How do our brains really work - in the office, in the classroom, in the kitchen, and in the bedroom? And why are the best decisions often those that are impossible to explain to others? &lt;br /&gt;&lt;br /&gt;In Blink we meet the psychologist who has learned to predict whether a marriage will last, based on a few minutes of observing a couple; the tennis coach who knows when a player will double-fault before the racket even makes contact with the ball; the antiquities experts who recognize a fake at a glance. Here, too, are great failures of "blink": the election of Warren Harding; "New Coke"; and the shooting of Amadou Diallo by police. Blink reveals that great decision makers aren't those who process the most information or spend the most time deliberating, but those who have perfected the art of "thin-slicing" - filtering the very few factors that matter from an overwhelming number of variables. &lt;br /&gt;&lt;br /&gt;Drawing on cutting-edge neuroscience and psychology and displaying all of the brilliance that made The Tipping Point a classic, Blink changes the way you understand every decision you make. Never again will you think about thinking the same way.</description>
 <authors>
 <author>
@@ -719,8 +795,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>1484314</ratings_count>
-<text_reviews_count>56612</text_reviews_count>
+<ratings_count>1484338</ratings_count>
+<text_reviews_count>56613</text_reviews_count>
 </author>
 </authors>
   <published>2007</published>
@@ -779,7 +855,7 @@
   <publication_year>2002</publication_year>
   <publication_month>1</publication_month>
   <average_rating>3.93</average_rating>
-  <ratings_count>527688</ratings_count>
+  <ratings_count>527697</ratings_count>
   <description>&lt;i&gt;An alternate cover edition exist &lt;a href="https://www.goodreads.com/book/show/34668905.here" title="here" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.&lt;br /&gt;&lt;br /&gt;Gladwell introduces us to the particular personality types who are natural pollinators of new ideas and trends, the people who create the phenomenon of word of mouth. He analyzes fashion trends, smoking, children's television, direct mail, and the early days of the American Revolution for clues about making ideas infectious, and visits a religious commune, a successful high-tech company, and one of the world's greatest salesmen to show how to start and sustain social epidemics.</description>
 <authors>
 <author>
@@ -794,8 +870,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>1484314</ratings_count>
-<text_reviews_count>56612</text_reviews_count>
+<ratings_count>1484338</ratings_count>
+<text_reviews_count>56613</text_reviews_count>
 </author>
 </authors>
   <published>2002</published>
@@ -838,7 +914,7 @@
   <id type="integer">34114362</id>
   <isbn nil="true"/>
   <isbn13 nil="true"/>
-  <text_reviews_count type="integer">2391</text_reviews_count>
+  <text_reviews_count type="integer">2392</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.CcqvR84V78oo3ehb8deDbQ</uri>
   <title>What Happened</title>
   <title_without_series>What Happened</title_without_series>
@@ -854,7 +930,7 @@
   <publication_year>2017</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.05</average_rating>
-  <ratings_count>18315</ratings_count>
+  <ratings_count>18322</ratings_count>
   <description>&lt;b&gt;“In the past, for reasons I try to explain, I’ve often felt I had to be careful in public, like I was up on a wire without a net. Now I’m letting my guard down.” —Hillary Rodham Clinton, from the introduction of &lt;i&gt;What Happened&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;For the first time, Hillary Rodham Clinton reveals what she was thinking and feeling during one of the most controversial and unpredictable presidential elections in history. Now free from the constraints of running, Clinton takes you inside the intense personal experience of becoming the first woman nominated for president by a major party in an election marked by rage, sexism, exhilarating highs and infuriating lows, stranger-than-fiction twists, Russian interference, and an opponent who broke all the rules. This is her most personal memoir yet.&lt;br /&gt;&lt;br /&gt;In these pages, she describes what it was like to run against Donald Trump, the mistakes she made, how she has coped with a shocking and devastating loss, and how she found the strength to pick herself back up afterward. With humor and candor, she tells readers what it took to get back on her feet—the rituals, relationships, and reading that got her through, and what the experience has taught her about life. She speaks about the challenges of being a strong woman in the public eye, the criticism over her voice, age, and appearance, and the double standard confronting women in politics.&lt;br /&gt;&lt;br /&gt;She lays out how the 2016 election was marked by an unprecedented assault on our democracy by a foreign adversary. By analyzing the evidence and connecting the dots, Clinton shows just how dangerous the forces are that shaped the outcome, and why Americans need to understand them to protect American values and democracy in the future.&lt;br /&gt;&lt;br /&gt;The election of 2016 was unprecedented and historic. &lt;i&gt;What Happened&lt;/i&gt; is the story of that campaign and its aftermath—both a deeply intimate account and a cautionary tale for the nation.</description>
 <authors>
 <author>
@@ -869,7 +945,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2778471.Hillary_Rodham_Clinton]]></link>
 <average_rating>3.81</average_rating>
-<ratings_count>58100</ratings_count>
+<ratings_count>58108</ratings_count>
 <text_reviews_count>5616</text_reviews_count>
 </author>
 </authors>
@@ -1079,7 +1155,7 @@
   <publication_year>2008</publication_year>
   <publication_month>2</publication_month>
   <average_rating>3.78</average_rating>
-  <ratings_count>189592</ratings_count>
+  <ratings_count>189593</ratings_count>
   <description>&lt;b&gt;A new translation by Peter Constantine&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Introduction by Albert Russell Ascoli&lt;/b&gt;&lt;br /&gt;  &lt;br /&gt;The first modern treatise of political philosophy, &lt;i&gt;The Prince&lt;/i&gt; is one of the world’s most influential and widely read books. Machiavelli reveals nothing less than the secrets of power: how to gain it, how to wield it, and how to keep it. Ruthless, cunning, and amoral, &lt;i&gt;The Prince&lt;/i&gt; is a controversial analysis of manipulation and an essential guide for anyone interested in conquest, self-defense, or observation of dominance and control. The Introduction by noted Italian Renaissance scholar Albert Russell Ascoli provides a perfect opening to Peter Constantine’s illuminating new translation of this seminal work.&lt;br /&gt;  &lt;br /&gt;&lt;b&gt;“Constantine elegantly captures in English the pith of Machiavelli’s brilliant Italian prose.”—Edward Muir, Clarence L. Ver Steeg Professor in the Arts and Sciences, Northwestern University&lt;/b&gt;</description>
 <authors>
 <author>
@@ -1094,7 +1170,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/16201.Niccol_Machiavelli]]></link>
 <average_rating>3.80</average_rating>
-<ratings_count>209328</ratings_count>
+<ratings_count>209329</ratings_count>
 <text_reviews_count>6359</text_reviews_count>
 </author>
 </authors>
@@ -1379,7 +1455,7 @@
   <publication_year>2017</publication_year>
   <publication_month>4</publication_month>
   <average_rating>4.43</average_rating>
-  <ratings_count>471</ratings_count>
+  <ratings_count>472</ratings_count>
   <description>Managing people is difficult wherever you work, but the tech industry as a whole is pretty bad at it. Tech companies in general lack the experience, tools, texts, and frameworks to do it well. And the handful of books that share tips and tricks of engineering management don t explain how to supervise employees in the face of growth and change.&lt;br /&gt;&lt;br /&gt;In this book, author Camille Fournier takes you through the stages of technical management, from mentoring interns to working with the senior staff. You ll get actionable advice for approaching various obstacles in your path, whether you re a new manager, a mentor, or a more experienced leader looking for fresh advice. Pick up this book and learn how to become a better manager and leader in your organization.&lt;br /&gt;&lt;br /&gt; * Discover how to manage small teams and large/multi-level teams&lt;br /&gt; * Understand how to build and bootstrap a unifying culture in teams&lt;br /&gt; * Deal with people problems and learn how to mentor other managers and new leaders&lt;br /&gt; * Learn how to manage yourself: avoid common pitfalls that challenge many leaders&lt;br /&gt; * Obtain several practices that you can incorporate and practice along the way</description>
 <authors>
 <author>
@@ -1394,8 +1470,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/14801119.Camille_Fournier]]></link>
 <average_rating>4.43</average_rating>
-<ratings_count>471</ratings_count>
-<text_reviews_count>57</text_reviews_count>
+<ratings_count>473</ratings_count>
+<text_reviews_count>58</text_reviews_count>
 </author>
 </authors>
   <published>2017</published>
@@ -1454,7 +1530,7 @@
   <publication_year>2005</publication_year>
   <publication_month>12</publication_month>
   <average_rating>4.25</average_rating>
-  <ratings_count>30924</ratings_count>
+  <ratings_count>30926</ratings_count>
   <description>Do lobsters feel pain? Did Franz Kafka have a funny bone? What is John Updike's deal, anyway? And what happens when adult video starlets meet their fans in person? David Foster Wallace answers these questions and more in essays that are also enthralling narrative adventures. Whether covering the three-ring circus of a vicious presidential race, plunging into the wars between dictionary writers, or confronting the World's Largest Lobster Cooker at the annual Maine Lobster Festival, Wallace projects a quality of thought that is uniquely his and a voice as powerful and distinct as any in American letters.&lt;br /&gt;&lt;br /&gt;Contains: "Big Red Son," "Certainly the End of Something or Other, One Would Sort of Have to Think," "Some Remarks on Kafka's Funniness from Which Probably Not Enough Has Been Removed," "Authority and American Usage," "The View from Mrs. Thompson's," "How Tracy Austin Broke My Heart," "Up, Simba," "Consider the Lobster," "Joseph Frank's Dostoevsky" and "Host."</description>
 <authors>
 <author>
@@ -1513,7 +1589,7 @@
   <id type="integer">38447</id>
   <isbn>038549081X</isbn>
   <isbn13>9780385490818</isbn13>
-  <text_reviews_count type="integer">32095</text_reviews_count>
+  <text_reviews_count type="integer">32096</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.QYIb80P3mP0A4pXX0ucI6A</uri>
   <title>The Handmaid's Tale</title>
   <title_without_series>The Handmaid's Tale</title_without_series>
@@ -1529,7 +1605,7 @@
   <publication_year>1998</publication_year>
   <publication_month>3</publication_month>
   <average_rating>4.07</average_rating>
-  <ratings_count>764770</ratings_count>
+  <ratings_count>764794</ratings_count>
   <description>Offred is a Handmaid in the Republic of Gilead. She may leave the home of the Commander and his wife once a day to walk to food markets whose signs are now pictures instead of words because women are no longer allowed to read. She must lie on her back once a month and pray that the Commander makes her pregnant, because in an age of declining births, Offred and the other Handmaids are valued only if their ovaries are viable. Offred can remember the years before, when she lived and made love with her husband, Luke; when she played with and protected her daughter; when she had a job, money of her own, and access to knowledge. But all of that is gone now...</description>
 <authors>
 <author>
@@ -1544,8 +1620,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3472.Margaret_Atwood]]></link>
 <average_rating>3.98</average_rating>
-<ratings_count>1579518</ratings_count>
-<text_reviews_count>101784</text_reviews_count>
+<ratings_count>1579554</ratings_count>
+<text_reviews_count>101786</text_reviews_count>
 </author>
 </authors>
   <published>1998</published>
@@ -1604,7 +1680,7 @@
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>4.32</average_rating>
-  <ratings_count>26171</ratings_count>
+  <ratings_count>26176</ratings_count>
   <description>&lt;p&gt;Yuval Noah Harari, author of the critically-acclaimed &lt;em&gt;New York Times&lt;/em&gt; bestseller and international phenomenon &lt;em&gt;Sapiens&lt;/em&gt;, returns with an equally original, compelling, and provocative book, turning his focus toward humanity’s future, and our quest to upgrade humans into gods.&lt;/p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;p&gt;Over the past century humankind has managed to do the impossible and rein in famine, plague, and war. This may seem hard to accept, but, as Harari explains in his trademark style—thorough, yet riveting—famine, plague and war have been transformed from incomprehensible and uncontrollable forces of nature into manageable challenges. For the first time ever, more people die from eating too much than from eating too little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals put together. The average American is a thousand times more likely to die from binging at McDonalds than from being blown up by Al Qaeda.&lt;/p&gt;&lt;p&gt;What then will replace famine, plague, and war at the top of the human agenda? As the self-made gods of planet earth, what destinies will we set ourselves, and which quests will we undertake?&lt;em&gt; Homo Deus&lt;/em&gt; explores the projects, dreams and nightmares that will shape the twenty-first century—from overcoming death to creating artificial life. It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers? This is the next stage of evolution. This is Homo Deus.&lt;/p&gt;&lt;p&gt;With the same insight and clarity that made &lt;em&gt;Sapiens&lt;/em&gt; an international hit and a &lt;em&gt;New York Times&lt;/em&gt; bestseller, Harari maps out our future. &lt;/p&gt;</description>
 <authors>
 <author>
@@ -1619,7 +1695,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari]]></link>
 <average_rating>4.41</average_rating>
-<ratings_count>123054</ratings_count>
+<ratings_count>123067</ratings_count>
 <text_reviews_count>11547</text_reviews_count>
 </author>
 </authors>
@@ -1679,7 +1755,7 @@
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>4.36</average_rating>
-  <ratings_count>10101</ratings_count>
+  <ratings_count>10102</ratings_count>
   <description>&lt;b&gt;&lt;b&gt;NATIONAL BESTSELLER&lt;/b&gt;&lt;br /&gt;ONE OF THE &lt;i&gt;NEW YORK TIMES&lt;/i&gt; 10 BEST BOOKS OF THE YEAR&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Who are the immensely wealthy right-wing ideologues shaping the fate of America today? From the bestselling author of &lt;i&gt;The Dark Side&lt;/i&gt;, an electrifying work of investigative journalism that uncovers the agenda of this powerful group.&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;In her new preface, Jane Mayer discusses the results of the most recent election and Donald Trump's victory, and how, despite much discussion to the contrary, this was a huge victory for the billionaires who have been pouring money in the American political system.&lt;br /&gt;&lt;br /&gt;Why is America living in an age of profound and widening economic inequality? Why have even modest attempts to address climate change been defeated again and again? Why do hedge-fund billionaires pay a far lower tax rate than middle-class workers? In a riveting and indelible feat of reporting, Jane Mayer illuminates the history of an elite cadre of plutocrats—headed by the Kochs, the Scaifes, the Olins, and the Bradleys—who have bankrolled a systematic plan to fundamentally alter the American political system. Mayer traces a byzantine trail of billions of dollars spent by the network, revealing a staggering conglomeration of think tanks, academic institutions, media groups, courthouses, and government allies that have fallen under their sphere of influence. Drawing from hundreds of exclusive interviews, as well as extensive scrutiny of public records, private papers, and court proceedings, Mayer provides vivid portraits of the secretive figures behind the new American oligarchy and a searing look at the carefully concealed agendas steering the nation. &lt;i&gt;Dark Money&lt;/i&gt; is an essential book for anyone who cares about the future of American democracy.&lt;br /&gt;&lt;br /&gt;National Book Critics Circle Award Finalist&lt;i&gt;&lt;br /&gt;LA Times&lt;/i&gt; Book Prize Finalist&lt;br /&gt;PEN/Jean Stein Book Award Finalist&lt;br /&gt;Shortlisted for the Lukas Prize</description>
 <authors>
 <author>
@@ -1754,7 +1830,7 @@
   <publication_year>2006</publication_year>
   <publication_month>1</publication_month>
   <average_rating>4.30</average_rating>
-  <ratings_count>742057</ratings_count>
+  <ratings_count>742077</ratings_count>
   <description>&lt;p&gt;Born into a Jewish ghetto in Hungary, as a child, Elie Wiesel was sent to the Nazi concentration camps at Auschwitz and Buchenwald. This is his account of that atrocity: the ever-increasing horrors he endured, the loss of his family and his struggle to survive in a world that stripped him of humanity, dignity and faith. Describing in simple terms the tragic murder of a people from a survivor's perspective, Night is among the most personal, intimate and poignant of all accounts of the Holocaust. A compelling consideration of the darkest side of human nature and the enduring power of hope, it remains one of the most important works of the twentieth century.&lt;/p&gt;&lt;p&gt;
   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;New translation by Marion Wiesel, with a new introduction by Elie Wiesel.&lt;/p&gt;</description>
 <authors>
@@ -1770,7 +1846,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1049.Elie_Wiesel]]></link>
 <average_rating>4.28</average_rating>
-<ratings_count>781267</ratings_count>
+<ratings_count>781284</ratings_count>
 <text_reviews_count>26474</text_reviews_count>
 </author>
 </authors>
@@ -1920,7 +1996,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/14144506.Sarah_Andersen]]></link>
 <average_rating>4.18</average_rating>
-<ratings_count>57639</ratings_count>
+<ratings_count>57643</ratings_count>
 <text_reviews_count>5737</text_reviews_count>
 </author>
 </authors>
@@ -2055,7 +2131,7 @@
   <publication_year>2002</publication_year>
   <publication_month>12</publication_month>
   <average_rating>4.19</average_rating>
-  <ratings_count>465168</ratings_count>
+  <ratings_count>465176</ratings_count>
   <description>Through the story of the brilliant but conflicted young Raskolnikov and the murder he commits, Fyodor Dostoevsky explores the theme of redemption through suffering. &lt;i&gt;Crime and Punishment&lt;/i&gt; put Dostoevsky at the forefront of Russian writers when it appeared in 1866 and is now one of the most famous and influential novels in world literature.&lt;br /&gt;&lt;br /&gt;The poverty-stricken Raskolnikov, a talented student, devises a theory about extraordinary men being above the law, since in their brilliance they think “new thoughts” and so contribute to society. He then sets out to prove his theory by murdering a vile, cynical old pawnbroker and her sister. The act brings Raskolnikov into contact with his own buried conscience and with two characters — the deeply religious Sonia, who has endured great suffering, and Porfiry, the intelligent and discerning official who is charged with investigating the murder — both of whom compel Raskolnikov to feel the split in his nature. Dostoevsky provides readers with a suspenseful, penetrating psychological analysis that goes beyond the crime — which in the course of the novel demands drastic punishment — to reveal something about the human condition: The more we intellectualize, the more imprisoned we become.</description>
 <authors>
 <author>
@@ -2070,7 +2146,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
 <average_rating>4.17</average_rating>
-<ratings_count>1074558</ratings_count>
+<ratings_count>1074570</ratings_count>
 <text_reviews_count>43639</text_reviews_count>
 </author>
 </authors>
@@ -2205,7 +2281,7 @@
   <publication_year>1997</publication_year>
   <publication_month>4</publication_month>
   <average_rating>4.29</average_rating>
-  <ratings_count>104733</ratings_count>
+  <ratings_count>104734</ratings_count>
   <description>Richard Feynman (1918-1988), winner of the Nobel Prize in physics, thrived on outrageous adventures. Here he recounts in his inimitable voice his experience trading ideas on atomic physics with Einstein and Bohr and ideas on gambling with Nick the Greek; cracking the uncrackable safes guarding the most deeply held nuclear secrets; painting a naked female toreador - and much else of an eyebrow-raising nature.&lt;br /&gt;&lt;br /&gt;In short, here is Feynman's life in all its eccentric glory - a combustible mixture of high intelligence, unlimited curiosity, and raging chutzpah.</description>
 <authors>
 <author>
@@ -2220,7 +2296,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1429989.Richard_Feynman]]></link>
 <average_rating>4.28</average_rating>
-<ratings_count>187955</ratings_count>
+<ratings_count>187957</ratings_count>
 <text_reviews_count>6877</text_reviews_count>
 </author>
 </authors>
@@ -2355,7 +2431,7 @@
   <publication_year>2013</publication_year>
   <publication_month>4</publication_month>
   <average_rating>4.04</average_rating>
-  <ratings_count>33279</ratings_count>
+  <ratings_count>33281</ratings_count>
   <description>Lang Leav is a poet and internationally exhibiting artist. Awarded a coveted Churchill Fellowship, her work expresses the intricacies of love and loss. &lt;br /&gt;&lt;br /&gt;Beautifully illustrated and thoughtfully conceived, Love and Misadventure will take you on a rollercoaster ride through an ill-fated love affair- from the initial butterflies to the soaring heights- through to the devastating plunge. Lang Leav has an unnerving ability to see inside the hearts and minds of her readers. Her talent for translating complex emotions with astonishing simplicity has won her a cult following of devoted fans from all over the world.</description>
 <authors>
 <author>
@@ -2370,7 +2446,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7012565.Lang_Leav]]></link>
 <average_rating>4.03</average_rating>
-<ratings_count>68333</ratings_count>
+<ratings_count>68334</ratings_count>
 <text_reviews_count>5832</text_reviews_count>
 </author>
 </authors>
@@ -2445,7 +2521,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
 <average_rating>4.30</average_rating>
-<ratings_count>411048</ratings_count>
+<ratings_count>411059</ratings_count>
 <text_reviews_count>27285</text_reviews_count>
 </author>
 </authors>
@@ -2505,7 +2581,7 @@
   <publication_year>2016</publication_year>
   <publication_month>3</publication_month>
   <average_rating>4.15</average_rating>
-  <ratings_count>48840</ratings_count>
+  <ratings_count>48843</ratings_count>
   <description>&lt;b&gt;Are you a special snowflake? &lt;br /&gt;&lt;br /&gt;Do you enjoy networking to advance your career? &lt;br /&gt;&lt;br /&gt;Is adulthood an exciting new challenge for which you feel fully prepared? &lt;br /&gt;&lt;br /&gt;Ugh. Please go away.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;This book is for the rest of us. These comics document the wasting of entire beautiful weekends on the internet, the unbearable agony of holding hands on the street with a gorgeous guy, dreaming all day of getting home and back into pajamas, and wondering when, exactly, this adulthood thing begins. In other words, the horrors and awkwardnesses of young modern life.</description>
 <authors>
 <author>
@@ -2520,7 +2596,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/14144506.Sarah_Andersen]]></link>
 <average_rating>4.18</average_rating>
-<ratings_count>57639</ratings_count>
+<ratings_count>57643</ratings_count>
 <text_reviews_count>5737</text_reviews_count>
 </author>
 </authors>
@@ -2564,7 +2640,7 @@
   <id type="integer">17470674</id>
   <isbn>0007491565</isbn>
   <isbn13>9780007491568</isbn13>
-  <text_reviews_count type="integer">10483</text_reviews_count>
+  <text_reviews_count type="integer">10484</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.i6o8m4YlaWcrIC93d52tTw</uri>
   <title>Fahrenheit 451</title>
   <title_without_series>Fahrenheit 451</title_without_series>
@@ -2580,7 +2656,7 @@
   <publication_year>2013</publication_year>
   <publication_month>3</publication_month>
   <average_rating>3.98</average_rating>
-  <ratings_count>1220812</ratings_count>
+  <ratings_count>1220835</ratings_count>
   <description>Întorcându-se acasă de la lucru, pompierul Guy Montag își întâlnește noua vecină, o tânără de 17 ani pe nume Clarisse McClellan. Aceasta este o idealistă atrasă de activitățile intelectuale, cu totul deosebită de societatea dominată de divertismentul ieftin, care o și marginalizează din acest motiv. Având acasă o soție interesată doar de acest gen de divertisment și care ia frecvent supradoze de somnifere, Montag este atras de felul de a fi al tinerei. Din păcate, aceasta dispare – aparent în urma unui accident de mașină – dar nu înainte de a schimba ceva în felul lui Montag de a privi lucrurile.&lt;br /&gt;&lt;br /&gt;Un alt eveniment impresionant se alătură întâlnirii cu Clarisse: alături de alți pompieri, Montag participă la incendierea locuinței uneie bătrâne care deținea o bibliotecă – lucru ilegal în acea societate. Decât să rămână fără cărțile iubite, femeia preferă să moară odată cu ele, dându-și foc. Montag fură o carte din bibliotecă și, ajuns acasă, o citește pe ascuns, rămânând marcat de ceea ce descoperă acolo.&lt;br /&gt;&lt;br /&gt;În zilele următoare face rost de alte cărți și îi cere călăuzirea lui Faber, un fost profesor de literatură engleză. Încercând să atragă în pasiunea pentru literatură pe soția sa și prietenele acesteia, Montag se trezește raportat de aceștia pentru deținere de cărți. Șeful său, căpitanul Beatty, îi cere să își ardă propria casă, dar este ars de viu de Montag.&lt;br /&gt;&lt;br /&gt;Urmărit acum de forțele de ordine, Montag îi cere ajutorul lui Faber, care îl îndrumă în afara orașului, spre locul în care se află exilații iubitori de cărți. Ajuns la aceștia, Montag descoperă un grup de oameni care au memorat pe de rost cărți întregi pentru a le putea transmite mai departe din generație în generație și care speră să reușească să reclădească societatea învățând din propriile greșeli.</description>
 <authors>
 <author>
@@ -2595,8 +2671,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1630.Ray_Bradbury]]></link>
 <average_rating>4.00</average_rating>
-<ratings_count>1764865</ratings_count>
-<text_reviews_count>62814</text_reviews_count>
+<ratings_count>1764891</ratings_count>
+<text_reviews_count>62815</text_reviews_count>
 </author>
 </authors>
   <published>2013</published>
@@ -2670,7 +2746,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/818808.Norman_Ohler]]></link>
 <average_rating>4.01</average_rating>
-<ratings_count>3889</ratings_count>
+<ratings_count>3892</ratings_count>
 <text_reviews_count>563</text_reviews_count>
 </author>
 </authors>
@@ -2730,7 +2806,7 @@
   <publication_year>2006</publication_year>
   <publication_month>6</publication_month>
   <average_rating>4.34</average_rating>
-  <ratings_count>211243</ratings_count>
+  <ratings_count>211249</ratings_count>
   <description>Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Between 1942 and 1945 Frankl labored in four different camps, including Auschwitz, while his parents, brother, and pregnant wife perished. Based on his own experience and the experiences of others he treated later in his practice, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. Frankl's theory-known as logotherapy, from the Greek word logos ("meaning")-holds that our primary drive in life is not pleasure, as Freud maintained, but the discovery and pursuit of what we personally find meaningful.&lt;br /&gt;&lt;br /&gt;At the time of Frankl's death in 1997, Man's Search for Meaning had sold more than 10 million copies in twenty-four languages. A 1991 reader survey for the Library of Congress that asked readers to name a "book that made a difference in your life" found Man's Search for Meaning among the ten most influential books in America.</description>
 <authors>
 <author>
@@ -2745,7 +2821,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2782.Viktor_E_Frankl]]></link>
 <average_rating>4.33</average_rating>
-<ratings_count>217233</ratings_count>
+<ratings_count>217241</ratings_count>
 <text_reviews_count>11359</text_reviews_count>
 </author>
 </authors>
@@ -2805,7 +2881,7 @@
   <publication_year>2014</publication_year>
   <publication_month/>
   <average_rating>4.44</average_rating>
-  <ratings_count>96528</ratings_count>
+  <ratings_count>96533</ratings_count>
   <description>100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. &lt;br /&gt;&lt;br /&gt;How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations and human rights; to trust money, books and laws; and to be enslaved by bureaucracy, timetables and consumerism? And what will our world be like in the millennia to come? &lt;br /&gt;&lt;br /&gt;In &lt;i&gt;Sapiens&lt;/i&gt;, Dr Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical – and sometimes devastating – breakthroughs of the Cognitive, Agricultural and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come? &lt;br /&gt;&lt;br /&gt;Bold, wide-ranging and provocative, Sapiens challenges everything we thought we knew about being human: our thoughts, our actions, our power ... and our future.</description>
 <authors>
 <author>
@@ -2820,7 +2896,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari]]></link>
 <average_rating>4.41</average_rating>
-<ratings_count>123054</ratings_count>
+<ratings_count>123067</ratings_count>
 <text_reviews_count>11547</text_reviews_count>
 </author>
 </authors>
@@ -2970,7 +3046,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/36556.Ren_Descartes]]></link>
 <average_rating>3.70</average_rating>
-<ratings_count>57472</ratings_count>
+<ratings_count>57471</ratings_count>
 <text_reviews_count>1350</text_reviews_count>
 </author>
 </authors>
@@ -3196,7 +3272,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/216727.Erika_Andersen]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>4318</ratings_count>
+<ratings_count>4319</ratings_count>
 <text_reviews_count>58</text_reviews_count>
 </author>
 </authors>
@@ -3346,7 +3422,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/81619.Daniel_J_Levitin]]></link>
 <average_rating>3.84</average_rating>
-<ratings_count>51034</ratings_count>
+<ratings_count>51035</ratings_count>
 <text_reviews_count>2458</text_reviews_count>
 </author>
 </authors>
@@ -3498,7 +3574,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7034628.Pope_Francis]]></link>
 <average_rating>4.28</average_rating>
-<ratings_count>11612</ratings_count>
+<ratings_count>11613</ratings_count>
 <text_reviews_count>1609</text_reviews_count>
 </author>
 </authors>
@@ -3558,7 +3634,7 @@
   <publication_year>2005</publication_year>
   <publication_month>8</publication_month>
   <average_rating>4.01</average_rating>
-  <ratings_count>593475</ratings_count>
+  <ratings_count>593478</ratings_count>
   <description>Among Shakespeare's plays, "Hamlet" is considered by many his masterpiece. Among actors, the role of Hamlet, Prince of Denmark, is considered the jewel in the crown of a triumphant theatrical career. Now Kenneth Branagh plays the leading role and co-directs a brillant ensemble performance. Three generations of legendary leading actors, many of whom first assembled for the Oscar-winning film "Henry" V, gather here to perform the rarely heard complete version of the play. This clear, subtly nuanced, stunning dramatization, presented by The Renaissance Theatre Company in association with "Bbc" Broadcasting, features such luminaries as Sir John Gielgud, Derek Jacobi, Emma Thompson and Christopher Ravenscroft. It combines a full cast with stirring music and sound effects to bring this magnificent Shakespearen classic vividly to life. Revealing new riches with each listening, this production of "Hamlet" is an invaluable aid for students, teachers and all true lovers of Shakespeare -- a recording to be treasured for decades to come.</description>
 <authors>
 <author>
@@ -3573,7 +3649,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
 <average_rating>3.86</average_rating>
-<ratings_count>5249680</ratings_count>
+<ratings_count>5249733</ratings_count>
 <text_reviews_count>85539</text_reviews_count>
 </author>
 </authors>
@@ -3633,7 +3709,7 @@
   <publication_year>1990</publication_year>
   <publication_month>1</publication_month>
   <average_rating>4.34</average_rating>
-  <ratings_count>270699</ratings_count>
+  <ratings_count>270704</ratings_count>
   <description>In this joyous ode to life, Dr. Seuss addresses graduates of all ages, from nursery school to medical school, and gives them the get-up-and-go to move mountains with the unrivaled exuberance and charm that have made Dr. Seuss's books favorites for years.</description>
 <authors>
 <author>
@@ -3648,7 +3724,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
 <average_rating>4.24</average_rating>
-<ratings_count>2566851</ratings_count>
+<ratings_count>2566883</ratings_count>
 <text_reviews_count>44926</text_reviews_count>
 </author>
 </authors>
@@ -3708,7 +3784,7 @@
   <publication_year>2008</publication_year>
   <publication_month>1</publication_month>
   <average_rating>4.01</average_rating>
-  <ratings_count>5485</ratings_count>
+  <ratings_count>5486</ratings_count>
   <description>“&lt;em&gt;Tribal Leadership&lt;/em&gt; gives amazingly insightful perspective on how people interact and succeed. I learned about myself and learned lessons I will carry with me and reflect on for the rest of my life.”&lt;br /&gt;—John W. Fanning, Founding Chairman and CEO napster Inc.&lt;br /&gt;&lt;br /&gt;“An unusually nuanced view of high-performance cultures.”&lt;br /&gt; —&lt;em&gt;Inc.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;Within each corporation are anywhere from a few to hundreds of separate tribes. In &lt;em&gt;Tribal Leadership&lt;/em&gt;, Dave Logan, John King, and Halee Fischer-Wright demonstrate how these tribes develop—and show you how to assess them and lead them to maximize productivity and growth. A business management book like no other, &lt;em&gt;Tribal Leadership&lt;/em&gt; is an essential tool to help managers and business leaders take better control of their organizations by utilizing the unique characteristics of the tribes that exist within.&lt;br /&gt;</description>
 <authors>
 <author>
@@ -3723,7 +3799,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1198867.Dave_Logan]]></link>
 <average_rating>4.02</average_rating>
-<ratings_count>6309</ratings_count>
+<ratings_count>6310</ratings_count>
 <text_reviews_count>352</text_reviews_count>
 </author>
 </authors>
@@ -3798,7 +3874,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2826.James_C_Collins]]></link>
 <average_rating>4.03</average_rating>
-<ratings_count>159753</ratings_count>
+<ratings_count>159755</ratings_count>
 <text_reviews_count>4967</text_reviews_count>
 </author>
 </authors>
@@ -3842,7 +3918,7 @@
   <id type="integer">18143977</id>
   <isbn>1476746583</isbn>
   <isbn13>9781476746586</isbn13>
-  <text_reviews_count type="integer">50196</text_reviews_count>
+  <text_reviews_count type="integer">50197</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.0IooOCfVIQPcIMOpfSRpYA</uri>
   <title>All the Light We Cannot See</title>
   <title_without_series>All the Light We Cannot See</title_without_series>
@@ -3858,7 +3934,7 @@
   <publication_year>2014</publication_year>
   <publication_month>5</publication_month>
   <average_rating>4.32</average_rating>
-  <ratings_count>603167</ratings_count>
+  <ratings_count>603192</ratings_count>
   <description>&lt;b&gt;Winner of the Pulitzer Prize, a &lt;i&gt;New York Times Book Review&lt;/i&gt; Top Ten Book, National Book Award finalist, more than two and a half years on the &lt;i&gt;New York Times&lt;/i&gt; bestseller list&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;From the highly acclaimed, multiple award-winning Anthony Doerr, the stunningly beautiful instant &lt;i&gt;New York Times&lt;/i&gt; bestseller about a blind French girl and a German boy whose paths collide in occupied France as both try to survive the devastation of World War II.&lt;br /&gt;&lt;br /&gt;Marie-Laure lives in Paris near the Museum of Natural History, where her father works. When she is twelve, the Nazis occupy Paris and father and daughter flee to the walled citadel of Saint-Malo, where Marie-Laure’s reclusive great uncle lives in a tall house by the sea. With them they carry what might be the museum’s most valuable and dangerous jewel.&lt;br /&gt;&lt;br /&gt;In a mining town in Germany, Werner Pfennig, an orphan, grows up with his younger sister, enchanted by a crude radio they find that brings them news and stories from places they have never seen or imagined. Werner becomes an expert at building and fixing these crucial new instruments and is enlisted to use his talent to track down the resistance. Deftly interweaving the lives of Marie-Laure and Werner, Doerr illuminates the ways, against all odds, people try to be good to one another.&lt;br /&gt;&lt;br /&gt;Doerr’s “stunning sense of physical detail and gorgeous metaphors” (&lt;i&gt;San Francisco Chronicle&lt;/i&gt;) are dazzling. Ten years in the writing, a National Book Award finalist, &lt;i&gt;All the Light We Cannot See&lt;/i&gt; is a magnificent, deeply moving novel from a writer “whose sentences never fail to thrill” (&lt;i&gt;Los Angeles Times&lt;/i&gt;).</description>
 <authors>
 <author>
@@ -3873,7 +3949,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/28186.Anthony_Doerr]]></link>
 <average_rating>4.30</average_rating>
-<ratings_count>628530</ratings_count>
+<ratings_count>628552</ratings_count>
 <text_reviews_count>59840</text_reviews_count>
 </author>
 </authors>
@@ -3933,7 +4009,7 @@
   <publication_year>2003</publication_year>
   <publication_month>6</publication_month>
   <average_rating>4.26</average_rating>
-  <ratings_count>126341</ratings_count>
+  <ratings_count>126349</ratings_count>
   <description>This edition features George Orwell's best known novels – &lt;i&gt;1984&lt;/i&gt; and &lt;i&gt;Animal Farm&lt;/i&gt; – with an introduction by Christopher Hitchens.&lt;br /&gt;&lt;br /&gt; In &lt;i&gt;1984&lt;/i&gt;, London is a grim city where Big Brother is always watching you and the Thought Police can practically read your mind.  Winston Smith joins a secret revolutionary organization called The Brotherhood, dedicated to the destruction of the Party. Together with his beloved Julia, he hazards his life in a deadly match against the powers that be.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Animal Farm&lt;/i&gt; is Orwell's classic satire of the Russian Revolution -- an account of the bold struggle, initiated by the animals, that transforms Mr. Jones's Manor Farm into Animal Farm--a wholly democratic society built on the credo that All Animals Are Created Equal. But are they?</description>
 <authors>
 <author>
@@ -3948,8 +4024,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
 <average_rating>4.03</average_rating>
-<ratings_count>4551387</ratings_count>
-<text_reviews_count>97772</text_reviews_count>
+<ratings_count>4551482</ratings_count>
+<text_reviews_count>97775</text_reviews_count>
 </author>
 </authors>
   <published>2003</published>
@@ -3992,7 +4068,7 @@
   <id type="integer">23453112</id>
   <isbn>1594206279</isbn>
   <isbn13>9781594206276</isbn13>
-  <text_reviews_count type="integer">9577</text_reviews_count>
+  <text_reviews_count type="integer">9578</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.YNuQxszkitSQNVM1zJYkzw</uri>
   <title>Modern Romance</title>
   <title_without_series>Modern Romance</title_without_series>
@@ -4008,7 +4084,7 @@
   <publication_year>2015</publication_year>
   <publication_month>6</publication_month>
   <average_rating>3.86</average_rating>
-  <ratings_count>119187</ratings_count>
+  <ratings_count>119200</ratings_count>
   <description>&lt;b&gt;Now a &lt;i&gt;New York Times&lt;/i&gt; Bestseller&lt;br /&gt;&lt;br /&gt;A hilarious, thoughtful, and in-depth exploration of the pleasures and perils of modern romance from one of this generation’s sharpest comedic voices&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;At some point, every one of us embarks on a journey to find love. We meet people, date, get into and out of relationships, all with the hope of finding someone with whom we share a deep connection. This seems standard now, but it’s wildly different from what people did even just decades ago. Single people today have more romantic options than at any point in human history. With technology, our abilities to connect with and sort through these options are staggering. So why are so many people frustrated?&lt;br /&gt;&lt;br /&gt;Some of our problems are unique to our time. “Why did this guy just text me an emoji of a pizza?” “Should I go out with this girl even though she listed Combos as one of her favorite snack foods? Combos?!” “My girlfriend just got a message from some dude named Nathan. Who’s Nathan? Did he just send her a photo of his penis? Should I check just to be sure?” &lt;br /&gt;&lt;br /&gt;But the transformation of our romantic lives can’t be explained by technology alone. In a short period of time, the whole culture of finding love has changed dramatically. A few decades ago, people would find a decent person who lived in their neighborhood. Their families would meet and, after deciding neither party seemed like a murderer, they would get married and soon have a kid, all by the time they were twenty-four. Today, people marry later than ever and spend years of their lives on a quest to find the perfect person, a soul mate.&lt;br /&gt;&lt;br /&gt;For years, Aziz Ansari has been aiming his comic insight at modern romance, but for &lt;i&gt;Modern Romance&lt;/i&gt;, the book, he decided he needed to take things to another level. He teamed up with NYU sociologist Eric Klinenberg and designed a massive research project, including hundreds of interviews and focus groups conducted everywhere from Tokyo to Buenos Aires to Wichita. They analyzed behavioral data and surveys and created their own online research forum on Reddit, which drew thousands of messages. They enlisted the world’s leading social scientists, including Andrew Cherlin, Eli Finkel, Helen Fisher, Sheena Iyengar, Barry Schwartz, Sherry Turkle, and Robb Willer. The result is unlike any social science or humor book we’ve seen before.&lt;br /&gt;&lt;br /&gt;In &lt;i&gt;Modern Romance&lt;/i&gt;, Ansari combines his irreverent humor with cutting-edge social science to give us an unforgettable tour of our new romantic world.</description>
 <authors>
 <author>
@@ -4023,8 +4099,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/9802136.Aziz_Ansari]]></link>
 <average_rating>3.86</average_rating>
-<ratings_count>119315</ratings_count>
-<text_reviews_count>11108</text_reviews_count>
+<ratings_count>119329</ratings_count>
+<text_reviews_count>11110</text_reviews_count>
 </author>
 </authors>
   <published>2015</published>
@@ -4098,7 +4174,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2839.William_Ury]]></link>
 <average_rating>3.90</average_rating>
-<ratings_count>46695</ratings_count>
+<ratings_count>46694</ratings_count>
 <text_reviews_count>1524</text_reviews_count>
 </author>
 </authors>
@@ -4158,7 +4234,7 @@
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>3.89</average_rating>
-  <ratings_count>42235</ratings_count>
+  <ratings_count>42234</ratings_count>
   <description>Getting to Yes is a straightorward, universally applicable method for negotiating personal and professional disputes without getting taken - and without getting angry.&lt;br /&gt;&lt;br /&gt;It offers a concise, step-by-step, proven strategy for coming to mutually acceptable agreements in every sort of conflict - whether it involves parents and children, neighbors, bosses and employees, customers or corporations, tenants or diplomats. Based on the work of the Harvard Negotiation Project, a group that deals continually with all levels of negotiation and conflict resolution, from domestic to business to international, Getting to Yes tells you how to:&lt;br /&gt; - Separate the people from the problem&lt;br /&gt; - Focus on interests, not positions&lt;br /&gt; - Work together to create opinions that will satisfy both parties&lt;br /&gt; - Negotiate successfully with people who are more powerful, refuse to play by the rules, or resort to "dirty tricks"</description>
 <authors>
 <author>
@@ -4173,7 +4249,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2838.Roger_Fisher]]></link>
 <average_rating>3.90</average_rating>
-<ratings_count>47433</ratings_count>
+<ratings_count>47432</ratings_count>
 <text_reviews_count>1359</text_reviews_count>
 </author>
 </authors>
@@ -4233,7 +4309,7 @@
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>3.99</average_rating>
-  <ratings_count>31952</ratings_count>
+  <ratings_count>31951</ratings_count>
   <description>Learn how to keep your cool and get the results you want when emotions flare.&lt;br /&gt;&lt;br /&gt;When stakes are high, opinions vary, and emotions run strong, you have three choices: Avoid a crucial conversation and suffer the consequences; handle the conversation badly and suffer the consequences; or read Crucial Conversations and discover how to communicate best when it matters most. Crucial Conversations gives you the tools you need to step up to life's most difficult and important conversations, say what's on your mind, and achieve the positive resolutions you want. You'll learn how to:&lt;br /&gt;&lt;br /&gt; Prepare for high-impact situations with a six-minute mastery technique&lt;br /&gt; Make it safe to talk about almost anything&lt;br /&gt; Be persuasive, not abrasive&lt;br /&gt; Keep listening when others blow up or clam up&lt;br /&gt; Turn crucial conversations into the action and results you want</description>
 <authors>
 <author>
@@ -4248,7 +4324,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/9373.Kerry_Patterson]]></link>
 <average_rating>4.00</average_rating>
-<ratings_count>48087</ratings_count>
+<ratings_count>48086</ratings_count>
 <text_reviews_count>2641</text_reviews_count>
 </author>
 </authors>
@@ -4308,7 +4384,7 @@
   <publication_year>2006</publication_year>
   <publication_month>10</publication_month>
   <average_rating>3.94</average_rating>
-  <ratings_count>558337</ratings_count>
+  <ratings_count>558341</ratings_count>
   <description>Which is more dangerous, a gun or a swimming pool? What do schoolteachers and sumo wrestlers have in common? Why do drug dealers still live with their moms? How much do parents really matter? What kind of impact did Roe v. Wade have on violent crime? Freakonomics will literally redefine the way we view the modern world.&lt;br /&gt;&lt;br /&gt;These may not sound like typical questions for an economist to ask. But Steven D. Levitt is not a typical economist. He is a much heralded scholar who studies the stuff and riddles of everyday life -- from cheating and crime to sports and child rearing -- and whose conclusions regularly turn the conventional wisdom on its head. He usually begins with a mountain of data and a simple, unasked question. Some of these questions concern life-and-death issues; others have an admittedly freakish quality. Thus the new field of study contained in this book: freakonomics.&lt;br /&gt;&lt;br /&gt;Through forceful storytelling and wry insight, Levitt and co-author Stephen J. Dubner show that economics is, at root, the study of incentives -- how people get what they want, or need, especially when other people want or need the same thing. In Freakonomics, they set out to explore the hidden side of ... well, everything. The inner workings of a crack gang. The truth about real-estate agents. The myths of campaign finance. The telltale marks of a cheating schoolteacher. The secrets of the Ku Klux Klan.&lt;br /&gt;&lt;br /&gt;What unites all these stories is a belief that the modern world, despite a surfeit of obfuscation, complication, and downright deceit, is not impenetrable, is not unknowable, and -- if the right questions are asked -- is even more intriguing than we think. All it takes is a new way of looking. Steven Levitt, through devilishly clever and clear-eyed thinking, shows how to see through all the clutter.&lt;br /&gt;&lt;br /&gt;Freakonomics establishes this unconventional premise: If morality represents how we would like the world to work, then economics represents how it actually does work. It is true that readers of this book will be armed with enough riddles and stories to last a thousand cocktail parties. But Freakonomics can provide more than that. It will literally redefine the way we view the modern world.</description>
 <authors>
 <author>
@@ -4323,7 +4399,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/798.Steven_D_Levitt]]></link>
 <average_rating>3.93</average_rating>
-<ratings_count>702516</ratings_count>
+<ratings_count>702521</ratings_count>
 <text_reviews_count>21650</text_reviews_count>
 </author>
 </authors>
@@ -4383,7 +4459,7 @@
   <publication_year>2013</publication_year>
   <publication_month>3</publication_month>
   <average_rating>3.94</average_rating>
-  <ratings_count>156309</ratings_count>
+  <ratings_count>156314</ratings_count>
   <description>Sheryl Sandberg’s &lt;i&gt;Lean In&lt;/i&gt; is a massive cultural phenomenon and its title has become an instant catchphrase for empowering women. The book soared to the top of bestseller lists internationally, igniting global conversations about women and ambition. Sandberg packed theatres, dominated opinion pages, appeared on every major television show and on the cover of &lt;i&gt;Time &lt;/i&gt;magazine, and sparked ferocious debate about women and leadership.&lt;br /&gt;&lt;br /&gt;Ask most women whether they have the right to equality at work and the answer will be a resounding yes, but ask the same women whether they'd feel confident asking for a raise, a promotion, or equal pay, and some reticence creeps in.&lt;br /&gt;&lt;br /&gt;The statistics, although an improvement on previous decades, are certainly not in women's favour – of 197 heads of state, only twenty-two are women. Women hold just 20 percent of seats in parliaments globally, and in the world of big business, a meagre eighteen of the Fortune 500 CEOs are women.&lt;br /&gt;&lt;br /&gt;In &lt;i&gt;Lean In&lt;/i&gt;, Sheryl Sandberg – Facebook COO and one of &lt;i&gt;Fortune&lt;/i&gt; magazine's Most Powerful Women in Business – draws on her own experience of working in some of the world's most successful businesses and looks at what women can do to help themselves, and make the small changes in their life that can effect change on a more universal scale.</description>
 <authors>
 <author>
@@ -4398,7 +4474,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/5333595.Sheryl_Sandberg]]></link>
 <average_rating>3.95</average_rating>
-<ratings_count>181227</ratings_count>
+<ratings_count>181235</ratings_count>
 <text_reviews_count>12966</text_reviews_count>
 </author>
 </authors>
@@ -4458,7 +4534,7 @@
   <publication_year>2013</publication_year>
   <publication_month>4</publication_month>
   <average_rating>3.99</average_rating>
-  <ratings_count>17879</ratings_count>
+  <ratings_count>17880</ratings_count>
   <description>&lt;b&gt;“Important, possibly life-altering, reading for every living, breathing human being." &lt;/b&gt;&lt;b&gt;--&lt;/b&gt;&lt;b&gt;
   &lt;i&gt;Boston Globe&lt;/i&gt;
 &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; In &lt;i&gt;Cooked&lt;/i&gt;, Michael Pollan explores the previously uncharted territory of his own kitchen. Here, he discovers the enduring power of the four classical elements—fire, water, air, and earth—to transform the stuff of nature into delicious things to eat and drink. Apprenticing himself to a succession of culinary masters, Pollan learns how to grill with fire, cook with liquid, bake bread, and ferment everything from cheese to beer.&lt;br /&gt;&lt;br /&gt; Each section of &lt;i&gt;Cooked &lt;/i&gt;tracks Pollan’s effort to master a single classic recipe using one of the four elements. A North Carolina barbecue pit master tutors him in the primal magic of fire; a Chez Panisse–trained cook schools him in the art of braising; a celebrated baker teaches him how air transforms grain and water into a fragrant loaf of bread; and finally, several mad-genius “fermentos” (a tribe that includes brewers, cheese makers, and all kinds of picklers) reveal how fungi and bacteria can perform the most amazing alchemies of all. The reader learns alongside Pollan, but the lessons move beyond the practical to become an investigation of how cooking involves us in a web of social and ecological relationships. Cooking, above all, connects us.&lt;br /&gt;&lt;br /&gt; The effects of not cooking are similarly far reaching. Relying upon corporations to process our food means we consume large quantities of fat, sugar, and salt; disrupt an essential link to the natural world; and weaken our relationships with family and friends. In fact, &lt;i&gt;Cooked&lt;/i&gt; argues, taking back control of cooking may be the single most important step anyone can take to help make the American food system healthier and more sustainable. Reclaiming cooking as an act of enjoyment and self-reliance, learning to perform the magic of these everyday transformations, opens the door to a more nourishing life.</description>
@@ -4475,7 +4551,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2121.Michael_Pollan]]></link>
 <average_rating>4.10</average_rating>
-<ratings_count>349453</ratings_count>
+<ratings_count>349456</ratings_count>
 <text_reviews_count>29113</text_reviews_count>
 </author>
 </authors>
@@ -4535,7 +4611,7 @@
   <publication_year>2010</publication_year>
   <publication_month>3</publication_month>
   <average_rating>4.41</average_rating>
-  <ratings_count>9994</ratings_count>
+  <ratings_count>9995</ratings_count>
   <description>Father Gregory Boyle’s sparkling parables about kinship and the sacredness of life are drawn from twenty years working with gangs in LA.&lt;br /&gt;&lt;br /&gt;How do you fight despair and learn to meet the world with a loving heart? How do you overcome shame? Stay faithful in spite of failure? No matter where people live or what their circumstances may be, everyone needs boundless, restorative love. Gorgeous and uplifting, &lt;i&gt;Tattoos on the Heart &lt;/i&gt;amply demonstrates the impact unconditional love can have on your life.&lt;br /&gt;&lt;br /&gt; As a pastor working in a neighborhood with the highest concentration of murderous gang activity in Los Angeles, Gregory Boyle created an organization to provide jobs, job training, and encouragement so that young people could work together and learn the mutual respect that comes from collaboration. &lt;i&gt;Tattoos on the Heart &lt;/i&gt;is a breathtaking series of parables distilled from his twenty years in the barrio. Arranged by theme and filled with sparkling humor and glowing generosity, these essays offer a stirring look at how full our lives could be if we could find the joy in loving others and in being loved unconditionally. From giant, tattooed Cesar, shopping at JCPenney fresh out of prison, we learn how to feel worthy of God’s love. From ten-year-old Lula we learn the importance of being known and acknowledged. From Pedro we understand the kind of patience necessary to rescue someone from the darkness. In each chapter we benefit from Boyle’s wonderful, hard-earned wisdom. Inspired by faith but applicable to anyone trying to be good, these personal, unflinching stories are full of surprising revelations and observations of the community in which Boyle works and of the many lives he has helped save.&lt;br /&gt;&lt;br /&gt; Erudite, down-to-earth, and utterly heartening, these essays about universal kinship and redemption are moving examples of the power of unconditional love in difficult times and the importance of fighting despair. With Gregory Boyle’s guidance, we can recognize our own wounds in the broken lives and daunting struggles of the men and women in these parables and learn to find joy in all of the people around us. &lt;i&gt;Tattoos on the Heart &lt;/i&gt;reminds us that no life is less valuable than another.</description>
 <authors>
 <author>
@@ -4610,7 +4686,7 @@
   <publication_year>2016</publication_year>
   <publication_month>1</publication_month>
   <average_rating>4.32</average_rating>
-  <ratings_count>197326</ratings_count>
+  <ratings_count>197334</ratings_count>
   <description>At the age of thirty-six, on the verge of completing a decade’s worth of training as a neurosurgeon, Paul Kalanithi was diagnosed with stage IV lung cancer. One day he was a doctor treating the dying, and the next he was a patient struggling to live. And just like that, the future he and his wife had imagined evaporated. &lt;i&gt;When Breath Becomes Air&lt;/i&gt; chronicles Kalanithi’s transformation from a naïve medical student “possessed,” as he wrote, “by the question of what, given that all organisms die, makes a virtuous and meaningful life” into a neurosurgeon at Stanford working in the brain, the most critical place for human identity, and finally into a patient and new father confronting his own mortality.&lt;br /&gt;&lt;br /&gt;What makes life worth living in the face of death? What do you do when the future, no longer a ladder toward your goals in life, flattens out into a perpetual present? What does it mean to have a child, to nurture a new life as another fades away? These are some of the questions Kalanithi wrestles with in this profoundly moving, exquisitely observed memoir.</description>
 <authors>
 <author>
@@ -4625,7 +4701,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/14031444.Paul_Kalanithi]]></link>
 <average_rating>4.32</average_rating>
-<ratings_count>198257</ratings_count>
+<ratings_count>198263</ratings_count>
 <text_reviews_count>18546</text_reviews_count>
 </author>
 </authors>
@@ -4685,7 +4761,7 @@
   <publication_year>2003</publication_year>
   <publication_month>4</publication_month>
   <average_rating>4.18</average_rating>
-  <ratings_count>95621</ratings_count>
+  <ratings_count>95623</ratings_count>
   <description>Returning to Russia from a sanitarium in Switzerland, the Christ-like epileptic Prince Myshkin finds himself enmeshed in a tangle of love, torn between two women—the notorious kept woman Nastasya and the pure Aglaia—both involved, in turn, with the corrupt, money-hungry Ganya. In the end, Myshkin’s honesty, goodness, and integrity are shown to be unequal to the moral emptiness of those around him. In her revision of the Garnett translation, Anna Brailovsky has corrected inaccuracies wrought by Garnett’s drastic anglicization of the novel, restoring as much as possible the syntactical structure of the original.</description>
 <authors>
 <author>
@@ -4700,7 +4776,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
 <average_rating>4.17</average_rating>
-<ratings_count>1074558</ratings_count>
+<ratings_count>1074570</ratings_count>
 <text_reviews_count>43639</text_reviews_count>
 </author>
 </authors>
@@ -4850,7 +4926,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7014283.G_K_Chesterton]]></link>
 <average_rating>3.99</average_rating>
-<ratings_count>121310</ratings_count>
+<ratings_count>121311</ratings_count>
 <text_reviews_count>9634</text_reviews_count>
 </author>
 </authors>
@@ -4925,7 +5001,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7034628.Pope_Francis]]></link>
 <average_rating>4.28</average_rating>
-<ratings_count>11612</ratings_count>
+<ratings_count>11613</ratings_count>
 <text_reviews_count>1609</text_reviews_count>
 </author>
 </authors>
@@ -5000,7 +5076,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7034628.Pope_Francis]]></link>
 <average_rating>4.28</average_rating>
-<ratings_count>11612</ratings_count>
+<ratings_count>11613</ratings_count>
 <text_reviews_count>1609</text_reviews_count>
 </author>
 </authors>
@@ -5044,7 +5120,7 @@
   <id type="integer">7260188</id>
   <isbn>0439023513</isbn>
   <isbn13>9780439023511</isbn13>
-  <text_reviews_count type="integer">87162</text_reviews_count>
+  <text_reviews_count type="integer">87163</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.hFVPFpO-8DyF11Gy1k4d7A</uri>
   <title>Mockingjay (The Hunger Games, #3)</title>
   <title_without_series>Mockingjay</title_without_series>
@@ -5060,7 +5136,7 @@
   <publication_year>2010</publication_year>
   <publication_month>8</publication_month>
   <average_rating>4.03</average_rating>
-  <ratings_count>1918636</ratings_count>
+  <ratings_count>1918664</ratings_count>
   <description>&lt;b&gt;My name is Katniss Everdeen.&lt;br /&gt;Why am I not dead?&lt;br /&gt;I should be dead.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.&lt;br /&gt;&lt;br /&gt;It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans--except Katniss.&lt;br /&gt;&lt;br /&gt;The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay--no matter what the personal cost.</description>
 <authors>
 <author>
@@ -5075,8 +5151,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
 <average_rating>4.26</average_rating>
-<ratings_count>9495699</ratings_count>
-<text_reviews_count>362383</text_reviews_count>
+<ratings_count>9495845</ratings_count>
+<text_reviews_count>362384</text_reviews_count>
 </author>
 </authors>
   <published>2010</published>
@@ -5135,7 +5211,7 @@
   <publication_year>2009</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.30</average_rating>
-  <ratings_count>2035195</ratings_count>
+  <ratings_count>2035220</ratings_count>
   <description>&lt;b&gt;Sparks are igniting.&lt;br /&gt;Flames are spreading.&lt;br /&gt;And the Capitol wants revenge.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Against all odds, Katniss has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive. Katniss should be relieved, happy even. After all, she has returned to her family and her longtime friend, Gale. Yet nothing is the way Katniss wishes it to be. Gale holds her at an icy distance. Peeta has turned his back on her completely. And there are whispers of a rebellion against the Capitol - a rebellion that Katniss and Peeta may have helped create.&lt;br /&gt;&lt;br /&gt;Much to her shock, Katniss has fueled an unrest she's afraid she cannot stop. And what scares her even more is that she's not entirely convinced she should try. As time draws near for Katniss and Peeta to visit the districts on the Capitol's cruel Victory Tour, the stakes are higher than ever. If they can't prove, without a shadow of a doubt, that they are lost in their love for each other, the consequences will be horrifying.&lt;br /&gt;&lt;br /&gt;In &lt;i&gt;Catching Fire&lt;/i&gt;, the second novel in the Hunger Games trilogy, Suzanne Collins continues the story of Katniss Everdeen, testing her more than ever before...and surprising readers at every turn.</description>
 <authors>
 <author>
@@ -5150,8 +5226,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
 <average_rating>4.26</average_rating>
-<ratings_count>9495699</ratings_count>
-<text_reviews_count>362383</text_reviews_count>
+<ratings_count>9495845</ratings_count>
+<text_reviews_count>362384</text_reviews_count>
 </author>
 </authors>
   <published>2009</published>
@@ -5194,7 +5270,7 @@
   <id type="integer">2767052</id>
   <isbn>0439023483</isbn>
   <isbn13>9780439023481</isbn13>
-  <text_reviews_count type="integer">143218</text_reviews_count>
+  <text_reviews_count type="integer">143219</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.YaoKZD8xVx72w5T1ZgR1YQ</uri>
   <title>The Hunger Games (The Hunger Games, #1)</title>
   <title_without_series>The Hunger Games</title_without_series>
@@ -5210,7 +5286,7 @@
   <publication_year>2008</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.34</average_rating>
-  <ratings_count>5157108</ratings_count>
+  <ratings_count>5157216</ratings_count>
   <description>&lt;b&gt;Winning will make you famous. &lt;br /&gt;Losing means certain death.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games. In punishment, and as a reminder of the power and grace of the Capitol, each district must yield one boy and one girl between the ages of 12 and 18 through a lottery system to participate in the games. The 'tributes' are chosen during the annual Reaping and are forced to fight to the death, leaving only one survivor to claim victory.&lt;br /&gt;&lt;br /&gt;When 16-year-old Katniss's young sister, Prim, is selected as District 12's female representative, Katniss volunteers to take her place. She and her male counterpart Peeta, are pitted against bigger, stronger representatives, some of whom have trained for this their whole lives. , she sees it as a death sentence. But Katniss has been close to death before. For her, survival is second nature.</description>
 <authors>
 <author>
@@ -5225,8 +5301,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
 <average_rating>4.26</average_rating>
-<ratings_count>9495699</ratings_count>
-<text_reviews_count>362383</text_reviews_count>
+<ratings_count>9495845</ratings_count>
+<text_reviews_count>362384</text_reviews_count>
 </author>
 </authors>
   <published>2008</published>
@@ -5435,7 +5511,7 @@
   <publication_year>1994</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.16</average_rating>
-  <ratings_count>39144</ratings_count>
+  <ratings_count>39146</ratings_count>
   <description>Dostoevsky’s most revolutionary novel, Notes from Underground marks the dividing line between nineteenth- and twentieth-century fiction, and between the visions of self each century embodied. One of the most remarkable characters in literature, the unnamed narrator is a former official who has defiantly withdrawn into an underground existence. In full retreat from society, he scrawls a passionate, obsessive, self-contradictory narrative that serves as a devastating attack on social utopianism and an assertion of man’s essentially irrational nature.&lt;br /&gt;&lt;br /&gt;Richard Pevear and Larissa Volokhonsky, whose Dostoevsky translations have become the standard, give us a brilliantly faithful edition of this classic novel, conveying all the tragedy and tormented comedy of the original.</description>
 <authors>
 <author>
@@ -5450,7 +5526,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
 <average_rating>4.17</average_rating>
-<ratings_count>1074558</ratings_count>
+<ratings_count>1074570</ratings_count>
 <text_reviews_count>43639</text_reviews_count>
 </author>
 </authors>
@@ -5600,7 +5676,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/798.Steven_D_Levitt]]></link>
 <average_rating>3.93</average_rating>
-<ratings_count>702516</ratings_count>
+<ratings_count>702521</ratings_count>
 <text_reviews_count>21650</text_reviews_count>
 </author>
 </authors>
@@ -5660,7 +5736,7 @@
   <publication_year>2003</publication_year>
   <publication_month>4</publication_month>
   <average_rating>3.88</average_rating>
-  <ratings_count>34641</ratings_count>
+  <ratings_count>34642</ratings_count>
   <description>In this dark and compelling short novel, Fyodor Dostoevsky tells the story of Alexey Ivanovitch, a young tutor working in the household of an imperious Russian general. Alexey tries to break through the wall of the established order in Russia, but instead becomes mired in the endless downward spiral of betting and loss. His intense and inescapable addiction is accentuated by his affair with the General’s cruel yet seductive niece, Polina. In &lt;i&gt;The Gambler&lt;/i&gt;, Dostoevsky reaches the heights of drama with this stunning psychological portrait.</description>
 <authors>
 <author>
@@ -5675,7 +5751,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
 <average_rating>4.17</average_rating>
-<ratings_count>1074558</ratings_count>
+<ratings_count>1074570</ratings_count>
 <text_reviews_count>43639</text_reviews_count>
 </author>
 </authors>
@@ -5735,7 +5811,7 @@
   <publication_year>2012</publication_year>
   <publication_month>4</publication_month>
   <average_rating>3.59</average_rating>
-  <ratings_count>3000</ratings_count>
+  <ratings_count>3001</ratings_count>
   <description>Jonathan Franzen's &lt;i&gt;Freedom&lt;/i&gt; was the runaway most-discussed novel of 2010, an ambitious and searching engagement with life in America in the twenty-first century. In &lt;i&gt;The New York Times Book Review, &lt;/i&gt;Sam Tanenhaus proclaimed it "a masterpiece of American fiction" and lauded its illumination, "through the steady radiance of its author's profound moral intelligence, [of] the world we thought we knew."&lt;br /&gt;&lt;br /&gt;In &lt;i&gt;Farther Away&lt;/i&gt;, which gathers together essays and speeches written mostly in the past five years, Franzen returns with renewed vigor to the themes, both human and literary, that have long preoccupied him. Whether recounting his violent encounter with bird poachers in Cyprus, examining his mixed feelings about the suicide of his friend and rival David Foster Wallace, or offering a moving and witty take on the ways that technology has changed how people express their love, these pieces deliver on Franzen's implicit promise to conceal nothing. On a trip to China to see first-hand the environmental devastation there, he doesn't omit mention of his excitement and awe at the pace of China's economic development; the trip becomes a journey out of his own prejudice and moral condemnation. Taken together, these essays trace the progress of unique and mature mind wrestling with itself, with literature, and with some of the most important issues of our day. &lt;i&gt;Farther Away&lt;/i&gt; is remarkable, provocative, and necessary.</description>
 <authors>
 <author>
@@ -5750,7 +5826,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2578.Jonathan_Franzen]]></link>
 <average_rating>3.72</average_rating>
-<ratings_count>334839</ratings_count>
+<ratings_count>334844</ratings_count>
 <text_reviews_count>28760</text_reviews_count>
 </author>
 </authors>
@@ -5810,7 +5886,7 @@
   <publication_year>2002</publication_year>
   <publication_month>6</publication_month>
   <average_rating>4.31</average_rating>
-  <ratings_count>183930</ratings_count>
+  <ratings_count>183929</ratings_count>
   <description>The award-winning translation of Dostoevsky's last and greatest novel.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Brothers Karamazov&lt;/i&gt; is a passionate philosophical novel set in 19th century Russia, that enters deeply into the ethical debates of God, free will, and morality. It is a spiritual drama of moral struggles concerning faith, doubt, and reason, set against a modernizing Russia.</description>
 <authors>
 <author>
@@ -5825,7 +5901,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
 <average_rating>4.17</average_rating>
-<ratings_count>1074558</ratings_count>
+<ratings_count>1074570</ratings_count>
 <text_reviews_count>43639</text_reviews_count>
 </author>
 </authors>
@@ -5975,8 +6051,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald]]></link>
 <average_rating>3.88</average_rating>
-<ratings_count>3211403</ratings_count>
-<text_reviews_count>70919</text_reviews_count>
+<ratings_count>3211471</ratings_count>
+<text_reviews_count>70920</text_reviews_count>
 </author>
 </authors>
   <published>2002</published>
@@ -6035,7 +6111,7 @@
   <publication_year>2011</publication_year>
   <publication_month>10</publication_month>
   <average_rating>4.10</average_rating>
-  <ratings_count>163492</ratings_count>
+  <ratings_count>163494</ratings_count>
   <description>In the highly anticipated &lt;i&gt;Thinking, Fast and Slow&lt;/i&gt;, Kahneman takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think. System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. Kahneman exposes the extraordinary capabilities—and also the faults and biases—of fast thinking, and reveals the pervasive influence of intuitive impressions on our thoughts and behavior. The impact of loss aversion and overconfidence on corporate strategies, the difficulties of predicting what will make us happy in the future, the challenges of properly framing risks at work and at home, the profound effect of cognitive biases on everything from playing the stock market to planning the next vacation—each of these can be understood only by knowing how the two systems work together to shape our judgments and decisions.&lt;br /&gt;&lt;br /&gt;Engaging the reader in a lively conversation about how we think, Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives—and how we can use different techniques to guard against the mental glitches that often get us into trouble. &lt;i&gt;Thinking, Fast and Slow&lt;/i&gt; will transform the way you think about thinking.</description>
 <authors>
 <author>
@@ -6050,7 +6126,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/72401.Daniel_Kahneman]]></link>
 <average_rating>4.09</average_rating>
-<ratings_count>166696</ratings_count>
+<ratings_count>166701</ratings_count>
 <text_reviews_count>6380</text_reviews_count>
 </author>
 </authors>
@@ -6125,7 +6201,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>
 <average_rating>4.13</average_rating>
-<ratings_count>4588446</ratings_count>
+<ratings_count>4588525</ratings_count>
 <text_reviews_count>99630</text_reviews_count>
 </author>
 </authors>
@@ -6185,7 +6261,7 @@
   <publication_year>1993</publication_year>
   <publication_month>3</publication_month>
   <average_rating>4.19</average_rating>
-  <ratings_count>465168</ratings_count>
+  <ratings_count>465176</ratings_count>
   <description>With the same suppleness, energy, and range of voices that won their translation of The Brothers Karamazov the PEN/Book-of-the-Month Club Prize, Pevear and Volokhonsky offer a brilliant translation of Dostoevsky's classic novel that presents a clear insight into this astounding psychological thriller. "The best (translation) currently available"--Washington Post Book World.</description>
 <authors>
 <author>
@@ -6200,7 +6276,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
 <average_rating>4.17</average_rating>
-<ratings_count>1074558</ratings_count>
+<ratings_count>1074570</ratings_count>
 <text_reviews_count>43639</text_reviews_count>
 </author>
 </authors>
@@ -6335,7 +6411,7 @@
   <publication_year>1998</publication_year>
   <publication_month>7</publication_month>
   <average_rating>3.68</average_rating>
-  <ratings_count>49194</ratings_count>
+  <ratings_count>49195</ratings_count>
   <description>&lt;i&gt;This Side of Paradise,&lt;/i&gt; F. Scott Fitzgerald's romantic and witty first novel, was written when the author was only twenty-three years old. This semiautobiographical story of the handsome, indulged, and idealistic Princeton student Amory Blaine received critical raves and catapulted Fitzgerald to instant fame. Now, readers can enjoy the newly edited, authorized version of this early classic of the Jazz Age, based on Fitzgerald's original manuscript. In this definitive text, &lt;i&gt;This Side of Paradise&lt;/i&gt; captures the rhythms and romance of Fitzgerald's youth and offers a poignant portrait of the "Lost Generation."</description>
 <authors>
 <author>
@@ -6350,8 +6426,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald]]></link>
 <average_rating>3.88</average_rating>
-<ratings_count>3211403</ratings_count>
-<text_reviews_count>70919</text_reviews_count>
+<ratings_count>3211471</ratings_count>
+<text_reviews_count>70920</text_reviews_count>
 </author>
 </authors>
   <published>1998</published>
@@ -6394,7 +6470,7 @@
   <id type="integer">25179</id>
   <isbn>1891830430</isbn>
   <isbn13>9781891830433</isbn13>
-  <text_reviews_count type="integer">4896</text_reviews_count>
+  <text_reviews_count type="integer">4897</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.W0fKzs2RseN0Koscc2v1-w</uri>
   <title>Blankets</title>
   <title_without_series>Blankets</title_without_series>
@@ -6410,7 +6486,7 @@
   <publication_year>2003</publication_year>
   <publication_month>8</publication_month>
   <average_rating>4.06</average_rating>
-  <ratings_count>74604</ratings_count>
+  <ratings_count>74605</ratings_count>
   <description>Wrapped in the landscape of a blustery Wisconsin winter, Blankets explores the sibling rivalry of two brothers growing up in the isolated country, and the budding romance of two coming-of-age lovers. A tale of security and discovery, of playfulness and tragedy, of a fall from grace and the origins of faith.</description>
 <authors>
 <author>
@@ -6485,7 +6561,7 @@
   <publication_year>2008</publication_year>
   <publication_month>11</publication_month>
   <average_rating>4.11</average_rating>
-  <ratings_count>382706</ratings_count>
+  <ratings_count>382712</ratings_count>
   <description>In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of "outliers"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?&lt;br /&gt;&lt;br /&gt;His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band.</description>
 <authors>
 <author>
@@ -6500,8 +6576,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1439.Malcolm_Gladwell]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>1484314</ratings_count>
-<text_reviews_count>56612</text_reviews_count>
+<ratings_count>1484338</ratings_count>
+<text_reviews_count>56613</text_reviews_count>
 </author>
 </authors>
   <published>2008</published>
@@ -6560,7 +6636,7 @@
   <publication_year>2006</publication_year>
   <publication_month>1</publication_month>
   <average_rating>4.12</average_rating>
-  <ratings_count>1371613</ratings_count>
+  <ratings_count>1371624</ratings_count>
   <description>Twelve-year-old Jonas lives in a seemingly ideal world. Not until he is given his life assignment as the Receiver does he begin to understand the dark secrets behind this fragile community.&lt;br /&gt;&lt;br /&gt;1994 Newbery Medal winner. Twelve-year-old Jonas lives in a seemingly ideal world. Not until he is given his life assignment as the Receiver does he begin to understand the dark secrets behind this fragile community.</description>
 <authors>
 <author>
@@ -6575,7 +6651,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2493.Lois_Lowry]]></link>
 <average_rating>4.07</average_rating>
-<ratings_count>2116515</ratings_count>
+<ratings_count>2116536</ratings_count>
 <text_reviews_count>99564</text_reviews_count>
 </author>
 </authors>
@@ -6635,7 +6711,7 @@
   <publication_year>2006</publication_year>
   <publication_month>8</publication_month>
   <average_rating>3.88</average_rating>
-  <ratings_count>1094895</ratings_count>
+  <ratings_count>1094906</ratings_count>
   <description>Life of Pi is a fantasy adventure novel by Yann Martel published in 2001. The protagonist, Piscine Molitor "Pi" Patel, a Tamil boy from Pondicherry, explores issues of spirituality and practicality from an early age. He survives 227 days after a shipwreck while stranded on a boat in the Pacific Ocean with a Bengal tiger named Richard Parker.</description>
 <authors>
 <author>
@@ -6650,7 +6726,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/811.Yann_Martel]]></link>
 <average_rating>3.87</average_rating>
-<ratings_count>1129681</ratings_count>
+<ratings_count>1129690</ratings_count>
 <text_reviews_count>49053</text_reviews_count>
 </author>
 </authors>
@@ -6710,7 +6786,7 @@
   <publication_year>2004</publication_year>
   <publication_month>5</publication_month>
   <average_rating>4.26</average_rating>
-  <ratings_count>1946132</ratings_count>
+  <ratings_count>1946160</ratings_count>
   <description>&lt;i&gt; “It may be unfair, but what happens in a few days, sometimes even a single day, can change the course of a whole lifetime." &lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Amir is the son of a wealthy Kabul merchant, a member of the ruling caste of Pashtuns. Hassan, his servant and constant companion, is a Hazara, a despised and impoverished caste. Their uncommon bond is torn by Amir's choice to abandon his friend amidst the increasing ethnic, religious, and political tensions of the dying years of the Afghan monarchy, wrenching them far apart. But so strong is the bond between the two boys that Amir journeys back to a distant world, to try to right past wrongs against the only true friend he ever had.&lt;br /&gt;&lt;br /&gt;The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father’s servant, &lt;i&gt;The Kite Runner&lt;/i&gt; is a beautifully crafted novel set in a country that is in the process of being destroyed. It is about the power of reading, the price of betrayal, and the possibility of redemption; and an exploration of the power of fathers over sons—their love, their sacrifices, their lies.&lt;br /&gt;&lt;br /&gt;A sweeping story of family, love, and friendship told against the devastating backdrop of the history of Afghanistan over the last thirty years, &lt;i&gt;The Kite Runner&lt;/i&gt; is an unusual and powerful novel that has become a beloved, one-of-a-kind classic.</description>
 <authors>
 <author>
@@ -6725,7 +6801,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/569.Khaled_Hosseini]]></link>
 <average_rating>4.27</average_rating>
-<ratings_count>3112369</ratings_count>
+<ratings_count>3112418</ratings_count>
 <text_reviews_count>133539</text_reviews_count>
 </author>
 </authors>
@@ -6769,7 +6845,7 @@
   <id type="integer">11870085</id>
   <isbn>0525478817</isbn>
   <isbn13>9780525478812</isbn13>
-  <text_reviews_count type="integer">130288</text_reviews_count>
+  <text_reviews_count type="integer">130290</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.6rIwidkUTORGkQo3jY4dcg</uri>
   <title>The Fault in Our Stars</title>
   <title_without_series>The Fault in Our Stars</title_without_series>
@@ -6785,7 +6861,7 @@
   <publication_year>2012</publication_year>
   <publication_month>1</publication_month>
   <average_rating>4.26</average_rating>
-  <ratings_count>2624059</ratings_count>
+  <ratings_count>2624116</ratings_count>
   <description>&lt;i&gt;Librarian note: an alternate cover for this edition can be found &lt;a href="https://www.goodreads.com/book/show/22753803-the-fault-in-our-stars" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.&lt;br /&gt;&lt;br /&gt;Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.</description>
 <authors>
 <author>
@@ -6800,8 +6876,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
 <average_rating>4.09</average_rating>
-<ratings_count>4994091</ratings_count>
-<text_reviews_count>297239</text_reviews_count>
+<ratings_count>4994225</ratings_count>
+<text_reviews_count>297245</text_reviews_count>
 </author>
 </authors>
   <published>2012</published>
@@ -6860,7 +6936,7 @@
   <publication_year>1987</publication_year>
   <publication_month>12</publication_month>
   <average_rating>3.97</average_rating>
-  <ratings_count>162739</ratings_count>
+  <ratings_count>162743</ratings_count>
   <description>First published in French as a serial in 1909, &lt;i&gt;The Phantom of the Opera&lt;/i&gt; is a riveting story that revolves around the young, Swedish Christine Daaé. Her father, a famous musician, dies, and she is raised in the Paris Opera House with his dying promise of a protective angel of music to guide her. After a time at the opera house, she begins hearing a voice, who eventually teaches her how to sing beautifully. All goes well until Christine's childhood friend Raoul comes to visit his parents, who are patrons of the opera, and he sees Christine when she begins successfully singing on the stage. The voice, who is the deformed, murderous 'ghost' of the opera house named Erik, however, grows violent in his terrible jealousy, until Christine suddenly disappears. The phantom is in love, but it can only spell disaster.&lt;br /&gt;&lt;br /&gt;Leroux's work, with characters ranging from the spoiled prima donna Carlotta to the mysterious Persian from Erik's past, has been immortalized by memorable adaptations. Despite this, it remains a remarkable piece of Gothic horror literature in and of itself, deeper and darker than any version that follows.</description>
 <authors>
 <author>
@@ -6875,7 +6951,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/9057.Gaston_Leroux]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>172025</ratings_count>
+<ratings_count>172030</ratings_count>
 <text_reviews_count>5532</text_reviews_count>
 </author>
 </authors>
@@ -6950,8 +7026,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald]]></link>
 <average_rating>3.88</average_rating>
-<ratings_count>3211403</ratings_count>
-<text_reviews_count>70919</text_reviews_count>
+<ratings_count>3211471</ratings_count>
+<text_reviews_count>70920</text_reviews_count>
 </author>
 </authors>
   <published>1995</published>
@@ -7010,7 +7086,7 @@
   <publication_year>2002</publication_year>
   <publication_month>2</publication_month>
   <average_rating>4.35</average_rating>
-  <ratings_count>347030</ratings_count>
+  <ratings_count>347034</ratings_count>
   <description>Set in the rich farmland of California’s Salinas Valley, this sprawling and often brutal novel follows the intertwined destinies of two families—the Trasks and the Hamiltons—whose generations helplessly reenact the fall of Adam and Eve and the poisonous rivalry of Cain and Abel. Here Steinbeck created some of his most memorable characters and explored his most enduring themes: the mystery of identity; the inexplicability of love; and the murderous consequences of love’s absence.</description>
 <authors>
 <author>
@@ -7025,8 +7101,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/585.John_Steinbeck]]></link>
 <average_rating>3.91</average_rating>
-<ratings_count>3003349</ratings_count>
-<text_reviews_count>80664</text_reviews_count>
+<ratings_count>3003393</ratings_count>
+<text_reviews_count>80665</text_reviews_count>
 </author>
 </authors>
   <published>2002</published>
@@ -7085,7 +7161,7 @@
   <publication_year>2003</publication_year>
   <publication_month>10</publication_month>
   <average_rating>3.42</average_rating>
-  <ratings_count>321812</ratings_count>
+  <ratings_count>321822</ratings_count>
   <description>Dark allegory describes the narrator's journey up the Congo River and his meeting with, and fascination by, Mr. Kurtz, a mysterious personage who dominates the unruly inhabitants of the region. Masterly blend of adventure, character development, psychological penetration. Considered by many Conrad's finest, most enigmatic story.</description>
 <authors>
 <author>
@@ -7100,7 +7176,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3345.Joseph_Conrad]]></link>
 <average_rating>3.50</average_rating>
-<ratings_count>458666</ratings_count>
+<ratings_count>458673</ratings_count>
 <text_reviews_count>17110</text_reviews_count>
 </author>
 </authors>
@@ -7160,7 +7236,7 @@
   <publication_year>2002</publication_year>
   <publication_month>1</publication_month>
   <average_rating>3.93</average_rating>
-  <ratings_count>575202</ratings_count>
+  <ratings_count>575207</ratings_count>
   <description>First published in 1939, Steinbeck’s Pulitzer Prize winning epic of the Great Depression chronicles the Dust Bowl migration of the 1930s and tells the story of one Oklahoma farm family, the Joads, driven from their homestead and forced to travel west to the promised land of California. Out of their trials and their repeated collisions against the hard realities of an America divided into haves and have-nots evolves a drama that is intensely human yet majestic in its scale and moral vision, elemental yet plainspoken, tragic but ultimately stirring in its human dignity.&lt;br /&gt;&lt;br /&gt; A portrait of the conflict between the powerful and the powerless, of one man’s fierce reaction to injustice, and of one woman’s stoical strength, the novel captures the horrors of the Great Depression and probes the very nature of equality and justice in America.&lt;br /&gt;&lt;br /&gt; Sensitive to fascist and communist criticism, Steinbeck insisted that "The Battle Hymn of the Republic” be printed in its entirety in the first edition of the book—which takes its title from the first verse: He is trampling out the vintage where the grapes of wrath are stored.” As Don DeLillo has claimed, Steinbeck shaped a geography of conscience” with this novel where there is something at stake in every sentence.” Beyond that—for emotional urgency, evocative power, sustained impact, prophetic reach, and continued controversy—&lt;i&gt;The Grapes of Wrath &lt;/i&gt;is perhaps the most American of American classics.</description>
 <authors>
 <author>
@@ -7175,8 +7251,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/585.John_Steinbeck]]></link>
 <average_rating>3.91</average_rating>
-<ratings_count>3003349</ratings_count>
-<text_reviews_count>80664</text_reviews_count>
+<ratings_count>3003393</ratings_count>
+<text_reviews_count>80665</text_reviews_count>
 </author>
 </authors>
   <published>2002</published>
@@ -7235,7 +7311,7 @@
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>3.85</average_rating>
-  <ratings_count>1571911</ratings_count>
+  <ratings_count>1571940</ratings_count>
   <description>The compelling story of two outsiders striving to find their place in an unforgiving world. Drifters in search of work, George and his simple-minded friend Lennie have nothing in the world except each other and a dream--a dream that one day they will have some land of their own. Eventually they find work on a ranch in California’s Salinas Valley, but their hopes are doomed as Lennie, struggling against extreme cruelty, misunderstanding and feelings of jealousy, becomes a victim of his own strength. Tackling universal themes such as the friendship of a shared vision, and giving voice to America’s lonely and dispossessed, &lt;i&gt;Of Mice and Men&lt;/i&gt; has proved one of Steinbeck’s most popular works, achieving success as a novel, a Broadway play and three acclaimed films.</description>
 <authors>
 <author>
@@ -7250,8 +7326,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/585.John_Steinbeck]]></link>
 <average_rating>3.91</average_rating>
-<ratings_count>3003349</ratings_count>
-<text_reviews_count>80664</text_reviews_count>
+<ratings_count>3003393</ratings_count>
+<text_reviews_count>80665</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -7325,7 +7401,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7084.Karl_Marx]]></link>
 <average_rating>3.72</average_rating>
-<ratings_count>128810</ratings_count>
+<ratings_count>128811</ratings_count>
 <text_reviews_count>5229</text_reviews_count>
 </author>
 </authors>
@@ -7400,8 +7476,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/879.Plato]]></link>
 <average_rating>3.99</average_rating>
-<ratings_count>308314</ratings_count>
-<text_reviews_count>7999</text_reviews_count>
+<ratings_count>308321</ratings_count>
+<text_reviews_count>8000</text_reviews_count>
 </author>
 </authors>
   <published>1997</published>
@@ -7475,8 +7551,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/879.Plato]]></link>
 <average_rating>3.99</average_rating>
-<ratings_count>308314</ratings_count>
-<text_reviews_count>7999</text_reviews_count>
+<ratings_count>308321</ratings_count>
+<text_reviews_count>8000</text_reviews_count>
 </author>
 </authors>
   <published>2001</published>
@@ -7550,8 +7626,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>
 <average_rating>4.02</average_rating>
-<ratings_count>10860400</ratings_count>
-<text_reviews_count>375308</text_reviews_count>
+<ratings_count>10860526</ratings_count>
+<text_reviews_count>375311</text_reviews_count>
 </author>
 </authors>
   <published>2012</published>
@@ -7625,7 +7701,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3345.Joseph_Conrad]]></link>
 <average_rating>3.50</average_rating>
-<ratings_count>458666</ratings_count>
+<ratings_count>458673</ratings_count>
 <text_reviews_count>17110</text_reviews_count>
 </author>
 </authors>
@@ -7775,7 +7851,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/5152.Vladimir_Nabokov]]></link>
 <average_rating>3.88</average_rating>
-<ratings_count>919207</ratings_count>
+<ratings_count>919223</ratings_count>
 <text_reviews_count>34219</text_reviews_count>
 </author>
 </authors>
@@ -7835,7 +7911,7 @@
   <publication_year>1976</publication_year>
   <publication_month>1</publication_month>
   <average_rating>3.64</average_rating>
-  <ratings_count>285653</ratings_count>
+  <ratings_count>285657</ratings_count>
   <description>&lt;p&gt;&lt;i&gt;On the Road&lt;/i&gt; chronicles Jack Kerouac's years traveling the North American continent with his friend Neal Cassady, "a sideburned hero of the snowy West." As "Sal Paradise" and "Dean Moriarty," the two roam the country in a quest for self-knowledge and experience. Kerouac's love of America, his compassion for humanity, and his sense of language as jazz combine to make &lt;i&gt;On the Road&lt;/i&gt; an inspirational work of lasting importance.&lt;/p&gt;&lt;p&gt;Kerouac's classic novel of freedom and longing defined what it meant to be "Beat" and has inspired every generation since its initial publication.&lt;/p&gt;</description>
 <authors>
 <author>
@@ -7850,7 +7926,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1742.Jack_Kerouac]]></link>
 <average_rating>3.73</average_rating>
-<ratings_count>485630</ratings_count>
+<ratings_count>485638</ratings_count>
 <text_reviews_count>20435</text_reviews_count>
 </author>
 </authors>
@@ -7910,7 +7986,7 @@
   <publication_year>1988</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.06</average_rating>
-  <ratings_count>703979</ratings_count>
+  <ratings_count>703987</ratings_count>
   <description>According to Ponyboy, there are two kinds of people in the world: greasers and socs. A soc (short for "social") has money, can get away with just about anything, and has an attitude longer than a limousine. A greaser, on the other hand, always lives on the outside and needs to watch his back. Ponyboy is a greaser, and he's always been proud of it, even willing to rumble against a gang of socs for the sake of his fellow greasers--until one terrible night when his friend Johnny kills a soc. The murder gets under Ponyboy's skin, causing his bifurcated world to crumble and teaching him that pain feels the same whether a soc or a greaser.</description>
 <authors>
 <author>
@@ -7925,7 +8001,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/762707.S_E_Hinton]]></link>
 <average_rating>4.05</average_rating>
-<ratings_count>764293</ratings_count>
+<ratings_count>764300</ratings_count>
 <text_reviews_count>28095</text_reviews_count>
 </author>
 </authors>
@@ -7985,7 +8061,7 @@
   <publication_year>1972</publication_year>
   <publication_month>3</publication_month>
   <average_rating>3.79</average_rating>
-  <ratings_count>439487</ratings_count>
+  <ratings_count>439498</ratings_count>
   <description>"As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect. He was laying on his hard, as it were armor-plated, back and when he lifted his head a little he could see his domelike brown belly divided into stiff arched segments on top of which the bed quilt could hardly keep in position and was about to slide off completely. His numerous legs, which were pitifully thin compared to the rest of his bulk, waved helplessly before his eyes." &lt;br /&gt;&lt;br /&gt;With this startling, bizarre, yet surprisingly funny first opening, Kafka begins his masterpiece, &lt;i&gt;The Metamorphosis&lt;/i&gt;. It is the story of a young man who, transformed overnight into a giant beetle-like insect, becomes an object of disgrace to his family, an outsider in his own home, a quintessentially alienated man. A harrowing -- though absurdly comic -- meditation on human feelings of inadequacy, guilt, and isolation, &lt;i&gt;The Metamorphosis&lt;/i&gt; has taken its place as one of the most widely read and influential works of twentieth-century fiction. As W.H. Auden wrote, "Kafka is important to us because his predicament is the predicament of modern man."</description>
 <authors>
 <author>
@@ -8000,7 +8076,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/5223.Franz_Kafka]]></link>
 <average_rating>3.88</average_rating>
-<ratings_count>834926</ratings_count>
+<ratings_count>834945</ratings_count>
 <text_reviews_count>25444</text_reviews_count>
 </author>
 </authors>
@@ -8060,7 +8136,7 @@
   <publication_year>2006</publication_year>
   <publication_month>5</publication_month>
   <average_rating>3.87</average_rating>
-  <ratings_count>204603</ratings_count>
+  <ratings_count>204606</ratings_count>
   <description>Fair and long-legged, independent and articulate, Janie Crawford sets out to be her own person -- no mean feat for a black woman in the '30s. Janie's quest for identity takes her through three marriages and into a journey back to her roots.</description>
 <authors>
 <author>
@@ -8075,7 +8151,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/15151.Zora_Neale_Hurston]]></link>
 <average_rating>3.89</average_rating>
-<ratings_count>226412</ratings_count>
+<ratings_count>226416</ratings_count>
 <text_reviews_count>10494</text_reviews_count>
 </author>
 </authors>
@@ -8135,7 +8211,7 @@
   <publication_year>1996</publication_year>
   <publication_month/>
   <average_rating>3.73</average_rating>
-  <ratings_count>602380</ratings_count>
+  <ratings_count>602397</ratings_count>
   <description>It is the story of an old Cuban fisherman and his supreme ordeal: a relentless, agonizing battle with a giant marlin far out in the Gulf Stream. Using the simple, powerful language of a fable, Hemingway takes the timeless themes of courage in the face of defeat and personal triumph won from loss and transforms them into a magnificent twentieth-century classic.</description>
 <authors>
 <author>
@@ -8150,7 +8226,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1455.Ernest_Hemingway]]></link>
 <average_rating>3.82</average_rating>
-<ratings_count>1638030</ratings_count>
+<ratings_count>1638051</ratings_count>
 <text_reviews_count>57292</text_reviews_count>
 </author>
 </authors>
@@ -8210,7 +8286,7 @@
   <publication_year>1999</publication_year>
   <publication_month>1</publication_month>
   <average_rating>4.06</average_rating>
-  <ratings_count>921634</ratings_count>
+  <ratings_count>921649</ratings_count>
   <description>Kurt Vonnegut's absurdist classic &lt;i&gt;Slaughterhouse-Five&lt;/i&gt; introduces us to Billy Pilgrim, a man who becomes unstuck in time after he is abducted by aliens from the planet Tralfamadore. In a plot-scrambling display of virtuosity, we follow Pilgrim simultaneously through all phases of his life, concentrating on his (and Vonnegut's) shattering experience as an American prisoner of war who witnesses the firebombing of Dresden.&lt;br /&gt;&lt;br /&gt;Don't let the ease of reading fool you - Vonnegut's isn't a conventional, or simple, novel. He writes, "There are almost no characters in this story, and almost no dramatic confrontations, because most of the people in it are so sick, and so much the listless playthings of enormous forces. One of the main effects of war, after all, is that people are discouraged from being characters."&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Slaughterhouse-Five&lt;/i&gt; is not only Vonnegut's most powerful book, it is also as important as any written since 1945. Like &lt;i&gt;Catch- 22&lt;/i&gt;, it fashions the author's experiences in the Second World War into an eloquent and deeply funny plea against butchery in the service of authority. &lt;i&gt;Slaughterhouse-Five&lt;/i&gt; boasts the same imagination, humanity, and gleeful appreciation of the absurd found in Vonnegut's other works, but the book's basis in rock-hard, tragic fact gives it a unique poignancy - and humor.</description>
 <authors>
 <author>
@@ -8225,7 +8301,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2778055.Kurt_Vonnegut]]></link>
 <average_rating>4.05</average_rating>
-<ratings_count>2048060</ratings_count>
+<ratings_count>2048081</ratings_count>
 <text_reviews_count>62921</text_reviews_count>
 </author>
 </authors>
@@ -8269,7 +8345,7 @@
   <id type="integer">157993</id>
   <isbn>0156012197</isbn>
   <isbn13>9780156012195</isbn13>
-  <text_reviews_count type="integer">16943</text_reviews_count>
+  <text_reviews_count type="integer">16944</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.UOzV_dE308M_I5mJxsCmsA</uri>
   <title>The Little Prince</title>
   <title_without_series>The Little Prince</title_without_series>
@@ -8285,7 +8361,7 @@
   <publication_year>2000</publication_year>
   <publication_month>6</publication_month>
   <average_rating>4.29</average_rating>
-  <ratings_count>912678</ratings_count>
+  <ratings_count>912702</ratings_count>
   <description>Moral allegory and spiritual autobiography, The Little Prince is the most translated book in the French language. With a timeless charm it tells the story of a little boy who leaves the safety of his own tiny planet to travel the universe, learning the vagaries of adult behaviour through a series of extraordinary encounters. His personal odyssey culminates in a voyage to Earth and further adventures.</description>
 <authors>
 <author>
@@ -8300,8 +8376,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1020792.Antoine_de_Saint_Exup_ry]]></link>
 <average_rating>4.28</average_rating>
-<ratings_count>935768</ratings_count>
-<text_reviews_count>27787</text_reviews_count>
+<ratings_count>935789</ratings_count>
+<text_reviews_count>27789</text_reviews_count>
 </author>
 </authors>
   <published>2000</published>
@@ -8360,7 +8436,7 @@
   <publication_year>2004</publication_year>
   <publication_month>9</publication_month>
   <average_rating>3.90</average_rating>
-  <ratings_count>2914010</ratings_count>
+  <ratings_count>2914076</ratings_count>
   <description>Jay Gatsby is the man who has everything. But one thing will always be out of his reach. Everybody who is anybody is seen at his glittering parties. Day and night his Long Island mansion buzzes with bright young things drinking, dancing, and debating his mysterious character. For Gatsby---young, handsome, and fabulously rich---always seems alone in the crowd, watching and waiting, though no one knows what for. Beneath the shimmering surface of his life he is hiding a secret: a silent longing that can never be fulfilled. And soon this destructive obsession will force his world to unravel.&lt;br /&gt;&lt;br /&gt;This unabridged audiobook is a recording of the original 1924 Book Club edition.</description>
 <authors>
 <author>
@@ -8375,8 +8451,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald]]></link>
 <average_rating>3.88</average_rating>
-<ratings_count>3211403</ratings_count>
-<text_reviews_count>70919</text_reviews_count>
+<ratings_count>3211471</ratings_count>
+<text_reviews_count>70920</text_reviews_count>
 </author>
 </authors>
   <published>2004</published>
@@ -8585,7 +8661,7 @@
   <publication_year>1957</publication_year>
   <publication_month/>
   <average_rating>3.83</average_rating>
-  <ratings_count>310562</ratings_count>
+  <ratings_count>310563</ratings_count>
   <description>The quintessential novel of the Lost Generation, &lt;i&gt;The Sun Also Rises&lt;/i&gt; is one of Ernest Hemingway's masterpieces and a classic example of his spare but powerful writing style. A poignant look at the disillusionment and angst of the post-World War I generation, the novel introduces two of Hemingway's most unforgettable characters: Jake Barnes and Lady Brett Ashley. The story follows the flamboyant Brett and the hapless Jake as they journey from the wild nightlife of 1920s Paris to the brutal bullfighting rings of Spain with a motley group of expatriates. It is an age of moral bankruptcy, spiritual dissolution, unrealized love, and vanishing illusions. First published in 1926, &lt;i&gt;The Sun Also Rises&lt;/i&gt; helped to establish Hemingway as one of the greatest writers of the twentieth century.</description>
 <authors>
 <author>
@@ -8600,7 +8676,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1455.Ernest_Hemingway]]></link>
 <average_rating>3.82</average_rating>
-<ratings_count>1638030</ratings_count>
+<ratings_count>1638051</ratings_count>
 <text_reviews_count>57292</text_reviews_count>
 </author>
 </authors>
@@ -8660,7 +8736,7 @@
   <publication_year>1995</publication_year>
   <publication_month/>
   <average_rating>3.88</average_rating>
-  <ratings_count>531927</ratings_count>
+  <ratings_count>531934</ratings_count>
   <description>Humbert Humbert - scholar, aesthete and romantic - has fallen completely and utterly in love with Lolita Haze, his landlady's gum-snapping, silky skinned twelve-year-old daughter. Reluctantly agreeing to marry Mrs Haze just to be close to Lolita, Humbert suffers greatly in the pursuit of romance; but when Lo herself starts looking for attention elsewhere, he will carry her off on a desperate cross-country misadventure, all in the name of Love. Hilarious, flamboyant, heart-breaking and full of ingenious word play, Lolita is an immaculate, unforgettable masterpiece of obsession, delusion and lust.</description>
 <authors>
 <author>
@@ -8675,7 +8751,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/5152.Vladimir_Nabokov]]></link>
 <average_rating>3.88</average_rating>
-<ratings_count>919207</ratings_count>
+<ratings_count>919223</ratings_count>
 <text_reviews_count>34219</text_reviews_count>
 </author>
 </authors>
@@ -8719,7 +8795,7 @@
   <id type="integer">2657</id>
   <isbn>0061120081</isbn>
   <isbn13>9780061120084</isbn13>
-  <text_reviews_count type="integer">60448</text_reviews_count>
+  <text_reviews_count type="integer">60449</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.n0CD0ECMpxCldCqzG72KSQ</uri>
   <title>To Kill a Mockingbird</title>
   <title_without_series>To Kill a Mockingbird</title_without_series>
@@ -8735,7 +8811,7 @@
   <publication_year>2006</publication_year>
   <publication_month>5</publication_month>
   <average_rating>4.26</average_rating>
-  <ratings_count>3445709</ratings_count>
+  <ratings_count>3445762</ratings_count>
   <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
 <authors>
 <author>
@@ -8750,8 +8826,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
 <average_rating>4.21</average_rating>
-<ratings_count>3627979</ratings_count>
-<text_reviews_count>100313</text_reviews_count>
+<ratings_count>3628030</ratings_count>
+<text_reviews_count>100314</text_reviews_count>
 </author>
 </authors>
   <published>2006</published>
@@ -8810,7 +8886,7 @@
   <publication_year>2007</publication_year>
   <publication_month>2</publication_month>
   <average_rating>3.82</average_rating>
-  <ratings_count>78200</ratings_count>
+  <ratings_count>78201</ratings_count>
   <description>Aging, self-absorbed rock star Judas Coyne has a thing for the macabre -- his collection includes sketches from infamous serial killer John Wayne Gacy, a trepanned skull from the 16th century, a used hangman's noose, Aleister Crowley's childhood chessboard, etc. -- so when his assistant tells him about a ghost for sale on an online auction site, he immediately puts in a bid and purchases it. &lt;br /&gt;&lt;br /&gt;The black, heart-shaped box that Coyne receives in the mail not only contains the suit of a dead man but also his vengeance-obsessed spirit. The ghost, it turns out, is the stepfather of a young groupie who committed suicide after the 54-year-old Coyne callously used her up and threw her away. Now, determined to kill Coyne and anyone who aids him, the merciless ghost of Craddock McDermott begins his assault on the rocker's sanity.</description>
 <authors>
 <author>
@@ -8825,7 +8901,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/88506.Joe_Hill]]></link>
 <average_rating>4.04</average_rating>
-<ratings_count>511877</ratings_count>
+<ratings_count>511887</ratings_count>
 <text_reviews_count>46622</text_reviews_count>
 </author>
 </authors>
@@ -8885,7 +8961,7 @@
   <publication_year>1998</publication_year>
   <publication_month>10</publication_month>
   <average_rating>4.30</average_rating>
-  <ratings_count>191860</ratings_count>
+  <ratings_count>191862</ratings_count>
   <description>"One night - it was on the twentieth of March, 1888 - I was returning from a journey to a patient (for I had now returned to civil practice), when my way led me through Baker Street. As I passed the well-remembered door, which must always be associated in my mind with my wooing, and with the dark incidents of the Study in Scarlet, I was seized with a keen desire to see Holmes again, and to know how he was employing his extraordinary powers. His rooms were brilliantly lit, and, even as I looked up, I saw his tall, spare figure pass twice in a dark silhouette against the blind. He was pacing the room swiftly, eagerly, with his head sunk upon his chest and his hands clasped behind him. To me, who knew his every mood and habit, his attitude and manner told their own story. He was at work again. He had risen out of his drug-created dreams and was hot upon the scent of some new problem. I rang the bell and was shown up to the chamber which had formerly been in part my own." [...] Contains a collection of 12 adventures of Sherlock Holmes and Dr. Watson, such as "A Scandal in Bohemia" and "The Red-Headed League." Originally leased in 1892.</description>
 <authors>
 <author>
@@ -8900,8 +8976,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2448.Arthur_Conan_Doyle]]></link>
 <average_rating>4.21</average_rating>
-<ratings_count>1451310</ratings_count>
-<text_reviews_count>43992</text_reviews_count>
+<ratings_count>1451307</ratings_count>
+<text_reviews_count>43993</text_reviews_count>
 </author>
 </authors>
   <published>1998</published>
@@ -8960,7 +9036,7 @@
   <publication_year>2002</publication_year>
   <publication_month>10</publication_month>
   <average_rating>3.87</average_rating>
-  <ratings_count>316803</ratings_count>
+  <ratings_count>316809</ratings_count>
   <description>&lt;b&gt;“I’ve had a most amazing time....”&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;So begins the Time Traveller’s astonishing firsthand account of his journey 800,000 years beyond his own era—and the story that launched H.G. Wells’s successful career and earned him his reputation as the father of science fiction. With a speculative leap that still fires the imagination, Wells sends his brave explorer to face a future burdened with our greatest hopes...and our darkest fears. A pull of the Time Machine’s lever propels him to the age of a slowly dying Earth.  There he discovers two bizarre races—the ethereal Eloi and the subterranean Morlocks—who not only symbolize the duality of human nature, but offer a terrifying portrait of the men of tomorrow as well.  Published in 1895, this masterpiece of invention captivated readers on the threshold of a new century. Thanks to Wells’s expert storytelling and provocative insight, &lt;b&gt;The Time Machine&lt;/b&gt; will continue to enthrall readers for generations to come.&lt;br /&gt;&lt;br /&gt; </description>
 <authors>
 <author>
@@ -8975,7 +9051,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/880695.H_G_Wells]]></link>
 <average_rating>3.82</average_rating>
-<ratings_count>800430</ratings_count>
+<ratings_count>800439</ratings_count>
 <text_reviews_count>25144</text_reviews_count>
 </author>
 </authors>
@@ -9035,7 +9111,7 @@
   <publication_year>2002</publication_year>
   <publication_month>3</publication_month>
   <average_rating>3.80</average_rating>
-  <ratings_count>188838</ratings_count>
+  <ratings_count>188843</ratings_count>
   <description>With H.G. Wells’ other novels, &lt;i&gt;The War of the Worlds&lt;/i&gt; was one of the first and greatest works of science fiction ever to be written. Even long before man had learned to fly, H.G. Wells wrote this story of the Martian attack on England. These unearthly creatures arrive in huge cylinders, from which they escape as soon as the metal is cool. The first falls near Woking and is regarded as a curiosity rather than a danger until the Martians climb out of it and kill many of the gaping crowd with a Heat-Ray. These unearthly creatures have heads four feet in diameter and colossal round bodies, and by manipulating two terrifying machines – the Handling Machine and the Fighting Machine – they are as versatile as humans and at the same time insuperable. They cause boundless destruction. The inhabitants of the Earth are powerless against them, and it looks as if the end of the World has come. But there is one factor which the Martians, in spite of their superior intelligence, have not reckoned on. It is this which brings about a miraculous conclusion to this famous work of the imagination.</description>
 <authors>
 <author>
@@ -9050,7 +9126,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/880695.H_G_Wells]]></link>
 <average_rating>3.82</average_rating>
-<ratings_count>800430</ratings_count>
+<ratings_count>800439</ratings_count>
 <text_reviews_count>25144</text_reviews_count>
 </author>
 </authors>
@@ -9260,7 +9336,7 @@
   <publication_year>1999</publication_year>
   <publication_month/>
   <average_rating>4.18</average_rating>
-  <ratings_count>282616</ratings_count>
+  <ratings_count>282621</ratings_count>
   <description>&lt;b&gt;Told with deadpan humour &amp;amp; bitter irony, Kurt Vonnegut's cult tale of global destruction preys on our deepest fears of witnessing Armageddon &amp;amp;, worse still, surviving it ...&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Dr Felix Hoenikker, one of the founding 'fathers' of the atomic bomb, has left a deadly legacy to the world. For he's the inventor of 'ice-nine', a lethal chemical capable of freezing the entire planet. The search for its whereabouts leads to Hoenikker's three ecentric children, to a crazed dictator in the Caribbean, to madness. Felix Hoenikker's Death Wish comes true when his last, fatal gift to humankind brings about the end, that for all of us, is nigh...</description>
 <authors>
 <author>
@@ -9275,7 +9351,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2778055.Kurt_Vonnegut]]></link>
 <average_rating>4.05</average_rating>
-<ratings_count>2048060</ratings_count>
+<ratings_count>2048081</ratings_count>
 <text_reviews_count>62921</text_reviews_count>
 </author>
 </authors>
@@ -9335,7 +9411,7 @@
   <publication_year>1993</publication_year>
   <publication_month>5</publication_month>
   <average_rating>3.83</average_rating>
-  <ratings_count>1486874</ratings_count>
+  <ratings_count>1486905</ratings_count>
   <description></description>
 <authors>
 <author>
@@ -9350,8 +9426,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
 <average_rating>3.73</average_rating>
-<ratings_count>2318689</ratings_count>
-<text_reviews_count>104285</text_reviews_count>
+<ratings_count>2318746</ratings_count>
+<text_reviews_count>104286</text_reviews_count>
 </author>
 </authors>
   <published>1993</published>
@@ -9410,7 +9486,7 @@
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>3.75</average_rating>
-  <ratings_count>58741</ratings_count>
+  <ratings_count>58743</ratings_count>
   <description>Countless writers and artists have spoken for a generation, but no one has done it quite like Chuck Klosterman. With an exhaustive knowledge of popular culture and an almost effortless ability to spin brilliant prose out of unlikely subject matter, Klosterman attacks the entire spectrum of postmodern America: reality TV, Internet porn, Pamela Anderson, literary Jesus freaks, and the real difference between apples and oranges (of which there is none). And don't even get him started on his love life and the whole Harry-Met-Sally situation. &lt;br /&gt;&lt;br /&gt;Whether deconstructing &lt;i&gt;Saved by the Bell&lt;/i&gt; episodes or the artistic legacy of Billy Joel, the symbolic importance of &lt;i&gt;The Empire Strikes Back&lt;/i&gt; or the Celtics/Lakers rivalry, Chuck will make you think, he'll make you laugh, and he'll drive you insane -- usually all at once. &lt;i&gt;Sex, Drugs, and Cocoa Puffs&lt;/i&gt; is ostensibly about art, entertainment, infotainment, sports, politics, and kittens, but -- really -- it's about us. All of us. As Klosterman realizes late at night, in the moment before he falls asleep, "In and of itself, nothing really matters. What matters is that nothing is ever 'in and of itself.'" Read to believe.</description>
 <authors>
 <author>
@@ -9425,7 +9501,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/375.Chuck_Klosterman]]></link>
 <average_rating>3.76</average_rating>
-<ratings_count>173398</ratings_count>
+<ratings_count>173403</ratings_count>
 <text_reviews_count>11895</text_reviews_count>
 </author>
 </authors>
@@ -9485,7 +9561,7 @@
   <publication_year>2011</publication_year>
   <publication_month>11</publication_month>
   <average_rating>4.08</average_rating>
-  <ratings_count>169123</ratings_count>
+  <ratings_count>169125</ratings_count>
   <description>It began with &lt;i&gt;Eragon&lt;/i&gt;... It ends with &lt;i&gt;Inheritance&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Not so very long ago, Eragon — Shadeslayer, Dragon Rider — was nothing more than a poor farm boy, and his dragon, Saphira, only a blue stone in the forest. Now the fate of an entire civilization rests on their shoulders.&lt;br /&gt;&lt;br /&gt;Long months of training and battle have brought victories and hope, but they have also brought heartbreaking loss. And still, the real battle lies ahead: they must confront Galbatorix. When they do, they will have to be strong enough to defeat him. And if &lt;i&gt;they&lt;/i&gt; cannot, no one can. There will be no second chance.&lt;br /&gt;&lt;br /&gt;The Rider and his dragon have come further than anyone dared to hope. But can they topple the evil king and restore justice to Alagaësia? And if so, at what cost?&lt;br /&gt;&lt;br /&gt;This is the spellbinding conclusion to Christopher Paolini's worldwide bestselling Inheritance cycle.&lt;br /&gt;&lt;br /&gt;</description>
 <authors>
 <author>
@@ -9500,8 +9576,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/8349.Christopher_Paolini]]></link>
 <average_rating>3.93</average_rating>
-<ratings_count>1916349</ratings_count>
-<text_reviews_count>45820</text_reviews_count>
+<ratings_count>1916404</ratings_count>
+<text_reviews_count>45821</text_reviews_count>
 </author>
 </authors>
   <published>2011</published>
@@ -9560,7 +9636,7 @@
   <publication_year>2005</publication_year>
   <publication_month>11</publication_month>
   <average_rating>4.25</average_rating>
-  <ratings_count>224134</ratings_count>
+  <ratings_count>224136</ratings_count>
   <description>&lt;b&gt;"Remember, remember the fifth of November..."&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;A frightening and powerful tale of the loss of freedom and identity in a chillingly believable totalitarian world, &lt;i&gt;V for Vendetta&lt;/i&gt; stands as one of the highest achievements of the comics medium and a defining work for creators Alan Moore and David Lloyd.&lt;br /&gt;&lt;br /&gt;Set in an imagined future England that has given itself over to fascism, this groundbreaking story captures both the suffocating nature of life in an authoritarian police state and the redemptive power of the human spirit which rebels against it. Crafted with sterling clarity and intelligence, &lt;i&gt;V for Vendetta&lt;/i&gt; brings an unequaled depth of characterization and verisimilitude to its unflinching account of oppression and resistance.</description>
 <authors>
 <author>
@@ -9575,7 +9651,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3961.Alan_Moore]]></link>
 <average_rating>4.23</average_rating>
-<ratings_count>1099097</ratings_count>
+<ratings_count>1099108</ratings_count>
 <text_reviews_count>33623</text_reviews_count>
 </author>
 </authors>
@@ -9635,7 +9711,7 @@
   <publication_year>2005</publication_year>
   <publication_month/>
   <average_rating>4.35</average_rating>
-  <ratings_count>425485</ratings_count>
+  <ratings_count>425489</ratings_count>
   <description>This Hugo Award-winning graphic novel chronicles the fall from grace of a group of super-heroes plagued by all-too-human failings. Along the way, the concept of the super-hero is dissected as the heroes are stalked by an unknown assassin.&lt;br /&gt;&lt;br /&gt;One of the most influential graphic novels of all time and a perennial best-seller, &lt;i&gt;Watchmen&lt;/i&gt; has been studied on college campuses across the nation and is considered a gateway title, leading readers to other graphic novels such as &lt;i&gt;V for Vendetta&lt;/i&gt;, &lt;i&gt;Batman: The Dark Knight Returns&lt;/i&gt; and &lt;i&gt;The Sandman&lt;/i&gt; series.</description>
 <authors>
 <author>
@@ -9650,7 +9726,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3961.Alan_Moore]]></link>
 <average_rating>4.23</average_rating>
-<ratings_count>1099097</ratings_count>
+<ratings_count>1099108</ratings_count>
 <text_reviews_count>33623</text_reviews_count>
 </author>
 </authors>
@@ -9725,8 +9801,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>
 <average_rating>4.02</average_rating>
-<ratings_count>10860400</ratings_count>
-<text_reviews_count>375308</text_reviews_count>
+<ratings_count>10860526</ratings_count>
+<text_reviews_count>375311</text_reviews_count>
 </author>
 </authors>
   <published>2006</published>
@@ -9785,7 +9861,7 @@
   <publication_year>1999</publication_year>
   <publication_month>2</publication_month>
   <average_rating>4.21</average_rating>
-  <ratings_count>991122</ratings_count>
+  <ratings_count>991148</ratings_count>
   <description>The critically acclaimed debut novel from Stephen Chbosky, Perks follows observant “wallflower” Charlie as he charts a course through the strange world between adolescence and adulthood. First dates, family drama, and new friends. Sex, drugs, and The Rocky Horror Picture Show. Devastating loss, young love, and life on the fringes. Caught between trying to live his life and trying to run from it, Charlie must learn to navigate those wild and poignant roller-coaster days known as growing up.</description>
 <authors>
 <author>
@@ -9800,7 +9876,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/12898.Stephen_Chbosky]]></link>
 <average_rating>4.21</average_rating>
-<ratings_count>992227</ratings_count>
+<ratings_count>992255</ratings_count>
 <text_reviews_count>48328</text_reviews_count>
 </author>
 </authors>
@@ -9860,7 +9936,7 @@
   <publication_year>2006</publication_year>
   <publication_month>12</publication_month>
   <average_rating>4.08</average_rating>
-  <ratings_count>870016</ratings_count>
+  <ratings_count>870042</ratings_count>
   <description>&lt;b&gt;Before.&lt;/b&gt; Miles “Pudge” Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave “the Great Perhaps” even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver Creek Boarding School, and his life becomes the opposite of safe. Because down the hall is Alaska Young. The gorgeous, clever, funny, sexy, self-destructive, screwed up, and utterly fascinating Alaska Young. She is an event unto herself. She pulls Pudge into her world, launches him into the Great Perhaps, and steals his heart. Then. . . . &lt;br /&gt;&lt;b&gt;After.&lt;/b&gt; Nothing is ever the same.</description>
 <authors>
 <author>
@@ -9875,8 +9951,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
 <average_rating>4.09</average_rating>
-<ratings_count>4994091</ratings_count>
-<text_reviews_count>297239</text_reviews_count>
+<ratings_count>4994225</ratings_count>
+<text_reviews_count>297245</text_reviews_count>
 </author>
 </authors>
   <published>2006</published>
@@ -9935,7 +10011,7 @@
   <publication_year>2007</publication_year>
   <publication_month>5</publication_month>
   <average_rating>4.14</average_rating>
-  <ratings_count>173022</ratings_count>
+  <ratings_count>173024</ratings_count>
   <description>Ambitious New York City teenager Craig Gilner is determined to succeed at life - which means getting into the right high school to get into the right job. But once Craig aces his way into Manhattan's Executive Pre-Professional High School, the pressure becomes unbearable. He stops eating and sleeping until, one night, he nearly kills himself.&lt;br /&gt;&lt;br /&gt;Craig's suicidal episode gets him checked into a mental hospital, where his new neighbors include a transsexual sex addict, a girl who has scarred her own face with scissors, and the self-elected President Armelio. There, Craig is finally able to confront the sources of his anxiety.&lt;br /&gt;&lt;br /&gt;Ned Vizzini, who himself spent time in a psychiatric hospital, has created a remarkably moving tale about the sometimes unexpected road to happiness.</description>
 <authors>
 <author>
@@ -9950,7 +10026,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/11672.Ned_Vizzini]]></link>
 <average_rating>4.08</average_rating>
-<ratings_count>212394</ratings_count>
+<ratings_count>212399</ratings_count>
 <text_reviews_count>12565</text_reviews_count>
 </author>
 </authors>
@@ -10025,7 +10101,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2617.Jonathan_Safran_Foer]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>561627</ratings_count>
+<ratings_count>561633</ratings_count>
 <text_reviews_count>37740</text_reviews_count>
 </author>
 </authors>
@@ -10085,7 +10161,7 @@
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>3.90</average_rating>
-  <ratings_count>147384</ratings_count>
+  <ratings_count>147386</ratings_count>
   <description>A young man arrives in the Ukraine, clutching in his hand a tattered photograph. He is searching for the woman who fifty years ago saved his grandfather from the Nazis. Unfortunately, however, he is aided in his quest by Alex, a translator with an uncanny ability to mangle English into new forms; a 'blind' old man haunted by memories of the war; and an undersexed guide dog named Sammy Davis, Jr, Jr. What they are looking for seems elusive - a truth hidden behind veils of time, language and the horrors of war. What they find turns all their worlds upside down...</description>
 <authors>
 <author>
@@ -10100,7 +10176,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2617.Jonathan_Safran_Foer]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>561627</ratings_count>
+<ratings_count>561633</ratings_count>
 <text_reviews_count>37740</text_reviews_count>
 </author>
 </authors>
@@ -10160,7 +10236,7 @@
   <publication_year>2006</publication_year>
   <publication_month>4</publication_month>
   <average_rating>3.97</average_rating>
-  <ratings_count>328735</ratings_count>
+  <ratings_count>328742</ratings_count>
   <description>Nine-year-old Oskar Schell is an inventor, amateur entomologist, Francophile, letter writer, pacifist, natural historian, percussionist, romantic, Great Explorer, jeweller, detective, vegan, and collector of butterflies. When his father is killed in the September 11th attacks on the World Trade Centre, Oskar sets out to solve the mystery of a key he discovers in his father's closet. It is a search which leads him into the lives of strangers, through the five boroughs of New York, into history, to the bombings of Dresden and Hiroshima, and on an inward journey which brings him ever closer to some kind of peace.</description>
 <authors>
 <author>
@@ -10175,7 +10251,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/2617.Jonathan_Safran_Foer]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>561627</ratings_count>
+<ratings_count>561633</ratings_count>
 <text_reviews_count>37740</text_reviews_count>
 </author>
 </authors>
@@ -10235,7 +10311,7 @@
   <publication_year></publication_year>
   <publication_month></publication_month>
   <average_rating>4.36</average_rating>
-  <ratings_count>1354682</ratings_count>
+  <ratings_count>1354717</ratings_count>
   <description>Winner of the 2007 BookBrowse Ruby Award. &lt;br /&gt;&lt;br /&gt;It’s just a small story really, about among other things: a girl, some words, an accordionist, some fanatical Germans, a Jewish fist-fighter, and quite a lot of thievery ...&lt;br /&gt;&lt;br /&gt;Set during World War II in Germany, Markus Zusak’s groundbreaking new novel is the story of Liesel Meminger, a foster girl living outside of Munich. Liesel scratches out a meager existence for herself by stealing when she encounters something she can’t resist – books. With the help of her accordion-playing foster father, she learns to read and shares her stolen books with her neighbors during bombing raids as well as with the Jewish man hidden in her basement before he is marched to Dachau. This is an unforgettable story about the ability of books to feed the soul.</description>
 <authors>
 <author>
@@ -10250,8 +10326,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/11466.Markus_Zusak]]></link>
 <average_rating>4.33</average_rating>
-<ratings_count>1477505</ratings_count>
-<text_reviews_count>109299</text_reviews_count>
+<ratings_count>1477545</ratings_count>
+<text_reviews_count>109300</text_reviews_count>
 </author>
 </authors>
   <published></published>
@@ -10310,7 +10386,7 @@
   <publication_year>1999</publication_year>
   <publication_month>8</publication_month>
   <average_rating>3.68</average_rating>
-  <ratings_count>305269</ratings_count>
+  <ratings_count>305272</ratings_count>
   <description>&lt;b&gt;This is the story of a man who said that he would stop the motor of the world and did. Was he a destroyer or the greatest of liberators?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Why did he have to fight his battle, not against his enemies, but against those who needed him most, and his hardest battle against the woman he loved? What is the world’s motor — and the motive power of every man? You will know the answer to these questions when you discover the reason behind the baffling events that play havoc with the lives of the characters in this story. &lt;br /&gt;&lt;br /&gt;Tremendous in its scope, this novel presents an astounding panorama of human life — from the productive genius who becomes a worthless playboy — to the great steel industrialist who does not know that he is working for his own destruction — to the philosopher who becomes a pirate — to the composer who gives up his career on the night of his triumph — to the woman who runs a transcontinental railroad — to the lowest track worker in her Terminal tunnels. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;You must be prepared, when you read this novel, to check every premise at the root of your convictions.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;This is a mystery story, not about the murder — and rebirth — of man’s spirit. It is a philosophical revolution, told in the form of an action thriller of violent events, a ruthlessly brilliant plot structure and an irresistible suspense. Do you say this is impossible? Well, &lt;i&gt;that&lt;/i&gt; is the first of your premises to check.</description>
 <authors>
 <author>
@@ -10325,7 +10401,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/432.Ayn_Rand]]></link>
 <average_rating>3.75</average_rating>
-<ratings_count>743112</ratings_count>
+<ratings_count>743117</ratings_count>
 <text_reviews_count>36297</text_reviews_count>
 </author>
 </authors>
@@ -10385,7 +10461,7 @@
   <publication_year>2002</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.24</average_rating>
-  <ratings_count>414159</ratings_count>
+  <ratings_count>414166</ratings_count>
   <description>Journeys to the end of the world, fantastic creatures, and epic battles between good and evil—what more could any reader ask for in one book? The book that has it all is &lt;i&gt;The Lion, the Witch and the Wardrobe&lt;/i&gt;, written in 1949 by Clive Staples Lewis. But Lewis did not stop there. Six more books followed, and together they became known as &lt;i&gt;The Chronicles of Narnia.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;For the past fifty years, &lt;i&gt;The Chronicles of Narnia&lt;/i&gt; have transcended the fantasy genre to become part of the canon of classic literature. Each of the seven books is a masterpiece, drawing the reader into a land where magic meets reality, and the result is a fictional world whose scope has fascinated generations.&lt;br /&gt;&lt;br /&gt;This edition presents all seven books—unabridged—in one impressive volume. The books are presented here in chronlogical order, each chapter graced with an illustration by the original artist, Pauline Baynes. Deceptively simple and direct, &lt;i&gt;The Chronicles of Narnia&lt;/i&gt; continue to captivate fans with adventures, characters, and truths that speak to readers of all ages, even fifty years after they were first published.</description>
 <authors>
 <author>
@@ -10400,7 +10476,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>
 <average_rating>4.13</average_rating>
-<ratings_count>4588446</ratings_count>
+<ratings_count>4588525</ratings_count>
 <text_reviews_count>99630</text_reviews_count>
 </author>
 </authors>
@@ -10460,7 +10536,7 @@
   <publication_year>2005</publication_year>
   <publication_month>10</publication_month>
   <average_rating>4.48</average_rating>
-  <ratings_count>451930</ratings_count>
+  <ratings_count>451934</ratings_count>
   <description>A fantastic starter set for new Tolkien fans or readers interested in rediscovering the magic of Middle-earth, this three-volume box set features paperback editions of the complete trilogy -- &lt;i&gt;The Fellowship of the Ring, The Two Towers,&lt;/i&gt; and &lt;i&gt;The Return of the King&lt;/i&gt; -- each with art from the New Line Productions feature film on the cover.&lt;br /&gt;J.R.R. Tolkien's &lt;i&gt;The Lord of the Rings&lt;/i&gt; trilogy is a genuine masterpiece. The most widely read and influential fantasy epic of all time, it is also quite simply one of the most memorable and beloved tales ever told. Originally published in 1954, &lt;i&gt;The Lord of the Rings&lt;/i&gt; set the framework upon which all epic/quest fantasy since has been built. Through the urgings of the enigmatic wizard Gandalf, young hobbit Frodo Baggins embarks on an urgent, incredibly treacherous journey to destroy the One Ring. This ring -- created and then lost by the Dark Lord, Sauron, centuries earlier -- is a weapon of evil, one that Sauron desperately wants returned to him. With the power of the ring once again his own, the Dark Lord will unleash his wrath upon all of Middle-earth. The only way to prevent this horrible fate from becoming reality is to return the Ring to Mordor, the only place it can be destroyed. Unfortunately for our heroes, Mordor is also Sauron's lair. &lt;i&gt;The Lord of the Rings&lt;/i&gt; trilogy is essential reading not only for fans of fantasy but for lovers of classic literature as well...&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Librarian's note: this edition shares an ISBN with the &lt;a href="https://www.goodreads.com/book/show/18190993-the-lord-of-the-rings" rel="nofollow"&gt;2004 edition&lt;/a&gt; published by Houghton Mifflin Company&lt;/i&gt;</description>
 <authors>
 <author>
@@ -10475,8 +10551,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
 <average_rating>4.31</average_rating>
-<ratings_count>6524526</ratings_count>
-<text_reviews_count>98174</text_reviews_count>
+<ratings_count>6524624</ratings_count>
+<text_reviews_count>98176</text_reviews_count>
 </author>
 </authors>
   <published>2005</published>
@@ -10519,7 +10595,7 @@
   <id type="integer">10210</id>
   <isbn>0142437204</isbn>
   <isbn13>9780142437209</isbn13>
-  <text_reviews_count type="integer">23825</text_reviews_count>
+  <text_reviews_count type="integer">23826</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.akN8YCw6mCdpbxRRIRp46A</uri>
   <title>Jane Eyre</title>
   <title_without_series>Jane Eyre</title_without_series>
@@ -10535,7 +10611,7 @@
   <publication_year>2003</publication_year>
   <publication_month>2</publication_month>
   <average_rating>4.10</average_rating>
-  <ratings_count>1306648</ratings_count>
+  <ratings_count>1306652</ratings_count>
   <description>&lt;i&gt;&lt;/i&gt;&lt;i&gt;Jane Eyre &lt;/i&gt;is the heart-wrenching story of a young girl saddled with both a cruel aunt and a bitter upbringing at Lowood School. Her soul not broken from these encounters, she becomes governess to the children of the handsome Mr. Rochester, with whom she falls deeply in love, but the dark secrets of Rochester's past and outside influence threaten to swallow their budding romance. Explore Charlotte Bronte's world full of shocking secrets, captivating characters, and dark romance. Complete and unabridged, &lt;i&gt;Jane Eyre&lt;/i&gt; is an essential collectible that is both elegant and portable.</description>
 <authors>
 <author>
@@ -10550,8 +10626,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1036615.Charlotte_Bront_]]></link>
 <average_rating>4.08</average_rating>
-<ratings_count>1427393</ratings_count>
-<text_reviews_count>38130</text_reviews_count>
+<ratings_count>1427399</ratings_count>
+<text_reviews_count>38131</text_reviews_count>
 </author>
 </authors>
   <published>2003</published>
@@ -10610,7 +10686,7 @@
   <publication_year>1993</publication_year>
   <publication_month>7</publication_month>
   <average_rating>4.11</average_rating>
-  <ratings_count>2120267</ratings_count>
+  <ratings_count>2120306</ratings_count>
   <description>Contemporary / British English It is 1942 in Holland and the Germans have invaded. All Jewish people are frightened for their lives, so the Frank family hide. Life is dangerous but they hope for the best - until they are finally discovered. Anne Frank was a real person, and this is her diary. This Pack contains a Book and MP3</description>
 <authors>
 <author>
@@ -10625,7 +10701,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3720.Anne_Frank]]></link>
 <average_rating>4.11</average_rating>
-<ratings_count>2157280</ratings_count>
+<ratings_count>2157319</ratings_count>
 <text_reviews_count>22218</text_reviews_count>
 </author>
 </authors>
@@ -10685,7 +10761,7 @@
   <publication_year>1987</publication_year>
   <publication_month>3</publication_month>
   <average_rating>4.15</average_rating>
-  <ratings_count>571798</ratings_count>
+  <ratings_count>571803</ratings_count>
   <description>Introducing one of the most famous characters in literature, Jean Valjean—the noble peasant imprisoned for stealing a loaf of bread—Les Misérables ranks among the greatest novels of all time. In it, Victor Hugo takes readers deep into the Parisian underworld, immerses them in a battle between good and evil, and carries them to the barricades during the uprising of 1832 with a breathtaking realism that is unsurpassed in modern prose. Within his dramatic story are themes that capture the intellect and the emotions: crime and punishment, the relentless persecution of Valjean by Inspector Javert, the desperation of the prostitute Fantine, the amorality of the rogue Thénardier, and the universal desire to escape the prisons of our own minds. Les Misérables gave Victor Hugo a canvas upon which he portrayed his criticism of the French political and judicial systems, but the portrait that resulted is larger than life, epic in scope—an extravagant spectacle that dazzles the senses even as it touches the heart.</description>
 <authors>
 <author>
@@ -10700,7 +10776,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/13661.Victor_Hugo]]></link>
 <average_rating>4.12</average_rating>
-<ratings_count>781437</ratings_count>
+<ratings_count>781443</ratings_count>
 <text_reviews_count>20840</text_reviews_count>
 </author>
 </authors>
@@ -10744,7 +10820,7 @@
   <id type="integer">5907</id>
   <isbn>0618260307</isbn>
   <isbn13>9780618260300</isbn13>
-  <text_reviews_count type="integer">28956</text_reviews_count>
+  <text_reviews_count type="integer">28957</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.7HhPxEJT1NiirAiej27XwA</uri>
   <title>The Hobbit</title>
   <title_without_series>The Hobbit</title_without_series>
@@ -10760,7 +10836,7 @@
   <publication_year>2002</publication_year>
   <publication_month>8</publication_month>
   <average_rating>4.25</average_rating>
-  <ratings_count>2279946</ratings_count>
+  <ratings_count>2279967</ratings_count>
   <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
 <authors>
 <author>
@@ -10775,8 +10851,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
 <average_rating>4.31</average_rating>
-<ratings_count>6524526</ratings_count>
-<text_reviews_count>98174</text_reviews_count>
+<ratings_count>6524624</ratings_count>
+<text_reviews_count>98176</text_reviews_count>
 </author>
 </authors>
   <published>2002</published>
@@ -10835,7 +10911,7 @@
   <publication_year>1998</publication_year>
   <publication_month>9</publication_month>
   <average_rating>3.97</average_rating>
-  <ratings_count>1121282</ratings_count>
+  <ratings_count>1121298</ratings_count>
   <description>Far in the future, the World Controllers have created the ideal society. Through clever use of genetic engineering, brainwashing and recreational sex and drugs, all its members are happy consumers. Bernard Marx seems alone harbouring an ill-defined longing to break free. A visit to one of the few remaining Savage Reservations, where the old, imperfect life still continues, may be the cure for his distress...&lt;br /&gt;&lt;br /&gt;Huxley's ingenious fantasy of the future sheds a blazing light on the present and is considered to be his most enduring masterpiece.</description>
 <authors>
 <author>
@@ -10850,7 +10926,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3487.Aldous_Huxley]]></link>
 <average_rating>3.98</average_rating>
-<ratings_count>1342736</ratings_count>
+<ratings_count>1342752</ratings_count>
 <text_reviews_count>27890</text_reviews_count>
 </author>
 </authors>
@@ -10910,7 +10986,7 @@
   <publication_year>1998</publication_year>
   <publication_month>6</publication_month>
   <average_rating>4.06</average_rating>
-  <ratings_count>708402</ratings_count>
+  <ratings_count>708414</ratings_count>
   <description>﻿Written in his distinctively dazzling manner, Oscar Wilde’s story of a fashionable young man who sells his soul for eternal youth and beauty is the author’s most popular work. The tale of Dorian Gray’s moral disintegration caused a scandal when it ﬁrst appeared in 1890, but though Wilde was attacked for the novel’s corrupting inﬂuence, he responded that there is, in fact, “a terrible moral in &lt;i&gt;Dorian Gray&lt;/i&gt;.” Just a few years later, the book and the aesthetic/moral dilemma it presented became issues in the trials occasioned by Wilde’s homosexual liaisons, which resulted in his imprisonment. Of Dorian Gray’s relationship to autobiography, Wilde noted in a letter, “Basil Hallward is what I think I am: Lord Henry what the world thinks me: Dorian what I would like to be—in other ages, perhaps.”</description>
 <authors>
 <author>
@@ -10925,7 +11001,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3565.Oscar_Wilde]]></link>
 <average_rating>4.09</average_rating>
-<ratings_count>1285697</ratings_count>
+<ratings_count>1285715</ratings_count>
 <text_reviews_count>39805</text_reviews_count>
 </author>
 </authors>
@@ -10985,7 +11061,7 @@
   <publication_year>2006</publication_year>
   <publication_month>11</publication_month>
   <average_rating>3.73</average_rating>
-  <ratings_count>730700</ratings_count>
+  <ratings_count>730713</ratings_count>
   <description>Literature's grandest evocation of life's journey, at once an ageless human story and an individual test of moral endurance, Homer's ancient Greek epic &lt;i&gt;The Odyssey&lt;/i&gt; is translated by Robert Fagles with an introduction and notes by Bernard Knox in Penguin Classics.&lt;br /&gt;&lt;br /&gt;When Robert Fagles' translation of &lt;i&gt;The Iliad&lt;/i&gt; was published in 1990, critics and scholars alike hailed it as a masterpiece. Here, one of the great modern translators presents us with &lt;i&gt;The Odyssey&lt;/i&gt;, Homer's best-loved poem, recounting Odysseus' wanderings after the Trojan War. With wit and wile, the 'man of twists and turns' meets the challenges of the sea-god Poseidon, and monsters ranging from the many-headed Scylla to the cannibalistic Cyclops Polyphemus - only to return after twenty years to a home besieged by his wife Penelope's suitors. In the myths and legends retold in this immortal poem, Fagles has captured the energy of Homer's original in a bold, contemporary idiom.&lt;br /&gt;&lt;br /&gt;Seven greek cities claim the honour of being the birthplace of Homer (c. 8th-7th century BC), the poet to whom the composition of the &lt;i&gt;Iliad &lt;/i&gt;and &lt;i&gt;Odyssey &lt;/i&gt;are attributed. The &lt;i&gt;Iliad &lt;/i&gt;is the oldest surviving work of Western literature, but the identity - or even the existence - of Homer himself is a complete mystery, with no reliable biographical information having survived.&lt;br /&gt;&lt;br /&gt;If you enjoyed &lt;i&gt;The Odyssey&lt;/i&gt;, you might like Robert Fagles' translation of &lt;i&gt;The Iliad&lt;/i&gt;, also available in Penguin Classics.&lt;br /&gt;&lt;br /&gt;'Wonderfully readable ... Just the right blend of roughness and sophistication'&lt;br /&gt;Ted Hughes&lt;br /&gt;&lt;br /&gt;'A memorable achievement ... Mr Fagles has been remarkably successful in finding a style that is of our time and yet timeless'&lt;br /&gt;Richard Jenkyns, &lt;i&gt;The New York Times Book Review&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;'His translation of &lt;i&gt;The Odyssey &lt;/i&gt;is his best work yet'&lt;br /&gt;Garry Wills, &lt;i&gt;New Yorker&lt;/i&gt;</description>
 <authors>
 <author>
@@ -11000,7 +11076,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/903.Homer]]></link>
 <average_rating>3.78</average_rating>
-<ratings_count>1086596</ratings_count>
+<ratings_count>1086614</ratings_count>
 <text_reviews_count>15077</text_reviews_count>
 </author>
 </authors>
@@ -11060,7 +11136,7 @@
   <publication_year>2003</publication_year>
   <publication_month>2</publication_month>
   <average_rating>3.37</average_rating>
-  <ratings_count>575741</ratings_count>
+  <ratings_count>575752</ratings_count>
   <description>&lt;b&gt;Delve into &lt;i&gt;The Scarlet Letter&lt;/i&gt;, Nathaniel Hawthorne's meditation on human alienation and its effect on the soul in this story set in seventeenth-century Massachusetts and be dazzled by literature.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt; In Nathaniel Hawthorne's dark novel, &lt;i&gt;The Scarlet Letter&lt;/i&gt;, &lt;b&gt;a single sinful act ruins the lives of three people&lt;/b&gt;. None more so than Hester Prynne, a young, beautiful, and dignified woman, who conceived a child out of wedlock and receives the public punishment of having to always wear &lt;b&gt;a scarlet "A" on her clothing&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt; She refuses to reveal the father of her child, which could lighten her sentence. Her husband, the aptly-named Roger Chillingworth, who Hester thought had died in a shipwreck but was actually being held captive by Native Americans, &lt;b&gt;arrives at the exact moment&lt;/b&gt; of her deepest public shaming and vows to get &lt;b&gt;revenge&lt;/b&gt;. Her lover, Arthur Dimmesdale, remains safely unidentified, but is wracked with guilt.&lt;br /&gt;&lt;br /&gt; Though originally published in 1850, the story is &lt;b&gt;set in seventeenth-century Massachusetts&lt;/b&gt; among Hawthorne's Puritan ancestors. In &lt;i&gt;The Scarlet Letter&lt;/i&gt;, he created a story that &lt;b&gt;highlighted both their weaknesses and their strengths&lt;/b&gt;. His knowledge of their beliefs and his admiration for their way of life was balanced by his concerns about their rigid and oppressive rules.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Complete and unabridged&lt;/b&gt;, this elegantly designed, clothbound edition features an elastic closure and a new introduction by Mike Lee Davis.</description>
 <authors>
 <author>
@@ -11075,7 +11151,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7799.Nathaniel_Hawthorne]]></link>
 <average_rating>3.42</average_rating>
-<ratings_count>675412</ratings_count>
+<ratings_count>675429</ratings_count>
 <text_reviews_count>17613</text_reviews_count>
 </author>
 </authors>
@@ -11119,7 +11195,7 @@
   <id type="integer">18490</id>
   <isbn>0141439475</isbn>
   <isbn13>9780141439471</isbn13>
-  <text_reviews_count type="integer">14011</text_reviews_count>
+  <text_reviews_count type="integer">14012</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.oSiHZBfQANbhtZkQ1CEEhg</uri>
   <title>Frankenstein, or The Modern Prometheus</title>
   <title_without_series>Frankenstein, or The Modern Prometheus</title_without_series>
@@ -11135,7 +11211,7 @@
   <publication_year>2003</publication_year>
   <publication_month/>
   <average_rating>3.76</average_rating>
-  <ratings_count>913470</ratings_count>
+  <ratings_count>913473</ratings_count>
   <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
 <authors>
 <author>
@@ -11150,7 +11226,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
 <average_rating>3.76</average_rating>
-<ratings_count>938392</ratings_count>
+<ratings_count>938396</ratings_count>
 <text_reviews_count>22936</text_reviews_count>
 </author>
 </authors>
@@ -11194,7 +11270,7 @@
   <id type="integer">7624</id>
   <isbn>0140283331</isbn>
   <isbn13>9780140283334</isbn13>
-  <text_reviews_count type="integer">21659</text_reviews_count>
+  <text_reviews_count type="integer">21660</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.kSnNl4MoBUSPb-pSSfaVZQ</uri>
   <title>Lord of the Flies</title>
   <title_without_series>Lord of the Flies</title_without_series>
@@ -11210,7 +11286,7 @@
   <publication_year>1999</publication_year>
   <publication_month>10</publication_month>
   <average_rating>3.65</average_rating>
-  <ratings_count>1733459</ratings_count>
+  <ratings_count>1733492</ratings_count>
   <description></description>
 <authors>
 <author>
@@ -11225,8 +11301,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/306.William_Golding]]></link>
 <average_rating>3.65</average_rating>
-<ratings_count>1747569</ratings_count>
-<text_reviews_count>29271</text_reviews_count>
+<ratings_count>1747599</ratings_count>
+<text_reviews_count>29272</text_reviews_count>
 </author>
 </authors>
   <published>1999</published>
@@ -11269,7 +11345,7 @@
   <id type="integer">7613</id>
   <isbn>0452284244</isbn>
   <isbn13>9780452284241</isbn13>
-  <text_reviews_count type="integer">26502</text_reviews_count>
+  <text_reviews_count type="integer">26504</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1._W5xqHHsgJCKA7skF45m8A</uri>
   <title>Animal Farm</title>
   <title_without_series>Animal Farm</title_without_series>
@@ -11285,7 +11361,7 @@
   <publication_year>2003</publication_year>
   <publication_month>5</publication_month>
   <average_rating>3.88</average_rating>
-  <ratings_count>2071863</ratings_count>
+  <ratings_count>2071900</ratings_count>
   <description>As ferociously fresh as it was more than a half century ago, this remarkable allegory of a downtrodden society of overworked, mistreated animals, and their quest to create a paradise of progress, justice, and equality is one of the most scathing satires ever published. As we witness the rise and bloody fall of the revolutionary animals, we begin to recognize the seeds of totalitarianism in the most idealistic organization; and in our most charismatic leaders, the souls of our cruelest oppressors.</description>
 <authors>
 <author>
@@ -11300,8 +11376,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
 <average_rating>4.03</average_rating>
-<ratings_count>4551387</ratings_count>
-<text_reviews_count>97772</text_reviews_count>
+<ratings_count>4551482</ratings_count>
+<text_reviews_count>97775</text_reviews_count>
 </author>
 </authors>
   <published>2003</published>
@@ -11360,7 +11436,7 @@
   <publication_year>1950</publication_year>
   <publication_month>7</publication_month>
   <average_rating>4.15</average_rating>
-  <ratings_count>2180402</ratings_count>
+  <ratings_count>2180449</ratings_count>
   <description>Among the seminal texts of the 20th century, &lt;i&gt;Nineteen Eighty-Four&lt;/i&gt; is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmare vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life--the ubiquity of television, the distortion of the language--and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written.</description>
 <authors>
 <author>
@@ -11375,8 +11451,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
 <average_rating>4.03</average_rating>
-<ratings_count>4551387</ratings_count>
-<text_reviews_count>97772</text_reviews_count>
+<ratings_count>4551482</ratings_count>
+<text_reviews_count>97775</text_reviews_count>
 </author>
 </authors>
   <published>1950</published>
@@ -11435,7 +11511,7 @@
   <publication_year>2004</publication_year>
   <publication_month>1</publication_month>
   <average_rating>3.74</average_rating>
-  <ratings_count>1724480</ratings_count>
+  <ratings_count>1724504</ratings_count>
   <description>In &lt;i&gt;Romeo and Juliet&lt;/i&gt;, Shakespeare creates a world of violence and generational conflict in which two young people fall in love and die because of that love. The story is rather extraordinary in that the normal problems faced by young lovers are here so very large. It is not simply that the families of Romeo and Juliet disapprove of the lover's affection for each other; rather, the Montagues and the Capulets are on opposite sides in a blood feud and are trying to kill each other on the streets of Verona. Every time a member of one of the two families dies in the fight, his relatives demand the blood of his killer. Because of the feud, if Romeo is discovered with Juliet by her family, he will be killed. Once Romeo is banished, the only way that Juliet can avoid being married to someone else is to take a potion that apparently kills her, so that she is burried with the bodies of her slain relatives. In this violent, death-filled world, the movement of the story from love at first sight to the union of the lovers in death seems almost inevitable.&lt;br /&gt;&lt;p&gt;What is so striking about this play is that despite its extraordinary setting (one perhaps reflecting Elizabethan attitudes about hot-blooded Italians), it has become the quintessential story of young love. Because most young lovers feel that they have to overcome giant obstacles in order to be together, because they feel that they would rather die than be kept apart, and especially because the language Shakespeare gives his young lovers is so exquisite, allowing them to say to each other just what we would all say to a lover if we only knew how, it is easy to respond to this play as if it were about all young lovers rather than about a particular couple in a very unusual world. (When the play was rewritten in the eighteen century as &lt;i&gt;The History and Fall of Caius Marius&lt;/i&gt;, the violent setting became that of a particularly discordant period in classical Rome; when Leonard Berstein rewrote the play as &lt;i&gt;West Side Story&lt;/i&gt;, he chose the violent world of New York street gangs.)&lt;/p&gt;</description>
 <authors>
 <author>
@@ -11450,7 +11526,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
 <average_rating>3.86</average_rating>
-<ratings_count>5249680</ratings_count>
+<ratings_count>5249733</ratings_count>
 <text_reviews_count>85539</text_reviews_count>
 </author>
 </authors>
@@ -11510,7 +11586,7 @@
   <publication_year>1995</publication_year>
   <publication_month>4</publication_month>
   <average_rating>3.98</average_rating>
-  <ratings_count>472292</ratings_count>
+  <ratings_count>472301</ratings_count>
   <description>A vicious fifteen-year-old "droog" is the central character of this 1963 classic, whose stark terror was captured in Stanley Kubrick's magnificent film of the same title.&lt;br /&gt;&lt;br /&gt;In Anthony Burgess's nightmare vision of the future, where criminals take over after dark, the story is told by the central character, Alex, who talks in a brutal invented slang that brilliantly renders his and his friends' social pathology. &lt;i&gt;A Clockwork Orange&lt;/i&gt; is a frightening fable about good and evil, and the meaning of human freedom. When the state undertakes to reform Alex—to "redeem" him—the novel asks, "At what cost?"&lt;br /&gt;&lt;br /&gt;This edition includes the controversial last chapter not published in the first edition and Burgess's introduction "A Clockwork Orange Resucked".</description>
 <authors>
 <author>
@@ -11525,7 +11601,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/5735.Anthony_Burgess]]></link>
 <average_rating>3.99</average_rating>
-<ratings_count>528454</ratings_count>
+<ratings_count>528464</ratings_count>
 <text_reviews_count>12845</text_reviews_count>
 </author>
 </authors>
@@ -11585,7 +11661,7 @@
   <publication_year>2004</publication_year>
   <publication_month>9</publication_month>
   <average_rating>3.98</average_rating>
-  <ratings_count>602777</ratings_count>
+  <ratings_count>602790</ratings_count>
   <description></description>
 <authors>
 <author>
@@ -11600,8 +11676,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3167.Joseph_Heller]]></link>
 <average_rating>3.96</average_rating>
-<ratings_count>622296</ratings_count>
-<text_reviews_count>15406</text_reviews_count>
+<ratings_count>622309</ratings_count>
+<text_reviews_count>15407</text_reviews_count>
 </author>
 </authors>
   <published>2004</published>
@@ -11639,6 +11715,81 @@
 </review>
 
     <review>
+  <id>290007193</id>
+    <book>
+  <id type="integer">5107</id>
+  <isbn>0316769177</isbn>
+  <isbn13>9780316769174</isbn13>
+  <text_reviews_count type="integer">38418</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IqM3-G-EAL6pSFPVNq63FQ</uri>
+  <title>The Catcher in the Rye</title>
+  <title_without_series>The Catcher in the Rye</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1398034300m/5107.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1398034300s/5107.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye</link>
+  <num_pages>277</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Back Bay Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>2200251</ratings_count>
+  <description>The hero-narrator of &lt;i&gt;The Catcher in the Rye&lt;/i&gt; is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for three days. The boy himself is at once too simple and too complex for us to make any final comment about him or his story. Perhaps the safest thing we can say about Holden is that he was born in the world not just strongly attracted to beauty but, almost, hopelessly impaled on it. There are many voices in this novel: children's voices, adult voices, underground voices-but Holden's voice is the most eloquent of all. Transcending his own vernacular, yet remaining marvelously faithful to it, he issues a perfectly articulated cry of mixed pain and pleasure. However, like most lovers and clowns and poets of the higher orders, he keeps most of the pain to, and for, himself. The pleasure he gives away, or sets aside, with all his heart. It is there for the reader who can handle it to keep. &lt;br /&gt;&lt;br /&gt;J.D. Salinger's classic novel of teenage angst and rebellion was first published in 1951. The novel was included on &lt;i&gt;Time&lt;/i&gt;'s 2005 list of the 100 best English-language novels written since 1923. It was named by Modern Library and its readers as one of the 100 best English-language novels of the 20th century. It has been frequently challenged in the court for its liberal use of profanity and portrayal of sexuality and in the 1950's and 60's it was the novel that every teenage boy wants to read.</description>
+<authors>
+<author>
+<id>819789</id>
+<name>J.D. Salinger</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1288777679p5/819789.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1288777679p2/819789.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/819789.J_D_Salinger]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>2544798</ratings_count>
+<text_reviews_count>57792</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>3036731</id>
+  <uri>kca://work/amzn1.gr.work.v1.YHa4gac7IHvOiAUZkxSmsg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Mar 06 20:02:37 -0800 2012</date_added>
+  <date_updated>Tue Mar 06 20:02:37 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/290007193]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/290007193]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
   <id>290007190</id>
     <book>
   <id type="integer">12996</id>
@@ -11660,7 +11811,7 @@
   <publication_year>2004</publication_year>
   <publication_month>1</publication_month>
   <average_rating>3.88</average_rating>
-  <ratings_count>263062</ratings_count>
+  <ratings_count>263063</ratings_count>
   <description>In Othello, Shakespeare creates a powerful drama of a marriage that begins with fascination (between the exotic Moor Othello and the Venetian lady Desdemona), with elopement, and with intense mutual devotion and that ends precipitately with jealous rage and violent deaths. He sets this story in the romantic world of the Mediterranean, moving the action from Venice to the island of Cyprus and giving it an even more exotic coloring with stories of Othello's African past. Shakespeare builds so many differences into his hero and heroine—differences of race, of age, of cultural background—that one should not, perhaps, be surprised that the marriage ends disastrously. But most people who see or read the play feel that the love that the play presents between Othello and Desdemona is so strong that it would have overcome all these differences were it not for the words and actions of Othello's standard-bearer, Iago, who hates Othello and sets out to destroy him by destroying his love for Desdemona. As Othello succumbs to Iago's insinuations that Desdemona is unfaithful, fascination—which dominates the early acts of the play—turns to horror, especially for the audience. We are confronted by spectacles of a generous and trusting Othello in the grip of Iago's schemes; of an innocent Desdemona, who has given herself up entirely to her love for Othello only to be subjected to his horrifying verbal and physical assaults, the outcome of Othello's mistaken convictions about her faithlessness.</description>
 <authors>
 <author>
@@ -11675,7 +11826,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
 <average_rating>3.86</average_rating>
-<ratings_count>5249680</ratings_count>
+<ratings_count>5249733</ratings_count>
 <text_reviews_count>85539</text_reviews_count>
 </author>
 </authors>
@@ -11714,81 +11865,6 @@
 </review>
 
     <review>
-  <id>290007193</id>
-    <book>
-  <id type="integer">5107</id>
-  <isbn>0316769177</isbn>
-  <isbn13>9780316769174</isbn13>
-  <text_reviews_count type="integer">38418</text_reviews_count>
-  <uri>kca://book/amzn1.gr.book.v1.IqM3-G-EAL6pSFPVNq63FQ</uri>
-  <title>The Catcher in the Rye</title>
-  <title_without_series>The Catcher in the Rye</title_without_series>
-  <image_url>https://images.gr-assets.com/books/1398034300m/5107.jpg</image_url>
-  <small_image_url>https://images.gr-assets.com/books/1398034300s/5107.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye</link>
-  <num_pages>277</num_pages>
-  <format>Paperback</format>
-  <edition_information/>
-  <publisher>Back Bay Books</publisher>
-  <publication_day>30</publication_day>
-  <publication_year>2001</publication_year>
-  <publication_month>1</publication_month>
-  <average_rating>3.79</average_rating>
-  <ratings_count>2200215</ratings_count>
-  <description>The hero-narrator of &lt;i&gt;The Catcher in the Rye&lt;/i&gt; is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for three days. The boy himself is at once too simple and too complex for us to make any final comment about him or his story. Perhaps the safest thing we can say about Holden is that he was born in the world not just strongly attracted to beauty but, almost, hopelessly impaled on it. There are many voices in this novel: children's voices, adult voices, underground voices-but Holden's voice is the most eloquent of all. Transcending his own vernacular, yet remaining marvelously faithful to it, he issues a perfectly articulated cry of mixed pain and pleasure. However, like most lovers and clowns and poets of the higher orders, he keeps most of the pain to, and for, himself. The pleasure he gives away, or sets aside, with all his heart. It is there for the reader who can handle it to keep. &lt;br /&gt;&lt;br /&gt;J.D. Salinger's classic novel of teenage angst and rebellion was first published in 1951. The novel was included on &lt;i&gt;Time&lt;/i&gt;'s 2005 list of the 100 best English-language novels written since 1923. It was named by Modern Library and its readers as one of the 100 best English-language novels of the 20th century. It has been frequently challenged in the court for its liberal use of profanity and portrayal of sexuality and in the 1950's and 60's it was the novel that every teenage boy wants to read.</description>
-<authors>
-<author>
-<id>819789</id>
-<name>J.D. Salinger</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://images.gr-assets.com/authors/1288777679p5/819789.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://images.gr-assets.com/authors/1288777679p2/819789.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/819789.J_D_Salinger]]></link>
-<average_rating>3.83</average_rating>
-<ratings_count>2544759</ratings_count>
-<text_reviews_count>57791</text_reviews_count>
-</author>
-</authors>
-  <published>2001</published>
-<work>  <id>3036731</id>
-  <uri>kca://work/amzn1.gr.work.v1.YHa4gac7IHvOiAUZkxSmsg</uri>
-</work></book>
-
-
-  <rating>5</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-  <shelf name="read" exclusive="true" />
-
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at></started_at>
-  <read_at></read_at>
-  <date_added>Tue Mar 06 20:02:37 -0800 2012</date_added>
-  <date_updated>Tue Mar 06 20:02:37 -0800 2012</date_updated>
-  <read_count>1</read_count>
-  <body>
-  </body>
-
-  
-
-  <comments_count>0</comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/290007193]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/290007193]]></link>
-    <owned>1</owned>
-</review>
-
-    <review>
   <id>290006615</id>
     <book>
   <id type="integer">1812457</id>
@@ -11810,7 +11886,7 @@
   <publication_year>2007</publication_year>
   <publication_month>7</publication_month>
   <average_rating>3.74</average_rating>
-  <ratings_count>450499</ratings_count>
+  <ratings_count>450502</ratings_count>
   <description>Mackenzie Allen Philips' youngest daughter, Missy, has been abducted during a family vacation, and evidence that she may have been brutally murdered is found in an abandoned shack deep in the Oregon wilderness. Four years later in the midst of his &lt;i&gt;"Great Sadness,"&lt;/i&gt; Mack receives a suspicious note, apparently from God, inviting him back to that shack for a weekend.&lt;br /&gt;&lt;br /&gt;Against his better judgment he arrives at the shack on a wintry afternoon and walks back into his darkest nightmare. What he finds there will change Mack's world forever.&lt;br /&gt;&lt;br /&gt;In a world where religion seems to grow increasingly irrelevant &lt;i&gt;The Shack&lt;/i&gt; wrestles with the timeless question, "Where is God in a world so filled with unspeakable pain?" The answers Mack gets will astound you and perhaps transform you as much as it did him. You'll want everyone you know to read this book!&lt;br /&gt;&lt;br /&gt;&lt;i&gt;* book description from the back cover&lt;/i&gt;</description>
 <authors>
 <author>
@@ -11825,7 +11901,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/15481463.William_Paul_Young]]></link>
 <average_rating>3.75</average_rating>
-<ratings_count>465036</ratings_count>
+<ratings_count>465040</ratings_count>
 <text_reviews_count>32051</text_reviews_count>
 </author>
 </authors>

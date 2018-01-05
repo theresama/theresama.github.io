@@ -26,6 +26,13 @@
   started_reading: 'None'
   finished_reading: 'None'
   rating: 5
+- title: "Both Flesh and Not: Essays"
+  author: David Foster Wallace
+  goodreads_url: 'https://www.goodreads.com/book/show/13528351-both-flesh-and-not'
+  photo_url: 'https://images.gr-assets.com/books/1338050573m/13528351.jpg'
+  started_reading: 'Fri Dec 22 21:13:11 -0800 2017'
+  finished_reading: 'Thu Jan 04 13:23:02 -0800 2018'
+  rating: 4
 - title: "Sense and Sensibility"
   author: Jane Austen
   goodreads_url: 'https://www.goodreads.com/book/show/14935.Sense_and_Sensibility'
@@ -755,7 +762,7 @@
   finished_reading: 'Thu Dec 04 22:00:42 -0800 2014'
   rating: 4
 - title: "Slaughterhouse-Five"
-  author: Kurt Vonnegut Jr.
+  author: Kurt Vonnegut
   goodreads_url: 'https://www.goodreads.com/book/show/4981.Slaughterhouse_Five'
   photo_url: 'https://images.gr-assets.com/books/1440319389m/4981.jpg'
   started_reading: 'None'
@@ -853,7 +860,7 @@
   finished_reading: 'None'
   rating: 3
 - title: "Cat's Cradle"
-  author: Kurt Vonnegut Jr.
+  author: Kurt Vonnegut
   goodreads_url: 'https://www.goodreads.com/book/show/135479.Cat_s_Cradle'
   photo_url: 'https://images.gr-assets.com/books/1327867150m/135479.jpg'
   started_reading: 'None'
@@ -1076,13 +1083,6 @@
   started_reading: 'None'
   finished_reading: 'None'
   rating: 5
-- title: "The Catcher in the Rye"
-  author: J.D. Salinger
-  goodreads_url: 'https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye'
-  photo_url: 'https://images.gr-assets.com/books/1398034300m/5107.jpg'
-  started_reading: 'None'
-  finished_reading: 'None'
-  rating: 5
 - title: "Othello"
   author: William Shakespeare
   goodreads_url: 'https://www.goodreads.com/book/show/12996.Othello'
@@ -1090,6 +1090,13 @@
   started_reading: 'None'
   finished_reading: 'None'
   rating: 3
+- title: "The Catcher in the Rye"
+  author: J.D. Salinger
+  goodreads_url: 'https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye'
+  photo_url: 'https://images.gr-assets.com/books/1398034300m/5107.jpg'
+  started_reading: 'None'
+  finished_reading: 'None'
+  rating: 5
 - title: "The Shack"
   author: William Paul Young
   goodreads_url: 'https://www.goodreads.com/book/show/1812457.The_Shack'

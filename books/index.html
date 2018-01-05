@@ -62,46 +62,26 @@ table {
     </tbody>
 </table>
 
-
-<strong>Read in 2017:</strong>
-
-<table>
-    <tbody class="bookshelf">
-{% for book in site.data.read %}
-    {% if book.finished_reading contains '2017' %}
-    <tr class="book">
-        <td class="book_img">
-            <img src={{ book.photo_url }} height=125>
-        </td>
-        <td class="book_info">
-            <a href={{ book.goodreads_url}}><strong class="info_title">{{ book.title }}</strong></a>
-            <p class"info_author">{{ book.author }}</p>
-        </td>
-    </tr>
-    {% endif %}
-{% endfor %}
-    </tbody>
-</table>
-
-
-<strong>Read in 2016:</strong>
-
-<table>
-    <tbody class="bookshelf">
-{% for book in site.data.read %}
-    {% if book.finished_reading contains '2016' %}
-    <tr class="book">
-        <td class="book_img">
-            <img src={{ book.photo_url }} height=125>
-        </td>
-        <td class="book_info">
-            <a href={{ book.goodreads_url}}><strong class="info_title">{{ book.title }}</strong></a>
-            <p class"info_author">{{ book.author }}</p>
-        </td>
-    </tr>
-    {% endif %}
-{% endfor %}
-    </tbody>
-</table>
+{% assign years = "2018, 2017, 2016" | split: ", " %}
+{% for year in years %}
+    <strong>Read in {{year}}:</strong>
+    <table>
+        <tbody class="bookshelf">
+    {% for book in site.data.read %}
+        {% if book.finished_reading contains year %}
+        <tr class="book">
+            <td class="book_img">
+                <img src={{ book.photo_url }} height=125>
+            </td>
+            <td class="book_info">
+                <a href={{ book.goodreads_url}}><strong class="info_title">{{ book.title }}</strong></a>
+                <p class"info_author">{{ book.author }}</p>
+            </td>
+        </tr>
+        {% endif %}
+    {% endfor %}
+        </tbody>
+    </table>
+{% endfor %} 
 
 <strong>See more on <a href="https://www.goodreads.com/user/show/8086458-theresa" target="_blank">Goodreads</a></strong>

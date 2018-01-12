@@ -1,3 +1,10 @@
+-   author: David Wilkie
+    finished_reading: Wed Jan 10 20:28:43 -0800 2018
+    goodreads_url: https://www.goodreads.com/book/show/23055114-a-second-shot-of-coffee-with-jesus
+    photo_url: https://images.gr-assets.com/books/1426879767m/23055114.jpg
+    rating: '4'
+    started_reading: Thu Jan 04 17:03:17 -0800 2018
+    title: A Second Shot of Coffee with Jesus
 -   author: Tina Fey
     finished_reading: Thu Jan 04 19:37:58 -0800 2018
     goodreads_url: https://www.goodreads.com/book/show/12090316-bossypants
@@ -1099,13 +1106,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22, #1)'
--   author: J.D. Salinger
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
-    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
-    rating: '5'
-    started_reading: null
-    title: The Catcher in the Rye
 -   author: William Shakespeare
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/12996.Othello
@@ -1113,6 +1113,13 @@
     rating: '3'
     started_reading: null
     title: Othello
+-   author: J.D. Salinger
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
+    rating: '5'
+    started_reading: null
+    title: The Catcher in the Rye
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

@@ -1,3 +1,10 @@
+-   author: C.S. Lewis
+    finished_reading: Fri Jan 12 21:50:38 -0800 2018
+    goodreads_url: https://www.goodreads.com/book/show/17383917-the-screwtape-letters
+    photo_url: https://images.gr-assets.com/books/1507310167m/17383917.jpg
+    rating: '5'
+    started_reading: Wed Jan 10 20:30:56 -0800 2018
+    title: The Screwtape Letters
 -   author: David Wilkie
     finished_reading: Wed Jan 10 20:28:43 -0800 2018
     goodreads_url: https://www.goodreads.com/book/show/23055114-a-second-shot-of-coffee-with-jesus
@@ -1106,13 +1113,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22, #1)'
--   author: William Shakespeare
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
-    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
-    rating: '3'
-    started_reading: null
-    title: Othello
 -   author: J.D. Salinger
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
@@ -1120,6 +1120,13 @@
     rating: '5'
     started_reading: null
     title: The Catcher in the Rye
+-   author: William Shakespeare
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
+    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
+    rating: '3'
+    started_reading: null
+    title: Othello
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

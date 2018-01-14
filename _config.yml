@@ -10,7 +10,7 @@ title: Theresa Ma
 email: theresa01.ma@gmail.com
 description: theresa ma is a software engineer among other things
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://theresa.ma" # the base hostname & protocol for your site
+url: "https://theresa.ma" # the base hostname & protocol for your site
 twitter_username: mapotato
 github_username:  theresama
 

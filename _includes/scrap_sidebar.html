@@ -9,7 +9,7 @@
             {% if my_page.title %}
             <li>
                 <strong>
-                    <a  href="/about{{ prepend: site.baseurl }}">about</a>
+                    <a  href="{{ my_page.url | prepend: site.baseurl }}">{{my_page.title}}</a>
                 </strong>
             </li>
             {% endif %}

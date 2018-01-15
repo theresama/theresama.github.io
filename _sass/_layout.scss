@@ -279,6 +279,10 @@
     > li {
         margin-bottom: $spacing-unit;
     }
+
+    ul, ol {
+        margin-bottom: $spacing-unit/2;
+    }
 }
 
 .post-meta {

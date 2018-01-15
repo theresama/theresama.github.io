@@ -342,6 +342,8 @@ pre {
   list-style: none; }
   .post-list > li {
     margin-bottom: 40px; }
+  .post-list ul, .post-list ol {
+    margin-bottom: 20px; }
 
 .post-meta {
   font-size: 10.5px;

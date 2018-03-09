@@ -1,3 +1,10 @@
+-   author: George Orwell
+    finished_reading: Thu Mar 08 22:45:59 -0800 2018
+    goodreads_url: https://www.goodreads.com/book/show/9644.Why_I_Write
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '3'
+    started_reading: Sat Mar 03 15:17:32 -0800 2018
+    title: Why I Write
 -   author: C.S. Lewis
     finished_reading: Fri Jan 12 21:50:38 -0800 2018
     goodreads_url: https://www.goodreads.com/book/show/17383917-the-screwtape-letters
@@ -1127,13 +1134,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22, #1)'
--   author: J.D. Salinger
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
-    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
-    rating: '5'
-    started_reading: null
-    title: The Catcher in the Rye
 -   author: William Shakespeare
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/12996.Othello
@@ -1141,6 +1141,13 @@
     rating: '3'
     started_reading: null
     title: Othello
+-   author: J.D. Salinger
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
+    rating: '5'
+    started_reading: null
+    title: The Catcher in the Rye
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

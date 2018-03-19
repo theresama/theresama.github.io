@@ -1,3 +1,10 @@
+-   author: George Orwell
+    finished_reading: Thu Mar 08 22:45:59 -0800 2018
+    goodreads_url: https://www.goodreads.com/book/show/9644.Why_I_Write
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '3'
+    started_reading: Sat Mar 03 15:17:32 -0800 2018
+    title: Why I Write
 -   author: C.S. Lewis
     finished_reading: Fri Jan 12 21:50:38 -0800 2018
     goodreads_url: https://www.goodreads.com/book/show/17383917-the-screwtape-letters
@@ -33,6 +40,13 @@
     rating: '4'
     started_reading: Sun Dec 10 13:13:57 -0800 2017
     title: Mere Christianity
+-   author: Leo Tolstoy
+    finished_reading: Sat Mar 10 16:53:26 -0800 2018
+    goodreads_url: https://www.goodreads.com/book/show/26244.A_Confession
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '5'
+    started_reading: Fri Mar 09 09:09:07 -0800 2018
+    title: A Confession
 -   author: Christina Wodtke
     finished_reading: Sun Nov 19 11:47:45 -0800 2017
     goodreads_url: https://www.goodreads.com/book/show/28951428-radical-focus
@@ -468,6 +482,13 @@
     rating: '5'
     started_reading: Tue Jan 19 00:00:00 -0800 2016
     title: When Breath Becomes Air
+-   author: Fyodor Dostoyevsky
+    finished_reading: Sun Feb 04 21:49:38 -0800 2018
+    goodreads_url: https://www.goodreads.com/book/show/5695.Demons
+    photo_url: https://images.gr-assets.com/books/1386958613m/5695.jpg
+    rating: '5'
+    started_reading: Thu Jan 04 14:18:47 -0800 2018
+    title: Demons
 -   author: Fyodor Dostoyevsky
     finished_reading: Fri Jan 08 08:04:12 -0800 2016
     goodreads_url: https://www.goodreads.com/book/show/12505.The_Idiot
@@ -948,7 +969,7 @@
 -   author: Stephen Chbosky
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower
-    photo_url: https://images.gr-assets.com/books/1167352178m/22628.jpg
+    photo_url: https://images.gr-assets.com/books/1520093244m/22628.jpg
     rating: '4'
     started_reading: null
     title: The Perks of Being a Wallflower
@@ -1025,14 +1046,14 @@
 -   author: Anne Frank
     finished_reading: Wed Jun 22 15:10:18 -0700 2016
     goodreads_url: https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl
-    photo_url: https://images.gr-assets.com/books/1358276407m/48855.jpg
+    photo_url: https://images.gr-assets.com/books/1518903435m/48855.jpg
     rating: '5'
     started_reading: Wed Jun 22 14:34:22 -0700 2016
     title: The Diary of a Young Girl
 -   author: Victor Hugo
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/24280.Les_Mis_rables
-    photo_url: https://images.gr-assets.com/books/1411852091m/24280.jpg
+    photo_url: https://images.gr-assets.com/books/1520844423m/24280.jpg
     rating: '4'
     started_reading: null
     title: Les Misérables
@@ -1073,11 +1094,11 @@
     title: The Scarlet Letter
 -   author: Mary Wollstonecraft Shelley
     finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/18490.Frankenstein_or_The_Modern_Prometheus
+    goodreads_url: https://www.goodreads.com/book/show/18490.Frankenstein
     photo_url: https://images.gr-assets.com/books/1381512375m/18490.jpg
     rating: '4'
     started_reading: null
-    title: Frankenstein, or The Modern Prometheus
+    title: Frankenstein
 -   author: William Golding
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/7624.Lord_of_the_Flies
@@ -1120,13 +1141,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22, #1)'
--   author: J.D. Salinger
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
-    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
-    rating: '5'
-    started_reading: null
-    title: The Catcher in the Rye
 -   author: William Shakespeare
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/12996.Othello
@@ -1134,6 +1148,13 @@
     rating: '3'
     started_reading: null
     title: Othello
+-   author: J.D. Salinger
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
+    rating: '5'
+    started_reading: null
+    title: The Catcher in the Rye
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

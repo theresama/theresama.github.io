@@ -71,6 +71,13 @@
     title: 'This Is Water: Some Thoughts, Delivered on a Significant Occasion, about
         Living a Compassionate Life'
 -   author: David Foster Wallace
+    finished_reading: Fri Mar 30 21:39:53 -0700 2018
+    goodreads_url: https://www.goodreads.com/book/show/6748.A_Supposedly_Fun_Thing_I_ll_Never_Do_Again
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '5'
+    started_reading: Tue Mar 13 16:59:30 -0700 2018
+    title: 'A Supposedly Fun Thing I''ll Never Do Again:  Essays and Arguments'
+-   author: David Foster Wallace
     finished_reading: Thu Jan 04 13:23:02 -0800 2018
     goodreads_url: https://www.goodreads.com/book/show/13528351-both-flesh-and-not
     photo_url: https://images.gr-assets.com/books/1338050573m/13528351.jpg
@@ -1140,14 +1147,7 @@
     photo_url: https://images.gr-assets.com/books/1463157317m/168668.jpg
     rating: '5'
     started_reading: null
-    title: 'Catch-22 (Catch-22, #1)'
--   author: William Shakespeare
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
-    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
-    rating: '3'
-    started_reading: null
-    title: Othello
+    title: 'Catch-22 (Catch-22 #1)'
 -   author: J.D. Salinger
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
@@ -1155,6 +1155,13 @@
     rating: '5'
     started_reading: null
     title: The Catcher in the Rye
+-   author: William Shakespeare
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
+    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
+    rating: '3'
+    started_reading: null
+    title: Othello
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

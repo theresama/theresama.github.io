@@ -561,6 +561,14 @@
     started_reading: null
     title: 'The Hunger Games (The Hunger Games, #1)'
 -   author: Pope Benedict XVI
+    finished_reading: Mon Apr 02 16:32:21 -0700 2018
+    goodreads_url: https://www.goodreads.com/book/show/9488716-jesus-of-nazareth-part-two
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '5'
+    started_reading: Sun Mar 19 15:11:50 -0700 2017
+    title: 'Jesus of Nazareth, Part Two: Holy Week: From the Entrance into Jerusalem
+        to the Resurrection'
+-   author: Pope Benedict XVI
     finished_reading: Sun Dec 07 20:22:49 -0800 2014
     goodreads_url: https://www.goodreads.com/book/show/16099176-jesus-of-nazareth
     photo_url: https://images.gr-assets.com/books/1352422810m/16099176.jpg
@@ -1155,13 +1163,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22 #1)'
--   author: William Shakespeare
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
-    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
-    rating: '3'
-    started_reading: null
-    title: Othello
 -   author: J.D. Salinger
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
@@ -1169,6 +1170,13 @@
     rating: '5'
     started_reading: null
     title: The Catcher in the Rye
+-   author: William Shakespeare
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
+    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
+    rating: '3'
+    started_reading: null
+    title: Othello
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

@@ -1,17 +1,3 @@
--   author: Gerard Way
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/31855861-doom-patrol-volume-1
-    photo_url: https://images.gr-assets.com/books/1491369095m/31855861.jpg
-    rating: '0'
-    started_reading: Sun Apr 01 23:21:38 -0700 2018
-    title: 'Doom Patrol, Volume 1: Brick by Brick'
--   author: Jordan B. Peterson
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/30257963-12-rules-for-life
-    photo_url: https://images.gr-assets.com/books/1512705866m/30257963.jpg
-    rating: '0'
-    started_reading: Mon Feb 05 12:23:40 -0800 2018
-    title: '12 Rules for Life: An Antidote to Chaos'
 -   author: Kim Malone Scott
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/29939161-radical-candor
@@ -40,3 +26,10 @@
     rating: '0'
     started_reading: Sun Apr 03 13:35:49 -0700 2016
     title: 'JavaScript: The Good Parts'
+-   author: Douglas R. Hofstadter
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/24113.G_del_Escher_Bach
+    photo_url: https://images.gr-assets.com/books/1428732588m/24113.jpg
+    rating: '0'
+    started_reading: Thu Apr 05 19:15:00 -0700 2018
+    title: 'Gödel, Escher, Bach: An Eternal Golden Braid'

@@ -1156,6 +1156,13 @@
     rating: '5'
     started_reading: null
     title: '1984'
+-   author: Sylvia Plath
+    finished_reading: Tue May 08 22:34:16 -0700 2018
+    goodreads_url: https://www.goodreads.com/book/show/35069452-the-bell-jar
+    photo_url: https://images.gr-assets.com/books/1494006256m/35069452.jpg
+    rating: '0'
+    started_reading: Wed Apr 25 10:16:15 -0700 2018
+    title: The Bell Jar
 -   author: William Shakespeare
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/18135.Romeo_and_Juliet
@@ -1177,13 +1184,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22 #1)'
--   author: J.D. Salinger
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
-    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
-    rating: '5'
-    started_reading: null
-    title: The Catcher in the Rye
 -   author: William Shakespeare
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/12996.Othello
@@ -1191,6 +1191,13 @@
     rating: '3'
     started_reading: null
     title: Othello
+-   author: J.D. Salinger
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
+    rating: '5'
+    started_reading: null
+    title: The Catcher in the Rye
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

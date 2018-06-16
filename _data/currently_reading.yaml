@@ -33,6 +33,13 @@
     rating: '0'
     started_reading: Sun Apr 03 13:35:49 -0700 2016
     title: 'JavaScript: The Good Parts'
+-   author: Hunter S. Thompson
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/7745.Fear_and_Loathing_in_Las_Vegas
+    photo_url: https://images.gr-assets.com/books/1394204569m/7745.jpg
+    rating: '0'
+    started_reading: Fri Jun 15 13:32:54 -0700 2018
+    title: Fear and Loathing in Las Vegas
 -   author: Douglas R. Hofstadter
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/24113.G_del_Escher_Bach

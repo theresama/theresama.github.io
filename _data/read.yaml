@@ -617,6 +617,13 @@
     rating: '4'
     started_reading: Sun Sep 03 21:31:03 -0700 2017
     title: Notes from Underground
+-   author: Hunter S. Thompson
+    finished_reading: Wed Jun 20 13:54:32 -0700 2018
+    goodreads_url: https://www.goodreads.com/book/show/7745.Fear_and_Loathing_in_Las_Vegas
+    photo_url: https://images.gr-assets.com/books/1394204569m/7745.jpg
+    rating: '4'
+    started_reading: Fri Jun 15 13:32:54 -0700 2018
+    title: Fear and Loathing in Las Vegas
 -   author: Sheena Iyengar
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/6648865-the-art-of-choosing
@@ -1198,13 +1205,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22, #1)'
--   author: J.D. Salinger
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
-    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
-    rating: '5'
-    started_reading: null
-    title: The Catcher in the Rye
 -   author: William Shakespeare
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/12996.Othello
@@ -1212,6 +1212,13 @@
     rating: '3'
     started_reading: null
     title: Othello
+-   author: J.D. Salinger
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
+    rating: '5'
+    started_reading: null
+    title: The Catcher in the Rye
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

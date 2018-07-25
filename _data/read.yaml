@@ -5,6 +5,13 @@
     rating: '5'
     started_reading: Fri Jun 22 21:05:50 -0700 2018
     title: 'How to Change Your Mind: The New Science of Psychedelics'
+-   author: Rick Perlstein
+    finished_reading: Tue Jul 24 01:14:07 -0700 2018
+    goodreads_url: https://www.goodreads.com/book/show/2393575.Nixonland
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '4'
+    started_reading: Mon May 21 00:11:54 -0700 2018
+    title: 'Nixonland: The Rise of a President and the Fracturing of America'
 -   author: Gerard Way
     finished_reading: Thu Apr 05 14:37:12 -0700 2018
     goodreads_url: https://www.goodreads.com/book/show/31855861-doom-patrol-volume-1
@@ -1212,13 +1219,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22, #1)'
--   author: William Shakespeare
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
-    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
-    rating: '3'
-    started_reading: null
-    title: Othello
 -   author: J.D. Salinger
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
@@ -1226,6 +1226,13 @@
     rating: '5'
     started_reading: null
     title: The Catcher in the Rye
+-   author: William Shakespeare
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
+    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
+    rating: '3'
+    started_reading: null
+    title: Othello
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

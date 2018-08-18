@@ -12,6 +12,14 @@
     rating: '5'
     started_reading: Wed Aug 01 18:50:23 -0700 2018
     title: Scrappy Little Nobody
+-   author: Seth Stephens-Davidowitz
+    finished_reading: Fri Aug 17 13:22:44 -0700 2018
+    goodreads_url: https://www.goodreads.com/book/show/28512671-everybody-lies
+    photo_url: https://images.gr-assets.com/books/1489069766m/28512671.jpg
+    rating: '4'
+    started_reading: Tue Aug 14 12:46:57 -0700 2018
+    title: 'Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us
+        About Who We Really Are'
 -   author: Andrew Shaffer
     finished_reading: Fri Aug 03 12:04:47 -0700 2018
     goodreads_url: https://www.goodreads.com/book/show/36531052-hope-never-dies
@@ -1254,13 +1262,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22, #1)'
--   author: William Shakespeare
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
-    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
-    rating: '3'
-    started_reading: null
-    title: Othello
 -   author: J.D. Salinger
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
@@ -1268,6 +1269,13 @@
     rating: '5'
     started_reading: null
     title: The Catcher in the Rye
+-   author: William Shakespeare
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
+    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
+    rating: '3'
+    started_reading: null
+    title: Othello
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

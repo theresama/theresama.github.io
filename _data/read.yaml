@@ -1,4 +1,12 @@
 -   author: Anthony Bourdain
+    finished_reading: Sat Aug 18 12:14:49 -0700 2018
+    goodreads_url: https://www.goodreads.com/book/show/40409969-medium-raw
+    photo_url: https://images.gr-assets.com/books/1528321636m/40409969.jpg
+    rating: '4'
+    started_reading: Fri Aug 10 08:53:57 -0700 2018
+    title: 'Medium Raw: A Bloody Valentine to the World of Food and the People Who
+        Cook'
+-   author: Anthony Bourdain
     finished_reading: Tue Aug 07 21:54:23 -0700 2018
     goodreads_url: https://www.goodreads.com/book/show/13637496-kitchen-confidential
     photo_url: https://images.gr-assets.com/books/1336380973m/13637496.jpg
@@ -1262,13 +1270,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22, #1)'
--   author: J.D. Salinger
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
-    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
-    rating: '5'
-    started_reading: null
-    title: The Catcher in the Rye
 -   author: William Shakespeare
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/12996.Othello
@@ -1276,6 +1277,13 @@
     rating: '3'
     started_reading: null
     title: Othello
+-   author: J.D. Salinger
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
+    rating: '5'
+    started_reading: null
+    title: The Catcher in the Rye
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

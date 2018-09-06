@@ -1,3 +1,10 @@
+-   author: Emma Koenig
+    finished_reading: Wed Sep 05 12:29:54 -0700 2018
+    goodreads_url: https://www.goodreads.com/book/show/36204793-moan
+    photo_url: https://images.gr-assets.com/books/1514534941m/36204793.jpg
+    rating: '3'
+    started_reading: Mon Sep 03 11:53:30 -0700 2018
+    title: 'Moan: Anonymous Essays on Female Orgasm'
 -   author: Ruth Reichl
     finished_reading: Mon Aug 27 09:46:26 -0700 2018
     goodreads_url: https://www.goodreads.com/book/show/80642.Garlic_and_Sapphires
@@ -1284,13 +1291,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22, #1)'
--   author: William Shakespeare
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
-    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
-    rating: '3'
-    started_reading: null
-    title: Othello
 -   author: J.D. Salinger
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
@@ -1298,6 +1298,13 @@
     rating: '5'
     started_reading: null
     title: The Catcher in the Rye
+-   author: William Shakespeare
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
+    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
+    rating: '3'
+    started_reading: null
+    title: Othello
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

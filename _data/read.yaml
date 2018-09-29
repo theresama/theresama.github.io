@@ -134,6 +134,13 @@
     rating: '4'
     started_reading: Thu Jan 04 17:03:17 -0800 2018
     title: A Second Shot of Coffee with Jesus
+-   author: David Foster Wallace
+    finished_reading: Fri Sep 28 11:56:48 -0700 2018
+    goodreads_url: https://www.goodreads.com/book/show/574933.Brief_Interviews_with_Hideous_Men
+    photo_url: https://images.gr-assets.com/books/1281329429m/574933.jpg
+    rating: '5'
+    started_reading: Sat Aug 04 17:25:55 -0700 2018
+    title: Brief Interviews with Hideous Men
 -   author: Tina Fey
     finished_reading: Thu Jan 04 19:37:58 -0800 2018
     goodreads_url: https://www.goodreads.com/book/show/12090316-bossypants
@@ -1299,13 +1306,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22, #1)'
--   author: J.D. Salinger
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
-    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
-    rating: '5'
-    started_reading: null
-    title: The Catcher in the Rye
 -   author: William Shakespeare
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/12996.Othello
@@ -1313,6 +1313,13 @@
     rating: '3'
     started_reading: null
     title: Othello
+-   author: J.D. Salinger
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
+    rating: '5'
+    started_reading: null
+    title: The Catcher in the Rye
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

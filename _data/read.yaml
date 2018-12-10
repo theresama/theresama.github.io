@@ -1,3 +1,10 @@
+-   author: Ernest Nagel
+    finished_reading: Sat Dec 08 23:42:52 -0800 2018
+    goodreads_url: https://www.goodreads.com/book/show/695429.G_del_s_Proof
+    photo_url: https://images.gr-assets.com/books/1410131135m/695429.jpg
+    rating: '5'
+    started_reading: Tue Nov 20 23:57:09 -0800 2018
+    title: Gödel's Proof
 -   author: Douglas R. Hofstadter
     finished_reading: Wed Dec 05 21:23:58 -0800 2018
     goodreads_url: https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop
@@ -1334,13 +1341,6 @@
     rating: '5'
     started_reading: null
     title: Catch-22
--   author: William Shakespeare
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
-    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
-    rating: '3'
-    started_reading: null
-    title: Othello
 -   author: J.D. Salinger
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
@@ -1348,6 +1348,13 @@
     rating: '5'
     started_reading: null
     title: The Catcher in the Rye
+-   author: William Shakespeare
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
+    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
+    rating: '3'
+    started_reading: null
+    title: Othello
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

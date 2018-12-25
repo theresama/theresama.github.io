@@ -26,3 +26,10 @@
     rating: '0'
     started_reading: Thu Apr 05 19:15:00 -0700 2018
     title: 'Gödel, Escher, Bach: An Eternal Golden Braid'
+-   author: Leo Tolstoy
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/151.Anna_Karenina
+    photo_url: https://images.gr-assets.com/books/1452709554m/151.jpg
+    rating: '0'
+    started_reading: Mon Dec 24 10:51:58 -0800 2018
+    title: Anna Karenina

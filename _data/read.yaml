@@ -5,6 +5,13 @@
     rating: '4'
     started_reading: Fri Dec 21 19:53:41 -0800 2018
     title: An Absolutely Remarkable Thing
+-   author: Isaac Asimov
+    finished_reading: Sun Dec 30 20:05:07 -0800 2018
+    goodreads_url: https://www.goodreads.com/book/show/4808763-the-last-question
+    photo_url: https://images.gr-assets.com/books/1274107046m/4808763.jpg
+    rating: '5'
+    started_reading: Sun Dec 30 19:37:34 -0800 2018
+    title: The Last Question
 -   author: Ernest Nagel
     finished_reading: Sat Dec 08 23:42:52 -0800 2018
     goodreads_url: https://www.goodreads.com/book/show/695429.G_del_s_Proof
@@ -252,7 +259,7 @@
 -   author: Jane Austen
     finished_reading: Fri Dec 29 23:20:27 -0800 2017
     goodreads_url: https://www.goodreads.com/book/show/14935.Sense_and_Sensibility
-    photo_url: https://images.gr-assets.com/books/1546097851m/14935.jpg
+    photo_url: https://images.gr-assets.com/books/1397245675m/14935.jpg
     rating: '5'
     started_reading: Thu Dec 21 22:35:49 -0800 2017
     title: Sense and Sensibility
@@ -929,6 +936,13 @@
     rating: '5'
     started_reading: null
     title: Heart of Darkness
+-   author: Leo Tolstoy
+    finished_reading: Sun Dec 30 18:22:45 -0800 2018
+    goodreads_url: https://www.goodreads.com/book/show/151.Anna_Karenina
+    photo_url: https://images.gr-assets.com/books/1452709554m/151.jpg
+    rating: '5'
+    started_reading: Mon Dec 24 10:51:58 -0800 2018
+    title: Anna Karenina
 -   author: John Steinbeck
     finished_reading: Sun Dec 10 12:07:48 -0800 2017
     goodreads_url: https://www.goodreads.com/book/show/4395.The_Grapes_of_Wrath
@@ -1093,7 +1107,7 @@
 -   author: Arthur Conan Doyle
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes
-    photo_url: https://images.gr-assets.com/books/1546104215m/3590.jpg
+    photo_url: https://images.gr-assets.com/books/1164045516m/3590.jpg
     rating: '4'
     started_reading: null
     title: The Adventures of Sherlock Holmes
@@ -1247,7 +1261,7 @@
 -   author: Charlotte Brontë
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/10210.Jane_Eyre
-    photo_url: https://images.gr-assets.com/books/1546102908m/10210.jpg
+    photo_url: https://images.gr-assets.com/books/1327867269m/10210.jpg
     rating: '5'
     started_reading: null
     title: Jane Eyre

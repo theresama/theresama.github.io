@@ -1,3 +1,10 @@
+-   author: Peter Godfrey-Smith
+    finished_reading: Sat Jan 05 23:46:47 -0800 2019
+    goodreads_url: https://www.goodreads.com/book/show/28116739-other-minds
+    photo_url: https://images.gr-assets.com/books/1458496696m/28116739.jpg
+    rating: '3'
+    started_reading: Sun Dec 30 20:08:19 -0800 2018
+    title: 'Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness'
 -   author: Hank Green
     finished_reading: Sat Dec 22 09:57:04 -0800 2018
     goodreads_url: https://www.goodreads.com/book/show/38186611-an-absolutely-remarkable-thing
@@ -1370,13 +1377,6 @@
     rating: '5'
     started_reading: null
     title: Catch-22
--   author: J.D. Salinger
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
-    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
-    rating: '5'
-    started_reading: null
-    title: The Catcher in the Rye
 -   author: William Shakespeare
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/12996.Othello
@@ -1384,6 +1384,13 @@
     rating: '3'
     started_reading: null
     title: Othello
+-   author: J.D. Salinger
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+    photo_url: https://images.gr-assets.com/books/1398034300m/5107.jpg
+    rating: '5'
+    started_reading: null
+    title: The Catcher in the Rye
 -   author: William Paul Young
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack

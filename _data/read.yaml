@@ -1,3 +1,10 @@
+-   author: Michelle Obama
+    finished_reading: Sun Mar 10 08:36:24 -0700 2019
+    goodreads_url: https://www.goodreads.com/book/show/38746485-becoming
+    photo_url: https://images.gr-assets.com/books/1528206996m/38746485.jpg
+    rating: '5'
+    started_reading: Sun Jan 27 19:30:09 -0800 2019
+    title: Becoming
 -   author: Peter Godfrey-Smith
     finished_reading: Sat Jan 05 23:46:47 -0800 2019
     goodreads_url: https://www.goodreads.com/book/show/28116739-other-minds
@@ -1390,13 +1397,6 @@
     rating: '5'
     started_reading: null
     title: 'Catch-22 (Catch-22, #1)'
--   author: William Shakespeare
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
-    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
-    rating: '3'
-    started_reading: null
-    title: Othello
 -   author: J.D. Salinger
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
@@ -1404,10 +1404,10 @@
     rating: '5'
     started_reading: null
     title: The Catcher in the Rye
--   author: William Paul Young
+-   author: William Shakespeare
     finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/1812457.The_Shack
-    photo_url: https://images.gr-assets.com/books/1344270232m/1812457.jpg
-    rating: '2'
+    goodreads_url: https://www.goodreads.com/book/show/12996.Othello
+    photo_url: https://images.gr-assets.com/books/1459795105m/12996.jpg
+    rating: '3'
     started_reading: null
-    title: The Shack
+    title: Othello

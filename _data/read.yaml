@@ -12,6 +12,13 @@
     rating: '5'
     started_reading: Sun Jan 27 19:30:09 -0800 2019
     title: Becoming
+-   author: Patricia Highsmith
+    finished_reading: Thu Apr 18 12:09:02 -0700 2019
+    goodreads_url: https://www.goodreads.com/book/show/25622850-carol
+    photo_url: https://images.gr-assets.com/books/1451790279m/25622850.jpg
+    rating: '5'
+    started_reading: Sun Apr 14 22:59:43 -0700 2019
+    title: Carol
 -   author: Peter Godfrey-Smith
     finished_reading: Sat Jan 05 23:46:47 -0800 2019
     goodreads_url: https://www.goodreads.com/book/show/28116739-other-minds
@@ -1404,10 +1411,3 @@
     rating: '5'
     started_reading: null
     title: A Clockwork Orange
--   author: Joseph Heller
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/168668.Catch_22
-    photo_url: https://images.gr-assets.com/books/1463157317m/168668.jpg
-    rating: '5'
-    started_reading: null
-    title: Catch-22

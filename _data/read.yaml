@@ -148,6 +148,13 @@
     rating: '4'
     started_reading: Fri Jul 27 20:17:04 -0700 2018
     title: 'Bad Blood: Secrets and Lies in a Silicon Valley Startup'
+-   author: Hunter S. Thompson
+    finished_reading: Mon May 27 23:29:58 -0700 2019
+    goodreads_url: https://www.goodreads.com/book/show/13573496-fear-and-loathing-on-the-campaign-trail-72
+    photo_url: https://images.gr-assets.com/books/1344399454m/13573496.jpg
+    rating: '4'
+    started_reading: Sun Apr 14 15:38:30 -0700 2019
+    title: Fear and Loathing on the Campaign Trail '72
 -   author: Barack Obama
     finished_reading: Mon Jul 30 10:14:11 -0700 2018
     goodreads_url: https://www.goodreads.com/book/show/88061.Dreams_from_My_Father
@@ -1404,10 +1411,3 @@
     rating: '3'
     started_reading: null
     title: Romeo and Juliet
--   author: Anthony Burgess
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/227463.A_Clockwork_Orange
-    photo_url: https://images.gr-assets.com/books/1348339306m/227463.jpg
-    rating: '5'
-    started_reading: null
-    title: A Clockwork Orange

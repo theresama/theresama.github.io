@@ -5,6 +5,13 @@
     rating: '0'
     started_reading: Mon Mar 18 07:59:43 -0700 2019
     title: The Order of Time
+-   author: Richard H. Thaler
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/3450744-nudge
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '0'
+    started_reading: Tue Jun 18 10:23:34 -0700 2019
+    title: 'Nudge: Improving Decisions About Health, Wealth, and Happiness'
 -   author: Michael Lopp
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/31433313-managing-humans
@@ -26,13 +33,6 @@
     rating: '0'
     started_reading: Tue Oct 17 20:37:09 -0700 2017
     title: The Pale King
--   author: Søren Kierkegaard
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/19742521-fear-and-trembling
-    photo_url: https://images.gr-assets.com/books/1506306588m/19742521.jpg
-    rating: '0'
-    started_reading: Tue May 28 00:40:06 -0700 2019
-    title: Fear and Trembling
 -   author: Douglas Crockford
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/2998152-javascript

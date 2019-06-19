@@ -645,6 +645,13 @@
     rating: '5'
     started_reading: null
     title: Hamlet
+-   author: Søren Kierkegaard
+    finished_reading: Tue Jun 18 10:22:45 -0700 2019
+    goodreads_url: https://www.goodreads.com/book/show/19742521-fear-and-trembling
+    photo_url: https://images.gr-assets.com/books/1506306588m/19742521.jpg
+    rating: '4'
+    started_reading: Tue May 28 00:40:06 -0700 2019
+    title: Fear and Trembling
 -   author: Dr. Seuss
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/191139.Oh_The_Places_You_ll_Go_
@@ -1404,10 +1411,3 @@
     rating: '5'
     started_reading: null
     title: '1984'
--   author: Sylvia Plath
-    finished_reading: Tue May 08 22:34:16 -0700 2018
-    goodreads_url: https://www.goodreads.com/book/show/35069452-the-bell-jar
-    photo_url: https://images.gr-assets.com/books/1494006256m/35069452.jpg
-    rating: '3'
-    started_reading: Wed Apr 25 10:16:15 -0700 2018
-    title: The Bell Jar

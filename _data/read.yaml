@@ -12,6 +12,13 @@
     rating: '4'
     started_reading: Sat Mar 23 21:42:24 -0700 2019
     title: Project Management for the Unofficial Project Manager
+-   author: Tara Westover
+    finished_reading: Mon Jun 24 21:57:48 -0700 2019
+    goodreads_url: https://www.goodreads.com/book/show/35133922-educated
+    photo_url: https://images.gr-assets.com/books/1506026635m/35133922.jpg
+    rating: '5'
+    started_reading: Mon Jun 24 20:07:04 -0700 2019
+    title: Educated
 -   author: Michelle Obama
     finished_reading: Sun Mar 10 08:36:24 -0700 2019
     goodreads_url: https://www.goodreads.com/book/show/38746485-becoming
@@ -1404,10 +1411,3 @@
     rating: '4'
     started_reading: null
     title: Animal Farm
--   author: George Orwell
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/5470.1984
-    photo_url: https://images.gr-assets.com/books/1348990566m/5470.jpg
-    rating: '5'
-    started_reading: null
-    title: '1984'

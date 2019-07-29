@@ -19,6 +19,20 @@
     rating: '4'
     started_reading: Sat Mar 23 21:42:24 -0700 2019
     title: Project Management for the Unofficial Project Manager
+-   author: Carlo Rovelli
+    finished_reading: Sun Jul 28 16:28:20 -0700 2019
+    goodreads_url: https://www.goodreads.com/book/show/41150906-the-order-of-time
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534824772l/41150906._SX98_.jpg
+    rating: '4'
+    started_reading: Mon Mar 18 07:59:43 -0700 2019
+    title: The Order of Time
+-   author: Richard H. Thaler
+    finished_reading: Sun Jul 28 16:27:56 -0700 2019
+    goodreads_url: https://www.goodreads.com/book/show/3450744-nudge
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '4'
+    started_reading: Tue Jun 18 10:23:34 -0700 2019
+    title: 'Nudge: Improving Decisions About Health, Wealth, and Happiness'
 -   author: Tara Westover
     finished_reading: Mon Jun 24 21:57:48 -0700 2019
     goodreads_url: https://www.goodreads.com/book/show/35133922-educated
@@ -1397,17 +1411,3 @@
     rating: '3'
     started_reading: null
     title: The Scarlet Letter
--   author: Mary Wollstonecraft Shelley
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/18490.Frankenstein
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381512375l/18490._SX98_.jpg
-    rating: '4'
-    started_reading: null
-    title: Frankenstein
--   author: William Golding
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/7624.Lord_of_the_Flies
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409l/7624._SX98_.jpg
-    rating: '3'
-    started_reading: null
-    title: Lord of the Flies

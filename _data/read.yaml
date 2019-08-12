@@ -5,6 +5,13 @@
     rating: '2'
     started_reading: Mon Jul 22 19:24:51 -0700 2019
     title: Dear Evan Hansen
+-   author: Ta-Nehisi Coates
+    finished_reading: Mon Aug 12 00:21:48 -0700 2019
+    goodreads_url: https://www.goodreads.com/book/show/33916061-we-were-eight-years-in-power
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507903203l/33916061._SX98_.jpg
+    rating: '5'
+    started_reading: Sun Jul 28 16:34:07 -0700 2019
+    title: 'We Were Eight Years in Power: An American Tragedy'
 -   author: James Clear
     finished_reading: Thu Jun 13 01:14:36 -0700 2019
     goodreads_url: https://www.goodreads.com/book/show/40121378-atomic-habits
@@ -1404,10 +1411,3 @@
     rating: '3'
     started_reading: null
     title: The Odyssey
--   author: Nathaniel Hawthorne
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/12296.The_Scarlet_Letter
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404810944l/12296._SX98_.jpg
-    rating: '3'
-    started_reading: null
-    title: The Scarlet Letter

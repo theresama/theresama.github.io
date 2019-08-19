@@ -5,6 +5,13 @@
     rating: '5'
     started_reading: Mon Aug 12 00:22:45 -0700 2019
     title: 'Call Me By Your Name (Call Me By Your Name, #1)'
+-   author: Ta-Nehisi Coates
+    finished_reading: Sun Aug 18 14:51:09 -0700 2019
+    goodreads_url: https://www.goodreads.com/book/show/25489625-between-the-world-and-me
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451435027l/25489625._SX98_.jpg
+    rating: '4'
+    started_reading: Thu Aug 15 19:57:30 -0700 2019
+    title: Between the World and Me
 -   author: Val Emmich
     finished_reading: Mon Jul 22 23:34:05 -0700 2019
     goodreads_url: https://www.goodreads.com/book/show/39088507-dear-evan-hansen
@@ -1365,7 +1372,7 @@
 -   author: J.R.R. Tolkien
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547450792l/33._SX98_.jpg
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566155471l/33._SX98_.jpg
     rating: '5'
     started_reading: null
     title: 'The Lord of the Rings (The Lord of the Rings, #1-3)'
@@ -1404,10 +1411,3 @@
     rating: '5'
     started_reading: null
     title: Brave New World
--   author: Oscar Wilde
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546103428l/5297._SX98_.jpg
-    rating: '5'
-    started_reading: null
-    title: The Picture of Dorian Gray

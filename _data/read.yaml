@@ -317,6 +317,13 @@
     rating: '2'
     started_reading: Mon Feb 05 12:23:40 -0800 2018
     title: '12 Rules for Life: An Antidote to Chaos'
+-   author: David Foster Wallace
+    finished_reading: Fri Dec 13 00:39:24 -0800 2019
+    goodreads_url: https://www.goodreads.com/book/show/7974183-everything-and-more
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '4'
+    started_reading: Mon Nov 04 21:45:16 -0800 2019
+    title: 'Everything and More: A Compact History of Infinity'
 -   author: C.S. Lewis
     finished_reading: Fri Jan 12 21:50:38 -0800 2018
     goodreads_url: https://www.goodreads.com/book/show/17383917-the-screwtape-letters
@@ -1404,10 +1411,3 @@
     rating: '4'
     started_reading: null
     title: The Book Thief
--   author: Ayn Rand
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/662.Atlas_Shrugged
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405868167l/662._SX98_.jpg
-    rating: '4'
-    started_reading: null
-    title: Atlas Shrugged

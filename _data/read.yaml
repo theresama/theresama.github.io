@@ -5,6 +5,14 @@
     rating: '4'
     started_reading: null
     title: oh no
+-   author: Ali Wong
+    finished_reading: Mon Dec 30 20:56:15 -0800 2019
+    goodreads_url: https://www.goodreads.com/book/show/44641310-dear-girls
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '4'
+    started_reading: Wed Dec 25 20:34:26 -0800 2019
+    title: 'Dear Girls: Intimate Tales, Untold Secrets, and Advice for Living Your
+        Best Life'
 -   author: Michael   Lewis
     finished_reading: Wed Dec 25 20:33:15 -0800 2019
     goodreads_url: https://www.goodreads.com/book/show/46266188-the-fifth-risk
@@ -1404,10 +1412,3 @@
     rating: '3'
     started_reading: null
     title: Looking for Alaska
--   author: Ned Vizzini
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/248704.It_s_Kind_of_a_Funny_Story
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420629730l/248704._SX98_.jpg
-    rating: '3'
-    started_reading: null
-    title: It's Kind of a Funny Story

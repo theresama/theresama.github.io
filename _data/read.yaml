@@ -289,6 +289,13 @@
     rating: '4'
     started_reading: Sat Mar 02 13:50:35 -0800 2019
     title: Notes from a Dead House
+-   author: Hanya Yanagihara
+    finished_reading: Thu Jan 09 00:59:33 -0800 2020
+    goodreads_url: https://www.goodreads.com/book/show/22822858-a-little-life
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446469353l/22822858._SX98_.jpg
+    rating: '5'
+    started_reading: Wed Jan 01 12:31:51 -0800 2020
+    title: A Little Life
 -   author: John Carreyrou
     finished_reading: Sun Jul 29 18:34:42 -0700 2018
     goodreads_url: https://www.goodreads.com/book/show/37976541-bad-blood
@@ -1405,10 +1412,3 @@
     rating: '5'
     started_reading: null
     title: 'The Dark Tower (The Dark Tower, #7)'
--   author: Stephen Chbosky
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520093244l/22628._SX98_.jpg
-    rating: '4'
-    started_reading: null
-    title: The Perks of Being a Wallflower

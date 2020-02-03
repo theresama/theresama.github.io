@@ -416,6 +416,13 @@
     rating: '5'
     started_reading: Sun May 13 15:43:55 -0700 2018
     title: Cannery Row
+-   author: Timothy J. Keller
+    finished_reading: Sun Feb 02 23:13:26 -0800 2020
+    goodreads_url: https://www.goodreads.com/book/show/1858013.The_Reason_for_God
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '5'
+    started_reading: Sun Jan 26 15:37:07 -0800 2020
+    title: 'The Reason for God: Belief in an Age of Skepticism'
 -   author: C.S. Lewis
     finished_reading: Mon Dec 18 21:19:08 -0800 2017
     goodreads_url: https://www.goodreads.com/book/show/11137.Mere_Christianity
@@ -1334,7 +1341,7 @@
     photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1164045516l/3590._SX98_.jpg
     rating: '4'
     started_reading: null
-    title: 'The Adventures of Sherlock Holmes (Sherlock Holmes, #3)'
+    title: The Adventures of Sherlock Holmes
 -   author: H.G. Wells
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/2493.The_Time_Machine
@@ -1405,10 +1412,3 @@
     rating: '5'
     started_reading: null
     title: Watchmen
--   author: Stephen King
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/5091.The_Dark_Tower
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372296329l/5091._SY160_.jpg
-    rating: '5'
-    started_reading: null
-    title: 'The Dark Tower (The Dark Tower, #7)'

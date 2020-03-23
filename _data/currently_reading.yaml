@@ -40,6 +40,13 @@
     rating: '0'
     started_reading: Tue Oct 17 20:37:09 -0700 2017
     title: The Pale King
+-   author: David Foster Wallace
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/6759.Infinite_Jest
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446876799l/6759._SX98_.jpg
+    rating: '0'
+    started_reading: Sun Mar 22 20:00:11 -0700 2020
+    title: Infinite Jest
 -   author: Douglas Crockford
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/2998152-javascript

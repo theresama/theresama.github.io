@@ -54,6 +54,13 @@
     rating: '0'
     started_reading: Sun Mar 22 20:00:11 -0700 2020
     title: Infinite Jest
+-   author: Thomas Piketty
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '0'
+    started_reading: Fri May 29 22:18:01 -0700 2020
+    title: Capital in the Twenty-First Century
 -   author: Douglas Crockford
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/2998152-javascript

@@ -5,6 +5,13 @@
     rating: '4'
     started_reading: Wed Jun 24 00:32:05 -0700 2020
     title: So You Want to Talk About Race
+-   author: Ibram X. Kendi
+    finished_reading: Sat Jul 04 17:26:29 -0700 2020
+    goodreads_url: https://www.goodreads.com/book/show/40265832-how-to-be-an-antiracist
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560163756l/40265832._SX98_.jpg
+    rating: '4'
+    started_reading: Sun Jun 28 13:45:39 -0700 2020
+    title: How to Be an Antiracist
 -   author: F.C. Yee
     finished_reading: Sat May 23 15:39:45 -0700 2020
     goodreads_url: https://www.goodreads.com/book/show/41104164-the-rise-of-kyoshi
@@ -1405,10 +1412,3 @@
     rating: '3'
     started_reading: null
     title: The Anatomy of Wings
--   author: Kurt Vonnegut Jr.
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/135479.Cat_s_Cradle
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867150l/135479._SX98_.jpg
-    rating: '3'
-    started_reading: null
-    title: Cat's Cradle

@@ -62,6 +62,13 @@
     rating: '5'
     started_reading: Fri Feb 21 00:00:00 -0800 2020
     title: 'How to Write an Autobiographical Novel: Essays'
+-   author: Margaret Atwood
+    finished_reading: Sat Nov 21 15:31:52 -0800 2020
+    goodreads_url: https://www.goodreads.com/book/show/42975172-the-testaments
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549292344l/42975172._SX98_.jpg
+    rating: '4'
+    started_reading: Sat Nov 14 08:01:24 -0800 2020
+    title: 'The Testaments (The Handmaid''s Tale, #2)'
 -   author: F. Scott Fitzgerald
     finished_reading: Tue Dec 31 23:38:40 -0800 2019
     goodreads_url: https://www.goodreads.com/book/show/6887702-flappers-and-philosophers
@@ -1407,10 +1414,3 @@
     rating: '4'
     started_reading: null
     title: Heart-Shaped Box
--   author: Arthur Conan Doyle
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1164045516l/3590._SX98_.jpg
-    rating: '4'
-    started_reading: null
-    title: 'The Adventures of Sherlock Holmes (Sherlock Holmes, #3)'

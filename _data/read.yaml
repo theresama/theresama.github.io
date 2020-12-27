@@ -1,3 +1,10 @@
+-   author: Dan Jurafsky
+    finished_reading: null
+    goodreads_url: https://www.goodreads.com/book/show/20663705-the-language-of-food
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400088560l/20663705._SX98_.jpg
+    rating: '0'
+    started_reading: null
+    title: 'The Language of Food: A Linguist Reads the Menu'
 -   author: David Chang
     finished_reading: Mon Dec 21 21:24:49 -0800 2020
     goodreads_url: https://www.goodreads.com/book/show/51700803-eat-a-peach
@@ -69,6 +76,13 @@
     rating: '5'
     started_reading: Fri Feb 21 00:00:00 -0800 2020
     title: 'How to Write an Autobiographical Novel: Essays'
+-   author: Anna Wiener
+    finished_reading: Sun Dec 27 01:35:24 -0800 2020
+    goodreads_url: https://www.goodreads.com/book/show/45186565-uncanny-valley
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559568004l/45186565._SX98_.jpg
+    rating: '4'
+    started_reading: Mon Dec 21 21:29:57 -0800 2020
+    title: Uncanny Valley
 -   author: Margaret Atwood
     finished_reading: Sat Nov 21 15:31:52 -0800 2020
     goodreads_url: https://www.goodreads.com/book/show/42975172-the-testaments
@@ -1400,17 +1414,3 @@
     rating: '2'
     started_reading: null
     title: The Sun Also Rises
--   author: Vladimir Nabokov
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/7604.Lolita
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377l/7604._SX98_.jpg
-    rating: '4'
-    started_reading: null
-    title: Lolita
--   author: Harper Lee
-    finished_reading: Thu Dec 21 22:11:55 -0800 2017
-    goodreads_url: https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657._SX98_.jpg
-    rating: '4'
-    started_reading: Mon Dec 18 21:41:09 -0800 2017
-    title: To Kill a Mockingbird

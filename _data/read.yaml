@@ -69,6 +69,13 @@
     rating: '5'
     started_reading: Sat Jul 04 17:32:48 -0700 2020
     title: The Fire Next Time
+-   author: Angela Y. Davis
+    finished_reading: Thu Dec 31 20:54:43 -0800 2020
+    goodreads_url: https://www.goodreads.com/book/show/108428.Are_Prisons_Obsolete_
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320521835l/108428._SX98_.jpg
+    rating: '4'
+    started_reading: Thu Dec 31 10:22:21 -0800 2020
+    title: Are Prisons Obsolete?
 -   author: Ijeoma Oluo
     finished_reading: Sun Jun 28 01:11:58 -0700 2020
     goodreads_url: https://www.goodreads.com/book/show/41717572-so-you-want-to-talk-about-race
@@ -1407,10 +1414,3 @@
     rating: '5'
     started_reading: null
     title: Slaughterhouse-Five
--   author: Antoine de Saint-Exupéry
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/157993.The_Little_Prince
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993._SX98_.jpg
-    rating: '5'
-    started_reading: null
-    title: The Little Prince

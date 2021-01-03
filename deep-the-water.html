@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html style="height: 100vh">
   <head>
-    <title>theresa ma | deep the water</title>
+    <title>deep the water</title>
     <meta charset="utf-8" />
     <meta name="description" content="2020 photo essay" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="./assets/images/deep-the-water/favicon-wave-32x32.png"
+    />
 
     <script>
       (function (i, s, o, g, r, a, m) {
@@ -33,9 +38,10 @@
       * {
         box-sizing: border-box;
       }
+
       img {
         scroll-snap-align: center;
-        margin: 1px;
+        margin: 2px;
         max-height: 75vh;
         width: auto;
         align-self: center;
@@ -45,9 +51,20 @@
           max-height: 40vh;
         }
       }
+      @media (prefers-color-scheme: dark) {
+        .background {
+          background-color: #0c2306;
+        }
+      }
+
+      @media (prefers-color-scheme: light) {
+        .background {
+          background-color: antiquewhite;
+        }
+      }
     </style>
   </head>
-  <body style="height: 100vh; margin: 0">
+  <body style="height: 100vh; margin: 0" class="background">
     <div
       style="
         display: grid;
@@ -57,16 +74,21 @@
         width: 100vw;
       "
     >
-      <div style="height: 100vh; display: flex; padding: 69px">
+      <div
+        id="you-are-the-love-warm-when-it-gets-colder"
+        style="height: 100vh; display: flex; padding: 69px"
+      >
         <img
+          id="losing-light-beneath-the-silent-sky"
           src="./assets/images/deep-the-water/wtf_01.png"
           tabindex="0"
-          alt="white orchids in golden light"
+          alt="white orchids in golden light (giving me grey notes, scream through the windows)"
           style="scroll-snap-align: start; scroll-margin-left: 50px"
           height="1273"
           width="955"
         />
         <img
+          id="where-do-you-go-why-do-you-leave?"
           src="./assets/images/deep-the-water/wtf_02.png"
           tabindex="0"
           alt="san francisco at dusk - south bay hills in distance"
@@ -74,6 +96,7 @@
           height="1273"
         />
         <img
+          id="when-theres-nothing-else"
           src="./assets/images/deep-the-water/wtf_03.png"
           tabindex="0"
           alt="van ness x market cross street in SF with crowd in street protesting the murder of George Floyd"
@@ -81,6 +104,7 @@
           height="1273"
         />
         <img
+          id="your-heart-weighs-down-on-my-shoulders"
           src="./assets/images/deep-the-water/wtf_04.png"
           tabindex="0"
           alt="skyline in Madrid  at twilight"
@@ -88,27 +112,44 @@
           height="1273"
         />
         <img
+          id="giving-me-grey-notes-scream-through-the-windows"
           src="./assets/images/deep-the-water/wtf_05.png"
+          tabindex="0"
+          alt="widowsill with a glass of water. sutro tower in the distance."
+          width="1010"
+          height="1273"
+        />
+        <img
+          id="and-your-eyes-wide-lose-me-at-sea"
+          src="./assets/images/deep-the-water/wtf_06.png"
           tabindex="0"
           alt="hills of marin headlands with winding road and ocean in the distance"
           width="1043"
           height="1273"
         />
         <img
-          src="./assets/images/deep-the-water/wtf_06.png"
+          id="and-your-words-make-a-fire-that-smolders"
+          src="./assets/images/deep-the-water/wtf_07.png"
           tabindex="0"
           alt="hot pink tree/very large bush in someone's front yard"
           width="955"
           height="1273"
         />
         <img
-          src="./assets/images/deep-the-water/wtf_07.png"
+          id="you-are-the-moon-pulling-tides-over-me"
+          src="./assets/images/deep-the-water/wtf_08.png"
           tabindex="0"
-          alt="a storefront sign for the 'Institute of Advancing Uncertainty'"
+          alt='a storefront sign for the "Institute of Advancing Uncertainty"'
           width="954"
           height="1273"
         />
       </div>
     </div>
+    <script>
+      console.log('"you are the love warm when it gets colder"');
+      console.log(
+        "https://open.spotify.com/track/7beFR63dbOjl8NQuNsmU8x?si=WMyj5PAWQFa6NibOLDnmNg"
+      );
+    </script>
   </body>
 </html>

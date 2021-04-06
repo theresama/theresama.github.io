@@ -13,6 +13,13 @@
     rating: '3'
     started_reading: Sat Mar 27 13:50:59 -0700 2021
     title: Detransition, Baby
+-   author: Brit Bennett
+    finished_reading: Mon Apr 05 20:56:19 -0700 2021
+    goodreads_url: https://www.goodreads.com/book/show/51791252-the-vanishing-half
+    photo_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+    rating: '5'
+    started_reading: Fri Apr 02 12:05:35 -0700 2021
+    title: The Vanishing Half
 -   author: Dan Jurafsky
     finished_reading: null
     goodreads_url: https://www.goodreads.com/book/show/20663705-the-language-of-food
@@ -1408,10 +1415,3 @@
     rating: '4'
     started_reading: null
     title: Transparent Things
--   author: Jack Kerouac
-    finished_reading: null
-    goodreads_url: https://www.goodreads.com/book/show/70401.On_the_Road
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413588576l/70401._SX98_.jpg
-    rating: '3'
-    started_reading: null
-    title: On the Road

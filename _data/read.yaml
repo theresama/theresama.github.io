@@ -5,6 +5,13 @@
     rating: '4'
     started_reading: null
     title: A Promised Land
+-   author: Michelle Zauner
+    finished_reading: Sun May 09 20:02:48 -0700 2021
+    goodreads_url: https://www.goodreads.com/book/show/54814676-crying-in-h-mart
+    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601937850l/54814676._SX98_.jpg
+    rating: '4'
+    started_reading: Sat May 08 09:51:24 -0700 2021
+    title: Crying in H Mart
 -   author: Aldous Huxley
     finished_reading: Sun May 02 00:00:00 -0700 2021
     goodreads_url: https://www.goodreads.com/book/show/4492117-the-doors-of-perception-and-heaven-and-hell
@@ -1408,10 +1415,3 @@
     rating: '3'
     started_reading: null
     title: The Trial and Death of Socrates
--   author: Stephen King
-    finished_reading: Sun May 12 12:08:46 -0700 2013
-    goodreads_url: https://www.goodreads.com/book/show/12341557-the-wind-through-the-keyhole
-    photo_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328001524l/12341557._SX98_.jpg
-    rating: '4'
-    started_reading: Wed Dec 19 01:48:25 -0800 2012
-    title: 'The Wind Through the Keyhole (The Dark Tower, #4.5)'
